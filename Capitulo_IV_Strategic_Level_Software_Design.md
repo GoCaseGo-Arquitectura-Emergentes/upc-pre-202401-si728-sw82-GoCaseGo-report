@@ -189,11 +189,80 @@ Cuando alguno de los sensores colocados en los equipajes de los vehículos detec
 </div>
 
 ### 4.2.4. Bounded Context Canvases.
+
+#### Data Report and Analytics
+En este Canvas se obtendrá y analizará la información que devuelva los dispositivos Iot, ya sean las balanzas inteligentes, sensores. Este Bounded Context estará relacionado con los Bounded Context Iot Asset Management y Notification Management.
+<div align="center">
+  <img src="./Resources/canvases/data.png" alt="data" />
+</div>
+
+#### IoT Asset Management
+La siguiente imagen corresponde al IoT Asset Management Bounded Context Canvas. Se puede observar que la información proporcionada de los dispositivos Iot se envía al Bounded Context de Notification Management.
+<div align="center">
+  <img src="./Resources/canvases/iot.png" alt="iot" />
+</div>
+
+#### Identity And Access Management
+En el siguiente Canvas, describe la comunicación que usaremos con los sistemas externos de autenticación para el registro e ingreso de los usuarios a nuestras aplicaciones web y móvil. Este Bounded Context estará relacionado con los Bounded Context Profile Management y Notification Management.
+<div align="center">
+  <img src="./Resources/canvases/identity.png" alt="identity" />
+</div>
+
+#### Subscription and payments
+La siguiente imagen corresponde al Subscription and payments Context Canvas. Este gestiona la información de la compra de las subscripciones de las agencias en la aplicación web.
+<div align="center">
+  <img src="./Resources/canvases/subscription.png" alt="subscription" />
+</div>
+
+#### Notification Management
+En este Bounded Context Canvas, se puede visualizar la comunicación que tendrá con la mayoría de Bounded Context. Este estará encargado de enviar mensajes de alertas, correos, notificaciones a los usuarios sobre los cambios de estados de reservas, paquetes turísticos, recomendaciones climáticas, entre otros.
+<div align="center">
+  <img src="./Resources/canvases/notification.png" alt="notification" />
+</div>
+
+#### Profile Management
+El siguiente Profile Management Bounded Context Canvas describe la gestión de información de perfil de los usuarios. Esto no solamente abarca los datos comunes de la cuenta, sino también las configuraciones de preferencias relacionadas con las notificaciones de las aplicaciones.
+<div align="center">
+  <img src="./Resources/canvases/profile.png" alt="profile" />
+</div>
+
+#### Transport Management
+La siguiente imagen corresponde al Transport Bounded Context Canvas. Se puede observar a través de la aplicación web, las agencias de viaje podrán publicar los vehículos y gestionar su información al asignarlos a cada paquete turístico.
+<div align="center">
+  <img src="./Resources/canvases/transport.png" alt="Transport" />
+</div>
+
 ### 4.2.5. Context Mapping.
+Después de obtener cuáles serían nuestros Bounded Contexts, se realizó la elaboración de las relaciones estructurales entre estos. Para ello, se tomó en cuenta posibles diseños candidatos para el Context Mapping, el cual se desarrolló considerando los patrones de relaciones entre Bounden Contexts establecidos en Domain-Driven Desgin, como Conformist, Customer/Supplier, Partnership o Shared Kernel. Se utilizó la herramienta online DomoRoboto para elaborar el Context Mapping de la siguiente imagen:
+<div align="center">
+  <img src="./Resources/context-mapping/context.png" alt="context" />
+</div>
+
 ## 4.3. Software Architecture.
 ### 4.3.1. Software Architecture System Landscape Diagram.
+Se realizó un System Landscape Diagram con el objetivo de visualizar una relación general entre el sistema interno, externos y los usuarios.
+<div align="center">
+  <img src="./Resources/c4-model/landscape.png" alt="landscape" />
+</div>
+
 ### 4.3.1. Software Architecture Context Level Diagrams.
+Se realizó el primer nivel de Software Architecture, System Context en la herramienta Structurizr como se muestra en la siguiente imagen.
+<div align="center">
+  <img src="./Resources/c4-model/context.png" alt="context" />
+</div>
+
 ### 4.3.2. Software Architecture Container Level Diagrams.
+Se realizó el segundo nivel de Software Architecture, Container, en la herramienta Structurizr como se muestra en la siguiente imagen.
+<div align="center">
+  <img src="./Resources/c4-model/container.png" alt="container" />
+</div>
+
 ### 4.3.3. Software Architecture Deployment Diagrams.
+Los diagramas de despliegue de software representan cómo los componentes de un sistema interactúan con la infraestructura. Son esenciales para la planificación y la gestión de sistemas de software. Por ello, se elaboró este diagrama como muestra la siguiente imagen.
+<div align="center">
+  <img src="./Resources/c4-model/deployment.png" alt="deployment" />
+</div>
+
+Link de Structurizr: https://structurizr.com/share/90706 
 
 </div>
