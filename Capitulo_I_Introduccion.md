@@ -130,6 +130,10 @@ Aumentar la satisfacción del usuario en al menos un 25% esto debido a la seguri
     + <strong>Creemos que</strong> al integrar dispositivos IoT, como balanzas inteligentes y sensores de impacto, en la infraestructura de las agencias de tours, mejorará su capacidad para cumplir con los límites de peso establecidos, garantizar la seguridad del vehículo y los pasajeros, y cumplir con las regulaciones de transporte. <strong>Sabremos que esto es cierto</strong> cuando las agencias que utilicen nuestra tecnología informen una reducción del 50% en los incidentes relacionados con el equipaje durante los tours.
 
     + <strong>Creemos que</strong> al establecer una comunicación eficaz y bidireccional, cerraremos la brecha de comunicación y mejoraremos las experiencias de viaje para los turistas. <strong>Sabremos que esto es cierto</strong> cuando registremos un aumento del 50% en la cantidad de agencias que utilizan nuestra plataforma para gestionar sus operaciones y una mejora del 25% en la satisfacción del cliente reportada por las agencias.
+* **What is the most important thing we need to learn first?** <br> Necesitamos comprender el proceso actual de gestión de equipaje en las agencias de tours y las necesidades específicas de los turistas en cuanto a seguridad y comodidad durante el viaje.
+* **What is the least amount of work we need to do to learn the most important thing?** <br> 
+    + Realizar entrevistas con agencias de tours para comprender sus procesos y desafíos actuales.
+    + Analizar las tecnologías IoT disponibles y su aplicabilidad en la gestión de equipaje para el sector turístico.
 
 ## 1.3. Segmentos objetivo.
 **Agencias de viaje** <br>
