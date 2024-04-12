@@ -118,11 +118,11 @@ La siguiente sección enumera los escenarios priorizados para los quality attrib
 | Business Goals | Satisfacción del cliente, funcionalidad principal |
 | Relevant Quality Attribute | Fiabilidad y Desempeño |
 | Scenario Components | Stimulus: Monitorización del peso del equipaje en tiempo real |
-| Stimulus Source: Plataforma de Gestión |
-| Environment: Durante el viaje |
-| Artifact (if known): Plataforma de Gestión |
-| Response: Actualización en tiempo real del peso del equipaje |
-| Response Measure: Actualización del peso del equipaje en menos de 1 segundo |
+| | Stimulus Source: Plataforma de Gestión |
+| | Environment: Durante el viaje |
+| | Artifact (if known): Plataforma de Gestión |
+| | Response: Actualización en tiempo real del peso del equipaje |
+| | Response Measure: Actualización del peso del equipaje en menos de 1 segundo |
 | Questions | ¿Cómo se garantiza la actualización en tiempo real del peso del equipaje? |
 | Issues | Retrasos en la actualización del peso del equipaje durante el viaje |
 
@@ -132,11 +132,11 @@ La siguiente sección enumera los escenarios priorizados para los quality attrib
 | Business Goals | Seguridad del equipaje, funcionalidad principal |
 | Relevant Quality Attribute | Seguridad y Fiabilidad |
 | Scenario Components | Stimulus: Exceso de peso detectado |
-| Stimulus Source: Plataforma de Gestión |
-| Environment: Durante el transporte del equipaje |
-| Artifact (if known): Plataforma de Gestión |
-| Response: Generación automática de alertas si el peso del equipaje excede los límites establecidos |
-| Response Measure: Generación de alertas en menos de 1 segundo |
+| | Stimulus Source: Plataforma de Gestión |
+| | Environment: Durante el transporte del equipaje |
+| | Artifact (if known): Plataforma de Gestión |
+| | Response: Generación automática de alertas si el peso del equipaje excede los límites establecidos |
+| | Response Measure: Generación de alertas en menos de 1 segundo |
 | Questions | ¿Cómo se garantiza la generación automática y oportuna de alertas en caso de exceso de peso del equipaje? |
 | Issues | Fallos en la generación automática de alertas cuando se excede el límite de peso del equipaje |
 
@@ -146,11 +146,11 @@ La siguiente sección enumera los escenarios priorizados para los quality attrib
 | Business Goals | Seguridad del equipaje, funcionalidad principal |
 | Relevant Quality Attribute | Seguridad y Fiabilidad |
 | Scenario Components | Stimulus: Movimientos bruscos detectados |
-| Stimulus Source: Sensores de Impacto y Vibración |
-| Environment: Durante el transporte del equipaje |
-| Artifact (if known): Plataforma de Gestión |
-| Response: Generación automática de alertas por movimientos bruscos o golpes en el equipaje |
-| Response Measure: Generación de alertas en menos de 1 segundo |
+| | Stimulus Source: Sensores de Impacto y Vibración |
+| | Environment: Durante el transporte del equipaje |
+| | Artifact (if known): Plataforma de Gestión |
+| | Response: Generación automática de alertas por movimientos bruscos o golpes en el equipaje |
+| | Response Measure: Generación de alertas en menos de 1 segundo |
 | Questions | ¿Cómo se garantiza la detección oportuna y precisa de movimientos bruscos o golpes en el equipaje durante el viaje? |
 
 | **Scenario Refinement for US07: Funcionalidad de Reorganización de Carga** | **Scenario 1** |
@@ -159,11 +159,11 @@ La siguiente sección enumera los escenarios priorizados para los quality attrib
 | Business Goals | Mejorar la seguridad y la eficiencia en la gestión del equipaje durante los tours. |
 | Relevant Quality Attribute | Fiabilidad |
 | Scenario Components | Stimulus: Recepción de alertas de exceso de peso. |
-| Stimulus Source: Plataforma de Gestión. |
-| Environment: Durante el viaje. |
-| Artifact (if known): Interfaz de usuario del conductor. |
-| Response: El conductor reorganiza la carga del vehículo según las alertas recibidas. |
-| Response Measure: Porcentaje de alertas que resultan en una reorganización de carga exitosa. |
+| | Stimulus Source: Plataforma de Gestión. |
+| | Environment: Durante el viaje. |
+| | Artifact (if known): Interfaz de usuario del conductor. |
+| | Response: El conductor reorganiza la carga del vehículo según las alertas recibidas. |
+| | Response Measure: Porcentaje de alertas que resultan en una reorganización de carga exitosa. |
 | Questions | ¿Qué acciones tomará el conductor al recibir una alerta de exceso de peso? |
 | Issues | Posibles problemas si las alertas no se entregan correctamente o si el conductor no puede reorganizar la carga a tiempo. |
 
@@ -173,11 +173,11 @@ La siguiente sección enumera los escenarios priorizados para los quality attrib
 | Business Goals | Garantizar la comodidad y la tranquilidad de los pasajeros durante el viaje. |
 | Relevant Quality Attribute | Usabilidad |
 | Scenario Components | Stimulus: Detección de anomalías o incidentes relacionados con el equipaje. |
-| Stimulus Source: Plataforma de Gestión. |
-| Environment: Durante el viaje. |
-| Artifact (if known): Aplicación de notificaciones. |
-| Response: El pasajero recibe una notificación clara y comprensible sobre el problema y las acciones tomadas. |
-| Response Measure: Porcentaje de notificaciones comprendidas por los pasajeros. |
+| | Stimulus Source: Plataforma de Gestión. |
+| | Environment: Durante el viaje. |
+| | Artifact (if known): Aplicación de notificaciones. |
+| | Response: El pasajero recibe una notificación clara y comprensible sobre el problema y las acciones tomadas. |
+| | Response Measure: Porcentaje de notificaciones comprendidas por los pasajeros. |
 | Questions | ¿Cómo se asegura la claridad y comprensión de las notificaciones por parte de los pasajeros? |
 | Issues | Posibles problemas si las notificaciones no se entregan o si no son comprensibles para los pasajeros. |
 
