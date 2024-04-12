@@ -92,6 +92,56 @@ Hemos identificado varios "bounded contexts" en nuestro proyecto para delimitar 
 Link de EventStorming: https://miro.com/app/board/uXjVKX3-eW8=/?share_link_id=683824060622
 
 ### 4.2.2. Candidate Context Discovery.
+Empleando la metodología de eventstorming con enfoque en la técnica de "start-with-simple", utilizamos la línea de tiempo para identificar posibles candidatos para nuestro contexto delimitado, los cuales son los siguientes:
+
+#### Profile management
+En este Bounded Context están los eventos y comandos relacionados a la gestión del perfil de nuestros dos tipos de usuarios: agencias de viajes y turistas. Asismismo, se encuentran los eventos de configuraciones generales de nuestras aplicaciones.
+<div align="center">
+  <img src="./Resources/candidate-context-discovery/profile.png" alt="profile" />
+</div>
+
+#### Identity and Access Management
+En el presente Bounded Context están los comandos que están relacionados a la gestión de la autenticación de los usuarios en nuestras aplicaciones web y móvil. En este se detalla que usaremos un sistema externo llamado Firebase Authentication para nuestras dos aplicaciones.
+<div align="center">
+  <img src="./Resources/candidate-context-discovery/identity.png" alt="identity" />
+</div>
+
+#### Iot Asset management
+Para este Bounded Context, nos enfocamos en crear los comandos que serán útiles para el mantenimiento de nuestros dispositivos Iot, tales como: Schock and Vibration Sensors and Smart Scales.
+<div align="center">
+  <img src="./Resources/candidate-context-discovery/iot.png" alt="iot" />
+</div>
+
+#### Notification management
+En este Bounded Context están esencialmente los eventos y comandos para la gestión de notificaciones, ya sea por correo o a los dispositivos móviles de nuestros usuarios.
+<div align="center">
+  <img src="./Resources/candidate-context-discovery/notification.png" alt="notification" />
+</div>
+
+#### Subscription and payments
+En este Bounded Context, se empleará un sistema externo de Pasarela de Pagos para realizar los pagos de las suscripciones y los paquetes turísticos seleccionados que deben abonarse. También, están los comandos para el mantenimiento de las subscripciones que los usuarios agencias de tours adquirirán.
+<div align="center">
+  <img src="./Resources/candidate-context-discovery/subscription.png" alt="subscription" />
+</div>
+
+#### Tour Package Management
+En el presente Bounded Context, los usuarios agencias de viaje podrán crear, modificar y eliminar los paquetes turísticos que asociarán a los vehículos.
+<div align="center">
+  <img src="./Resources/candidate-context-discovery/tour.png" alt="tour" />
+</div>
+
+#### Transportation Management
+En el presente Bounded Context, los usuarios agencias de viaje podrán crear, modificar y eliminar vehículos y asignarlos para cada tour registrado en la aplicación web. De igual manera, podrán visualizar la información de los transportes relacionada con el tour.
+<div align="center">
+  <img src="./Resources/candidate-context-discovery/transportation.png" alt="transportation" />
+</div>
+
+#### Data report and analytics
+El Bounded Context "Data Report and Analytics" desempeña un papel fundamental en el análisis y la interpretación de datos tales como las reasignaciones de vehículos por exceso de peso de equipaje, satisfacción de los turistas a los paquetes turísticos, reportes sobre la cantidad de anomalías del clima de los lugares de los tours, entre otros.
+<div align="center">
+  <img src="./Resources/candidate-context-discovery/data.png" alt="data" />
+</div>
+
 ### 4.2.3. Domain Message Flows Modeling.
 ### 4.2.4. Bounded Context Canvases.
 ### 4.2.5. Context Mapping.
