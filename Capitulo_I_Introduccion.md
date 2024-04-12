@@ -6,28 +6,28 @@ Nos dedicamos a mejorar la gestión del equipaje en las agencias que ofrecen tou
 ### 1.2.1 Antecedentes y problemática
 #### 5W's y 2H's ####
 
-#### What ####
++ **What** <br>
 Se implementará una plataforma de gestión de equipaje para agencias de tours con funcionalidad de reorganización de carga.
 
-#### Why ####
++ **Why** <br>
 La razón para implementar esta plataforma es abordar los desafíos relacionados con el manejo del equipaje en las agencias de tours, garantizando la seguridad y comodidad de los pasajeros, así como el cumplimiento de las regulaciones de transporte.
 
-#### Who ####
++ **Who** <br>
 El proyecto será liderado por el equipo de desarrollo de la startup EquipaTour, con el apoyo y la colaboración de agencias de tours y expertos en tecnología.
 
-#### When ####
++ **When** <br>
 El proyecto comenzará de inmediato, con un cronograma establecido para el desarrollo e implementación de la plataforma en un plazo determinado.
 
-#### Where ####
++ **Where** <br>
 La plataforma se implementará en las agencias de tours y los vehículos de transporte utilizados para los viajes turísticos, garantizando una gestión eficiente del equipaje en todo momento y lugar.
 
-#### How ####
++ **How** <br>
 La plataforma se desarrollará utilizando tecnología de balanzas inteligentes y sensores de impacto y vibración, permitiendo un seguimiento en tiempo real del equipaje y la capacidad de reorganizar la carga del vehículo si es necesario.
 
-#### How much ####
++ **How much** <br>
 El costo total del proyecto incluirá el desarrollo del software, la adquisición e instalación de las balanzas inteligentes y los sensores, así como los gastos relacionados con la capacitación y la integración de la plataforma en las agencias de tours.
 
-#### Enunciado del problema: ####
+#### Enunciado del problema:
 EquipaTour aborda una problemática en la industria turística: la gestión ineficiente del equipaje por parte de las agencias de tours. Estas agencias de tours se enfrentan a desafíos vinculados con el manejo del equipaje de sus clientes, a la necesidad de cumplir con los límites de peso establecidos, a garantizar la seguridad de los pasajeros y del vehículo y a cumplir con las regulaciones de transporte. Esta falta de eficiencia puede afectar la experiencia de viaje de los turistas y generar preocupaciones en términos de comodidad y seguridad durante el recorrido.
 
 #### Solución: #### 
@@ -60,7 +60,77 @@ Vision/Strategy:
 Desarrollar una solución tecnológica que combine balanzas inteligentes, una plataforma de gestión y sensores de impacto y vibración, esto con la finalidad de optimizar la gestión del equipaje en las agencias de tours. Esta plataforma permitirá experiencias de viaje seguras garantizando la satisfacción de los turistas.
 
 #### 1.2.2.2. Lean UX Assumptions.
++ **Business Outcomes:**
+
+    + Incrementar la eficiencia en la gestión del equipaje en las agencias de tours.
+    + Aumentar el uso de dispositivos IoT con la finalidad de mejorar la seguridad del equipaje y la experiencia de los turistas.
+    + Lograr un aumento de al menos un 50% en la adquisición de nuestros servicios por parte de las agencias turísticas.
+    + Aumentar la satisfacción del usuario en al menos un 25% esto debido a la seguridad mejorada.
+
++ **Users:**
+
+    + Agencias turísticas que buscan mejorar la gestión del equipaje y la seguridad de sus clientes.
+
++ **User Outcomes:**
+
+    + Mejorar la seguridad del equipaje y la confianza del turista.
+    + Ofrecer a los turistas experiencias de viaje sin preocupaciones y personalizadas.
+
++ **Business Assumptions:**
+
+    + Creemos que nuestros clientes necesitan una solución tecnológica que mejore la gestión del equipaje y la seguridad del viaje.
+    + Estas necesidades se pueden resolver mediante una plataforma tecnológica que integre balanzas inteligentes y sensores de impacto y vibración.
+    + Nuestros clientes son agencias de tours pequeñas que buscan mejorar su eficiencia y seguridad.
+    + El valor principal que un cliente quiere obtener de nuestro servicio es una gestión de equipaje eficiente y una experiencia de viaje sin preocupaciones.
+    + Adquiriremos la mayoría de nuestros clientes mediante asociaciones con agencias de tours y haciendo uso de marketing digital.
+    + Ganaremos dinero ofreciendo planes de suscripción a agencias de tours y opciones de seguridad para turistas.
+    + Nuestra principal competencia en el mercado serán las soluciones tradicionales de gestión del equipaje y seguridad.
+    + Nuestro mayor riesgo de producto es la resistencia inicial de las agencias a adoptar una nueva plataforma.
+
++ **User Assumptions:**
+    + ¿Quién es el usuario?<br> Los usuarios son las agencias de tours que buscan una gestión eficiente del equipaje y una experiencia de viaje segura para sus clientes.
+    + ¿Dónde encaja nuestro producto en su trabajo o en su vida?<br> Nuestro producto se integra en la gestión del equipaje y la experiencia y seguridad del viaje.
+    + ¿Qué problemas resuelve nuestro producto?<br> Nuestro producto resuelve la falta de eficiencia en la gestión del equipaje.
+    + ¿Cuándo y cómo se utiliza nuestro producto?<br> El producto se utiliza desde la etapa de planificación hasta el viaje mismo, a través de la interacción con la plataforma y el uso de dispositivos IoT.
+    + ¿Qué características son importantes?<br> Características clave incluyen la gestión del equipaje en tiempo real, alertas de seguridad y acceso a información relevante para agencias de tours.
+    + ¿Cómo debe verse y comportarse nuestro producto?<br> El producto debe tener una interfaz intuitiva, ofrecer una experiencia de usuario fluida y proporcionar acceso fácil a información relevante para agencias de tours.
+
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+<strong>Creemos que</strong> al proporcionar a las agencias de tours una plataforma de gestión de equipaje combinada con tecnología IoT, aumentaremos la eficiencia en la gestión del equipaje y mejoraremos la seguridad del viaje para los turistas. <strong>Sabremos que es cierto</strong> cuando observemos un aumento del 50% en la adquisición de nuestra plataforma por parte de las agencias turísticas y cuando percibamos un incremento del 25% en la recomendación de la experiencia por parte de los usuarios.
+
+<strong>Creemos que</strong> al ofrecer a las agencias de tours una solución para la gestión del equipaje, incluyendo el seguimiento en tiempo real y la reorganización de la carga, brindaremos experiencias de viaje seguras y sin preocupaciones a sus clientes. <strong>Sabremos que lo habremos logrado</strong> cuando las agencias que utilicen nuestra plataforma y reporten una disminución del 50% en los problemas relacionados con el equipaje y un aumento del 25% en la satisfacción del cliente.
+
+<strong>Creemos que</strong> al integrar dispositivos IoT, como balanzas inteligentes y sensores de impacto, en la infraestructura de las agencias de tours, mejorará su capacidad para cumplir con los límites de peso establecidos, garantizar la seguridad del vehículo y los pasajeros, y cumplir con las regulaciones de transporte. <strong>Sabremos que esto es cierto</strong> cuando las agencias que utilicen nuestra tecnología informen una reducción del 50% en los incidentes relacionados con el equipaje durante los tours.
+
+<strong>Creemos que</strong> al establecer una comunicación eficaz y bidireccional, cerraremos la brecha de comunicación y mejoraremos las experiencias de viaje para los turistas. <strong>Sabremos que esto es cierto</strong> cuando registremos un aumento del 50% en la cantidad de agencias que utilizan nuestra plataforma para gestionar sus operaciones y una mejora del 25% en la satisfacción del cliente reportada por las agencias.
+
 #### 1.2.2.4. Lean UX Canvas.
+* **Business Problem:** <br> Las agencias de tours carecen de una herramienta eficiente para gestionar el equipaje de los turistas, lo que afecta la calidad de la experiencia de viaje y la seguridad del cliente.
+* **User & Customers:** <br> Nuestros usuarios son las agencias de viajes.
+* **Solution Ideas:**
+    + Desarrollar una plataforma de gestión de equipaje para agencias de tours, integrando tecnología IoT.
+    + Implementar balanzas inteligentes y sensores de impacto en las agencias de viaje para optimizar la gestión del equipaje.
+    + Proporcionar a las agencias de tours una herramienta para realizar un seguimiento en tiempo real del equipaje y reorganizar la carga si es necesario.
+* **Business Outcomes:**
+    + Incrementar la eficiencia en la gestión del equipaje en las agencias de tours.
+    + Aumentar el uso de dispositivos IoT con la finalidad de mejorar la seguridad del equipaje y la experiencia de los turistas.
+    + Lograr un aumento de al menos un 50% en la adquisición de nuestros servicios por parte de las agencias turísticas.
+Aumentar la satisfacción del usuario en al menos un 25% esto debido a la seguridad mejorada.
+* **User Benefits:**
+    + Experiencia de viaje más segura y cómoda para los turistas.
+    + Reducción del tiempo de espera y preocupaciones relacionadas con el equipaje.
+    + Acceso a un servicio de viaje seguro y de calidad.
+    + Mejora en la planificación y ejecución del itinerario de viaje por parte de las agencias.
+* **Hypothesis:**
+    + <strong>Creemos que</strong> al proporcionar a las agencias de tours una plataforma de gestión de equipaje combinada con tecnología IoT, aumentaremos la eficiencia en la gestión del equipaje y mejoraremos la seguridad del viaje para los turistas. <strong>Sabremos que es cierto</strong> cuando observemos un aumento del 50% en la adquisición de nuestra plataforma por parte de las agencias turísticas y cuando percibamos un incremento del 25% en la recomendación de la experiencia por parte de los usuarios.
+
+    + <strong>Creemos que</strong> al ofrecer a las agencias de tours una solución para la gestión del equipaje, incluyendo el seguimiento en tiempo real y la reorganización de la carga, brindaremos experiencias de viaje seguras y sin preocupaciones a sus clientes. <strong>Sabremos que lo habremos logrado</strong> cuando las agencias que utilicen nuestra plataforma y reporten una disminución del 50% en los problemas relacionados con el equipaje y un aumento del 25% en la satisfacción del cliente.
+
+    + <strong>Creemos que</strong> al integrar dispositivos IoT, como balanzas inteligentes y sensores de impacto, en la infraestructura de las agencias de tours, mejorará su capacidad para cumplir con los límites de peso establecidos, garantizar la seguridad del vehículo y los pasajeros, y cumplir con las regulaciones de transporte. <strong>Sabremos que esto es cierto</strong> cuando las agencias que utilicen nuestra tecnología informen una reducción del 50% en los incidentes relacionados con el equipaje durante los tours.
+
+    + <strong>Creemos que</strong> al establecer una comunicación eficaz y bidireccional, cerraremos la brecha de comunicación y mejoraremos las experiencias de viaje para los turistas. <strong>Sabremos que esto es cierto</strong> cuando registremos un aumento del 50% en la cantidad de agencias que utilizan nuestra plataforma para gestionar sus operaciones y una mejora del 25% en la satisfacción del cliente reportada por las agencias.
+
 ## 1.3. Segmentos objetivo.
+**Agencias de viaje** <br>
+Nos enfocamos en las agencias de viajes que tienen una mala gestión en los equipos de sus clientes.
