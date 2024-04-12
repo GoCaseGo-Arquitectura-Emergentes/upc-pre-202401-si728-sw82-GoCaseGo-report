@@ -143,6 +143,51 @@ El Bounded Context "Data Report and Analytics" desempeña un papel fundamental e
 </div>
 
 ### 4.2.3. Domain Message Flows Modeling.
+Durante este procedimiento, se detectaron los participantes, mensajes que se comparten y se delinean en las corrientes de información que enlazan estos componentes.
+
+#### Scenario: Registering in the app
+En el siguiente flujo se muestra cómo nuestros usuarios, tanto turistas como agencias, pueden registrarse en nuestra aplicación. Primero, pasarán por nuestro aplicación web, que registrará los datos requeridos en un sistema externo, respectivamente. Finalmente, recibirán una notificación a través del correo electrónico.
+<div align="center">
+  <img src="./Resources/domain-message-flow/scenario1.png" alt="scenario1" />
+</div>
+
+#### Scenario: Register a tour package
+En este escenario, la agencia registra un paquete turístico, y nuestro sistema se encarga de almacenarlo en la base de datos con un ID para facilitar su identificación en el futuro de manera sencilla.
+
+<div align="center">
+  <img src="./Resources/domain-message-flow/scenario2.png" alt="scenario2" />
+</div>
+
+#### Scenario: Pay a Subscription
+En este escenario, las agencias utilizan nuestra aplicación web para suscribirse a uno de nuestros planes. Cuando desean realizar el pago, nuestro sistema consulta el estado del mismo a través de un sistema externo. Una vez confirmado el pago, se asigna la suscripción a su cuenta. Además, se notificará a la agencia sobre el estado final de la compra.
+<div align="center">
+  <img src="./Resources/domain-message-flow/scenario3.png" alt="scenario3" />
+</div>
+
+#### Scenario: Register a Vehicle
+En este escenario, las agencias registran un medio de transporte utilizando nuestra aplicación web. El sistema se encarga de realizar las asignaciones correspondientes, lo que permite una gestión eficiente de los recursos de transporte disponibles para satisfacer las necesidades de los viajes turísticos.
+<div align="center">
+  <img src="./Resources/domain-message-flow/scenario4.png" alt="scenario4" />
+</div>
+
+#### Scenario: Assign a vehicle for a Tour Package
+En este escenario, se describe el proceso en el cual las agencias de viaje, utilizando nuestra aplicación web, asignan un medio de transporte, previamente registrado, a un paquete turístico. Esta asignación facilita la planificación y organización de los viajes, garantizando que el sistema tenga la información de los vehículos asignados y se pueda reorganizar.
+<div align="center">
+  <img src="./Resources/domain-message-flow/scenario5.png" alt="scenario5" />
+</div>
+
+#### Scenario: Reassign a vehicle for excess weight limit
+En este escenario, se muestra el flujo cuando a través de nuestros dispositivos IoT se detecta un exceso de peso que supera el límite permitido para el vehículo asignado. Después de esta detección, se notifica a la agencia mediante nuestra aplicación web, y finalmente se procede a la reasignación de un vehículo de transporte para ese paquete turístico.
+<div align="center">
+  <img src="./Resources/domain-message-flow/scenario6.png" alt="scenario6" />
+</div>
+
+#### Scenario: Notify shock and vibration alert
+Cuando alguno de los sensores colocados en los equipajes de los vehículos detecta una anomalía, ya sea impacto o mucha vibración, se envía una alerta a la agencia.
+<div align="center">
+  <img src="./Resources/domain-message-flow/scenario7.png" alt="scenario7" />
+</div>
+
 ### 4.2.4. Bounded Context Canvases.
 ### 4.2.5. Context Mapping.
 ## 4.3. Software Architecture.
