@@ -6,7 +6,7 @@
   <li><a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Student_Outcome.md">Student Outcome</a></li>
   <li><a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/Capitulo_I_Introduccion/Capitulo_I_Introduccion.md">Capítulo I: Introducción</a></li>
   <li><a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Capitulo_II_Requirements_Elicitation_And_Analysis/Capitulo_II_Requirements_Elicitation_And_Analysis.md">Capítulo II: Requirements Elicitation & Analysis</a></li>
-  <li><a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Capitulo_III_Requirements_Specification/Capitulo_III_Requirements_Specification.md">Capítulo III: Requirements Specification</a></li>
+  <li><a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Capitulo_III_Requirements_Specification.md">Capítulo III: Requirements Specification</a></li>
   <li><a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Capitulo_IV_Strategic_Level_Software_Design.md">Capítulo IV: Solution Software Design</a></li>
 
   <li><a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Conclusiones.md">Conclusiones</a></li>
