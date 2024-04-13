@@ -19,6 +19,13 @@ Actualmente tengo 22 años. Soy estudiante de la carrera de Ingeniería de Softw
   <img style="height:250px" src="./Resources/members/Erik.jpg" alt="Erik Romero" />
 </div>
 
+#### Djalma Santos Dioses Molina - u21921405
+Actualmente tengo 22 añosy estoy cursando la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Posee conocimientos en multiples lenguajes de programación como: Java, JavaScript, TypeScript, C#, C++, Phyton, SQL, PHP, y poseo conocimientos de multiples frameworks. Me considero una persona colaborativa, respetuosa y me gusta trabajar en grupo.
+
+<div align="center">
+  <img style="height:200px" src="./Resources/members/djalma_dioses.png" alt="Image of Djalma Dioses" />
+</div>
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 #### 5W's y 2H's ####
