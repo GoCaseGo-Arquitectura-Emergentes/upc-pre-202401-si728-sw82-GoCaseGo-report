@@ -213,39 +213,62 @@ El propósito que se tiene es profundizar el conocimiento de nuestros segmentos 
 
 ### 2.2.2. Registro de entrevistas
 
-| Entrevista #1 |     |
-| --- | --- |
-| Nombre | Yamile |
-| Apellido | Gaona |
-| Edad | 21  |
-| Distrito | Callao |
+| Entrevista #1       |     |
+|---------------------| --- |
+| Nombre              | Yamile |
+| Apellido            | Gaona |
+| Edad                | 21  |
+| Distrito            | Callao |
 | Aplicaciones Usadas | Instagram, Facebook, Twitter, WhatsApp, Tiktok |
-| Tecnologías | Smartphone Android, Laptop Windows |
-| Browsers | Google Chrome, Opera |
-| Evidencia | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/Gaona.jpg)  |
-| Link | [Entrevista - Gaona.mp4](https://1drv.ms/v/s!As4dqaNpPpTlk12hhWFnelwUDo0C?e=cXTmQr) |
-| Duración | 00:00 min – 04:49 min |
-| Resumen | La entrevista con Yamile Gaona, residente de 21 años en Callao, reveló su experiencia laboral en una agencia de viajes. Utiliza activamente redes sociales y tecnología, como Instagram, Facebook, Twitter, WhatsApp, Tiktok, un smartphone Android y una laptop Windows. Yamile, en su rol dentro de la agencia, discutió sobre el proceso de reserva de alojamiento y transporte, así como los desafíos comunes relacionados con el equipaje de los clientes. La agencia utiliza estratégicamente las redes sociales para el marketing y prefiere promocionar sus servicios a través de su propio sitio web en lugar de colaborar con agencias en línea. Finalmente, expresó interés en una aplicación que facilite la gestión del equipaje de manera más detallada, lo que sugiere una oportunidad para mejorar la experiencia del cliente y la eficiencia operativa dentro de la agencia de viajes. |
+| Tecnologías         | Smartphone Android, Laptop Windows |
+| Browsers            | Google Chrome, Opera |
+| Evidencia           | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/Gaona.jpg)  |
+| Link                | [Entrevista - Gaona.mp4](https://1drv.ms/v/s!As4dqaNpPpTlk12hhWFnelwUDo0C?e=cXTmQr) |
+| Duración            | 00:00 min – 04:49 min |
+| Resumen             | La entrevista con Yamile Gaona, residente de 21 años en Callao, reveló su experiencia laboral en una agencia de viajes. Utiliza activamente redes sociales y tecnología, como Instagram, Facebook, Twitter, WhatsApp, Tiktok, un smartphone Android y una laptop Windows. Yamile, en su rol dentro de la agencia, discutió sobre el proceso de reserva de alojamiento y transporte, así como los desafíos comunes relacionados con el equipaje de los clientes. La agencia utiliza estratégicamente las redes sociales para el marketing y prefiere promocionar sus servicios a través de su propio sitio web en lugar de colaborar con agencias en línea. Finalmente, expresó interés en una aplicación que facilite la gestión del equipaje de manera más detallada, lo que sugiere una oportunidad para mejorar la experiencia del cliente y la eficiencia operativa dentro de la agencia de viajes. |
 
 
 
-| Entrevista #2 |     |
-| --- | --- |
-| Nombre | Ryan |
-| Apellido | Sweden |
-| Edad | 21  |
-| Distrito | Cieneguilla |
+| Entrevista #2       |     |
+|---------------------| --- |
+| Nombre              | Ryan |
+| Apellido            | Sweden |
+| Edad                | 21  |
+| Distrito            | Cieneguilla |
 | Aplicaciones Usadas | Excel, WhatsApp y Facebook |
-| Tecnologías | Smartphone Android, Laptop Windows |
-| Browsers | Google Chrome |
-| Evidencia | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/Ryan.png)  |
-| Link | [Entrevista - Ryan.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921559_upc_edu_pe/EUvUx3Yg2TpAhq-XYHMI1T0BwGZC14RPschddxwXyjJ82g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZoZxpf) |
-| Duración | 00:00 min – 03:54 min |
-| Resumen | Ryan Sweden, de 21 años y asistente de agencia de tours en gestión de equipajes, destaca la utilización de herramientas como Excel, WhatsApp y Facebook para la gestión y promoción de servicios. Los clientes reservan alojamiento y transporte mediante su sitio web o llamando a la oficina, con atención a problemas menores como cambios en itinerarios. No han experimentado problemas significativos con equipajes. Utilizan redes sociales para marketing, colaboran con agencias online y ven útil una aplicación para mejorar la gestión de equipajes. Los clientes los contactan para viajes personalizados, con una percepción general positiva de sus servicios. Proyectan expansión y ofrecen opciones de seguro para proteger equipajes durante los viajes. |
+| Tecnologías         | Smartphone Android, Laptop Windows |
+| Browsers            | Google Chrome |
+| Evidencia           | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/Ryan.png)  |
+| Link                | [Entrevista - Ryan.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921559_upc_edu_pe/EUvUx3Yg2TpAhq-XYHMI1T0BwGZC14RPschddxwXyjJ82g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZoZxpf) |
+| Duración            | 00:00 min – 03:54 min |
+| Resumen             | Ryan Sweden, de 21 años y asistente de agencia de tours en gestión de equipajes, destaca la utilización de herramientas como Excel, WhatsApp y Facebook para la gestión y promoción de servicios. Los clientes reservan alojamiento y transporte mediante su sitio web o llamando a la oficina, con atención a problemas menores como cambios en itinerarios. No han experimentado problemas significativos con equipajes. Utilizan redes sociales para marketing, colaboran con agencias online y ven útil una aplicación para mejorar la gestión de equipajes. Los clientes los contactan para viajes personalizados, con una percepción general positiva de sus servicios. Proyectan expansión y ofrecen opciones de seguro para proteger equipajes durante los viajes. |
+
+
+| Entrevista #3       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Nombre              | Williams                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Apellido            | San Martin                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Edad                | 28                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Distrito            | Los Olivos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Aplicaciones Usadas | Instagram, Facebook, Twitter, WhatsApp, Tiktok                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Tecnologías         | Smartphone Android, Laptop Windows                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Browsers            | Google Chrome, Opera                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Evidencia           | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/williams.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                |
+| Link                | [Entrevista - Williams.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201810133_upc_edu_pe/EW5-tf_sPIFJm-1PhtB7k5wB5eDcHceWJyn2c4LUMGANtA?e=lKddlT)                                                                                                                                                                                                                                                                                                                                                                                             |
+| Duración            | 00:00 min – 03:04 min                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Resumen             | Williams San Martin, 28 años, personal de recepcion de equipaje de una agencia de turismo, la empresa en la que trabaja tiene un grabe problema de gestion de equipaje ya que ellos utilizan fotos y cuadernillos para la gestion de equipaje del turista. Esto ha llevado a tener problemas con sus clientes por que algunos de ellos pierden un identificador. O algunos de ellos reciben un equipaje equivocado. Menciona que le ayudaría mucho una aplicación que automatice algunos procesos y mejore la gestión de los equipaje con sus clientes. |
 
 
 ### 2.2.3. Análisis de entrevistas
-` Todos `
+
+A continuación, se presentarán algunos gráficos realizados en base a la información generada de las entrevistas
+
+![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/analisis-interviews/frecuency-travel.png)
+![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/analisis-interviews/luggage-problem.png)
+![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/analisis-interviews/useful-app.png)
+
+
+De acuerdo con los gráficos estadísticos, la mitad de las agencias de viajes entrevistadas presentan poca frecuencia respecto a la contratación de sus servicios, mientras que la otra mitad presenta una frecuencia alta. De la misma manera, el 50% de los procesos de reserva realizados se dan a través de una solicitud personalizada por parte de los clientes y, el otro 50% a través de la elección de paquetes ya armados. Asimismo, la mitad de los percances que han tenido con los clientes se han debido a la desinformación de estos últimos al momento de elegir su estadía, transporte, recorrido, entre otros; la otra mitad se debió a causa de un incumplimiento del pago para finalizar la compra. Finalmente, todos indicaron que gustarían de una aplicación que los ayude a gestionar los equipajes en las empresas.
 
 ## 2.3. Needfinding.
 
