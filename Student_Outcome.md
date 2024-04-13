@@ -44,6 +44,11 @@ del ABET – EAC - Student Outcome 3.
         <br>
         Durante nuestro proyecto hemos aplicado técnicas como el Impact Mapping y el desarrollo de User Stories. Estas metodologías nos han permitido comunicar de manera clara y objetiva los objetivos y avances del proyecto, facilitando su comprensión y participación activa en el desarrollo exitoso del proyecto.
         <br>       
+        <strong>Erikc Anderson Cortez Benites
+        <br>TB1</strong>
+        <br>
+        Durante el proyecto he realizados actividades realcionadas al needfinding. Esto con el proposito de entender como piensa el usuario. Con esto podemos concluir que va a necesitar y extraer lo que el necesita.
+        <br>   
     </td>
     <td>
     En resumen, la capacidad de comunicar de manera oral ideas y resultados objetivamente a un público variado en el campo de la ingeniería es fundamental y demuestra la flexibilidad y capacidad de adaptación del ingeniero. Esta habilidad es clave para fomentar la colaboración entre disciplinas, facilitar decisiones bien fundamentadas y garantizar una transmisión precisa de la información, aspectos todos ellos que son cruciales para el éxito de los proyectos de ingeniería y para alcanzar sus metas.
@@ -75,7 +80,12 @@ del ABET – EAC - Student Outcome 3.
         <strong>Jherico Fretd Solier Vargas
         <br>TB1</strong>
         <br>
-        En el contexto de nuestro proyecto hemos elaborado documentación que detalla las metodologías que hemos implementado. La cual está estructurada de manera clara y concisa, con el objetivo de ser accesible y comprensible para una audiencia variada. Así, garantizamos que todos puedan entender y valorar los objetivos, avances y resultados obtenidos en el desarrollo del proyecto
+        En el contexto de nuestro proyecto hemos elaborado documentación que detalla las metodologías que hemos implementado. La cual está estructurada de manera clara y concisa, con el objetivo de ser accesible y comprensible para una audiencia variada. Así, garantizamos que todos puedan entender y valorar los objetivos, avances y resultados obtenidos en el desarrollo del proyecto<br>
+        <strong>Erikc Anderson Cortez Benites
+        <br>TB1</strong>
+        <br>
+        Durante nuestro proyecto hemos utilizado herramientas de comunicación de manera constante esto para facilitar el desarrollo del documento. Estas metodologías nos han permitido comunicar de manera clara y objetiva los objetivos y avances del proyecto, facilitando su comprensión y participación activa en el desarrollo exitoso del proyecto.
+        <br>  
     </td>
     <td>
     En conclusión, la capacidad de expresar ideas y resultados de manera objetiva y oral a un público diverso en ingeniería es crucial, y demuestra la versatilidad y capacidad de adaptación del ingeniero. Este tipo de comunicación mejora la colaboración entre diferentes disciplinas, ayuda en la toma de decisiones basadas en información precisa y asegura la correcta transmisión de datos, contribuyendo así al éxito y cumplimiento de objetivos en los proyectos de ingeniería.
