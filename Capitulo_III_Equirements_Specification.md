@@ -1,8 +1,15 @@
-## 3.1. To-Be Scenario Mapping.
+<div align="justify">
 
-![](Resources/scenario-mapping/To_Be.png)
+
+## 3.1. To-Be Scenario Mapping.
+En esta sección, abordaremos el To-Be Scenario Mapping para nuestro segmento agencia de tours, donde describiremos cómo deben configurarse las experiencias durante cada fase. Este mapa representa una visión de cómo deberían evolucionar la gestión de los equipajes, maletas de cada tour a medida que se implementan cambios y mejoras en los procesos y sistemas. A continuación, se incluye una representación gráfica del mismo:
+
+<div align="center">
+  <img src="./Resources/scenario-mapping/To_Be.png" alt="scenario6" />
+</div>
 
 ## 3.2. User Stories.
+En esta sección, profundizaremos en la definición y elaboración de las User Stories relacionadas con nuestro proyecto. Las User Stories son una herramienta fundamental en el desarrollo de software y proyectos de diseño centrados en el usuario.
 
 ### Epics
 
@@ -17,19 +24,19 @@
     </thead>
     <tbody>
         <tr>
-            <td>E1</td>
+            <td>EP01</td>
             <td>Integración de Dispositivos IoT</td>
             <td>Integrar y configurar balanzas inteligentes y sensores de impacto y vibración en la plataforma.</td>
             <td>2</td>
         </tr>
         <tr>
-            <td>E2</td>
+            <td>EP02</td>
             <td>Análisis y Monitorización de Equipaje</td>
             <td>Analizar los datos recibidos de las balanzas y sensores para identificar situaciones de riesgo.</td>
             <td>3</td>
         </tr>
         <tr>
-            <td>E3</td>
+            <td>EP03</td>
             <td>Funcionalidades de Reorganización de Carga</td>
             <td>Implementar funcionalidades para la reorganización de la carga basada en las alertas recibidas.</td>
             <td>6</td>
@@ -38,6 +45,7 @@
 </table>
 
 ### User Stories
+En esta sección, profundizaremos en la definición y elaboración de las User Stories relacionadas con nuestro proyecto. Estas User Stories son una herramienta fundamental en el desarrollo de software y proyectos de diseño centrados en el usuario.
 
 <table>
     <thead>
@@ -138,10 +146,14 @@
 </table>
 
 ## 3.3. Impact Mapping.
+En esta sección, nuestro equipo presenta el Impact Mapping, el cual es una herramienta visual y colaborativa que ayuda a los equipos a alinear sus objetivos con los resultados deseados.
 
-![](Resources/scenario-mapping/Impact_Mapping.png)
+<div align="center">
+  <img src="./Resources/scenario-mapping/Impact_Mapping.png" alt="scenario6" />
+</div>
 
 ## 3.4. Product Backlog.
+En el Product Backlog presentaremos una lista priorizada de nuestras user stories según el nivel de prioridad que acordamos en el equipo, esencial para el enfoque ágil.
 
 <table>
     <thead>
@@ -240,3 +252,4 @@
         </tr>
     </tbody>
 </table>
+</div>
