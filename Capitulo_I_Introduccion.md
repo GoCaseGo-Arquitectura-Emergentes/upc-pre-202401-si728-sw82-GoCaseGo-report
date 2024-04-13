@@ -12,6 +12,13 @@ Actualmente tengo 21 años y curso la carrera de Ingeniería de Software en la U
   <img style="height:250px" src="./Resources/members/Nicole.jpg" alt="Nicole Price" />
 </div>
 
+#### Erik Romero Polli - u202019857
+Actualmente tengo 22 años. Soy estudiante de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Tengo conocimiento sobre el lenguaje de programación C + +, Python y JavaScript. Nivel avanzado del idioma inglés. Durante mis pasatiempos me encanta escuchar música, leer y jugar.
+
+<div align="center">
+  <img style="height:250px" src="./Resources/members/Erik.jpg" alt="Erik Romero" />
+</div>
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 #### 5W's y 2H's ####
