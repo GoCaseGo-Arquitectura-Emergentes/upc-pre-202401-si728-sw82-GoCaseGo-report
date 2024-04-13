@@ -69,7 +69,7 @@ Complementarias:
 | Aplicaciones Usadas | Excel, WhatsApp y Facebook |
 | Tecnologías | Smartphone Android, Laptop Windows |
 | Browsers | Google Chrome |
-| Evidencia | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/Ryan.jpg)  |
+| Evidencia | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/Ryan.png)  |
 | Link | [Entrevista - Ryan.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921559_upc_edu_pe/EUvUx3Yg2TpAhq-XYHMI1T0BwGZC14RPschddxwXyjJ82g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZoZxpf) |
 | Duración | 00:00 min – 03:54 min |
 | Resumen | Ryan Sweden, de 21 años y asistente de agencia de tours en gestión de equipajes, destaca la utilización de herramientas como Excel, WhatsApp y Facebook para la gestión y promoción de servicios. Los clientes reservan alojamiento y transporte mediante su sitio web o llamando a la oficina, con atención a problemas menores como cambios en itinerarios. No han experimentado problemas significativos con equipajes. Utilizan redes sociales para marketing, colaboran con agencias online y ven útil una aplicación para mejorar la gestión de equipajes. Los clientes los contactan para viajes personalizados, con una percepción general positiva de sus servicios. Proyectan expansión y ofrecen opciones de seguro para proteger equipajes durante los viajes. |
