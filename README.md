@@ -22,7 +22,7 @@ Ciclo: 2024-1
 #### Team Members 
 | Integrante                  | Código         |
 |---------------------------------|----------------|
-| Cortez Benites, Erikc Anderson    | u201810133     |
+| Cortez Benites, Erick Anderson    | u201810133     |
 | Dioses Molina, Djalma Santos  | u201921405     |
 | Price Torrejón, Nicole              | u201921559     |
 | Romero Polli, Erik     | u202019857     |

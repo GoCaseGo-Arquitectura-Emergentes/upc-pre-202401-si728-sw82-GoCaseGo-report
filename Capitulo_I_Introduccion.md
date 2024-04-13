@@ -9,7 +9,35 @@ Nos dedicamos a mejorar la gestión del equipaje en las agencias que ofrecen tou
 Actualmente tengo 21 años y curso la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Siempre, desde más joven, he estado interesado en la tecnología, y es por eso por lo que decidí estudiar esta carrera. Me gusta aprender nuevos frameworks, tecnologías e inteligencia artificial, y participar en Hackatons y StartUps para ampliar mi conocimiento.
 
 <div align="center">
-  <img style="height:250px" src="./Resources/members/Nicole.jpg" alt="Nicole Price" />
+  <img style="height:250px" src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/members/Nicole.jpg" alt="Nicole Price" />
+</div>
+
+#### Erik Romero Polli - u202019857
+Actualmente tengo 22 años. Soy estudiante de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Tengo conocimiento sobre el lenguaje de programación C + +, Python y JavaScript. Nivel avanzado del idioma inglés. Durante mis pasatiempos me encanta escuchar música, leer y jugar.
+
+<div align="center">
+  <img style="height:250px" src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/members/Erik.jpg" alt="Erik Romero" />
+</div>
+
+#### Jherico Fretd Solier Vargas - u201920431
+Tengo 21 años y soy estudiante de la carrera de Ingeniería de Software en UPC. Elegí esta carrera, porque me gusta mucho interactuar con dispositivos tecnológicos,  programas, sistemas operativos, etc; y porque me gustaría poder algún día ser parte de las personas que lo desarrollan.
+
+<div align="center">
+  <img style="height:250px" src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/members/Jherico.jpg" alt="Jherico Solier" />
+</div>
+
+#### Djalma Santos Dioses Molina - u21921405
+Actualmente tengo 22 años y estoy cursando la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Posee conocimientos en multiples lenguajes de programación como: Java, JavaScript, TypeScript, C#, C++, Phyton, SQL, PHP, y poseo conocimientos de multiples frameworks. Me considero una persona colaborativa, respetuosa y me gusta trabajar en grupo.
+
+<div align="center">
+  <img style="height:200px" src="./Resources/members/djalma_dioses.png" alt="Image of Djalma Dioses" />
+</div>
+
+#### Erikc Anderson Cortez Benites - u201810133
+Actualmente tengo 24 años. Soy un estudiante de la facultad de Ingeniería de software. Algunos de mis hobbies son leer, ir a correr, jugar videojuegos y practicar matemáticas. También, me gusta todo lo relacionado con la tecnología, los nuevos inventos e innovaciones que fueron acoplándose en nuestra vida rutinaria hasta ser imprescindibles. Las habilidades que ofrezco para esto proyecto son perseverancia y ánimos para mi equipo, además de brindar ideas y soluciones ágiles. Manejo herramientas para desarrollar páginas web como HTML y CSS, además de conocer lenguajes como C++, Java, Javascript, Python, Typescript y SQL.
+
+<div align="center">
+  <img style="height:250px" src="./Resources/members/Erikc.png" alt="Erikc Cortez" />
 </div>
 
 ## 1.2. Solution Profile
