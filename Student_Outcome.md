@@ -32,6 +32,8 @@ del ABET – EAC - Student Outcome 3.
         <strong>Djalma Santos Dioses Molina
         <br>TB1</strong>
         <br>
+        En este proyecto he implementado la Descripción de la Startu, definir cuales fueron los Antecedentes y la Problematica, Los puntos que incluye Lean UX Process y definir el Segmento Objetivo. Estas metodologias me permitieron comunicar con claridad, cual es la problematica con la finalidad de plantear una solucion adecuada y conocer nuestro segmento objetivo.
+        <br>
         <strong>Erik Romero Polli
         <br>TB1</strong>
         <br>
@@ -62,6 +64,8 @@ del ABET – EAC - Student Outcome 3.
         <br>
         <strong>Djalma Santos Dioses Molina
         <br>TB1</strong>
+        <br>
+        En el presente proyecto, he realizado detalladamente las metodologias de Lean UX Proccess, Antecedentes y Problematica y la definición de la StartUp. Todo el desarrollo realizado esta diseñado para ser entendido por ingenieros, técnicos hasta el publico en general.
         <br>
         <strong>Erik Romero Polli
         <br>TB1</strong>
