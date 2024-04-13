@@ -19,6 +19,13 @@ Actualmente tengo 22 años. Soy estudiante de la carrera de Ingeniería de Softw
   <img style="height:250px" src="./Resources/members/Erik.jpg" alt="Erik Romero" />
 </div>
 
+#### Jherico Fretd Solier Vargas - u201920431
+Tengo 21 años y soy estudiante de la carrera de Ingeniería de Software en UPC. Elegí esta carrera, porque me gusta mucho interactuar con dispositivos tecnológicos,  programas, sistemas operativos, etc; y porque me gustaría poder algún día ser parte de las personas que lo desarrollan.
+
+<div align="center">
+  <img style="height:250px" src="./Resources/members/Jherico.jpg" alt="Jherico Solier" />
+</div>
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 #### 5W's y 2H's ####
