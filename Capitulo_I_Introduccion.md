@@ -1,7 +1,24 @@
+<div align="justify">
+
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 Nos dedicamos a mejorar la gestión del equipaje en las agencias que ofrecen tours y priorizamos la seguridad y la comodidad de cada viajero. Estamos comprometidos en ofrecer soluciones innovadoras, respaldadas por tecnología IoT, haciendo uso de balanzas inteligentes y sensores de impacto. Nuestra misión consiste en simplificar las experiencia de viaje, con la finalidad de garantizar que cada pasajero disfrute de un transporte sin preocupaciones.
 ### 1.1.2. Perfiles de integrantes del equipo
+
+#### Nicole Areli Price Torrejón - u201921559
+Actualmente tengo 21 años y curso la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas. Siempre, desde más joven, he estado interesado en la tecnología, y es por eso por lo que decidí estudiar esta carrera. Me gusta aprender nuevos frameworks, tecnologías e inteligencia artificial, y participar en Hackatons y StartUps para ampliar mi conocimiento.
+
+<div align="center">
+  <img style="height:250px" src="./Resources/members/Nicole.jpg" alt="Nicole Price" />
+</div>
+
+#### Erik Romero Polli - u202019857
+Actualmente tengo 22 años. Soy estudiante de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas (UPC). Tengo conocimiento sobre el lenguaje de programación C + +, Python y JavaScript. Nivel avanzado del idioma inglés. Durante mis pasatiempos me encanta escuchar música, leer y jugar.
+
+<div align="center">
+  <img style="height:250px" src="./Resources/members/Erik.jpg" alt="Erik Romero" />
+</div>
+
 ## 1.2. Solution Profile
 ### 1.2.1 Antecedentes y problemática
 #### 5W's y 2H's ####
@@ -138,3 +155,5 @@ Aumentar la satisfacción del usuario en al menos un 25% esto debido a la seguri
 ## 1.3. Segmentos objetivo.
 **Agencias de viaje** <br>
 Nos enfocamos en las agencias de viajes que tienen una mala gestión en los equipos de sus clientes.
+
+</div>
