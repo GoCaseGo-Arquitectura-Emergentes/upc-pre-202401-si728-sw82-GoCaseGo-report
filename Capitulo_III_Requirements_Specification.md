@@ -5,7 +5,7 @@
 En esta sección, abordaremos el To-Be Scenario Mapping para nuestro segmento agencia de tours, donde describiremos cómo deben configurarse las experiencias durante cada fase. Este mapa representa una visión de cómo deberían evolucionar la gestión de los equipajes, maletas de cada tour a medida que se implementan cambios y mejoras en los procesos y sistemas. A continuación, se incluye una representación gráfica del mismo:
 
 <div align="center">
-  <img src="./Resources/scenario-mapping/To_Be.png" alt="scenario6" />
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/scenario-mapping/To_Be.png" alt="scenario6" />
 </div>
 
 ## 3.2. User Stories.
@@ -274,7 +274,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
 En esta sección, nuestro equipo presenta el Impact Mapping, el cual es una herramienta visual y colaborativa que ayuda a los equipos a alinear sus objetivos con los resultados deseados.
 
 <div align="center">
-  <img src="./Resources/scenario-mapping/Impact_Mapping.png" alt="scenario6" />
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/scenario-mapping/Impact_Mapping.png" alt="scenario6" />
 </div>
 
 ## 3.4. Product Backlog.
