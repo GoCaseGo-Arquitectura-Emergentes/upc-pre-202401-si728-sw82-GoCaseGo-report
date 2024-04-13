@@ -236,7 +236,7 @@ El propósito que se tiene es profundizar el conocimiento de nuestros segmentos 
 | Edad | 21  |
 | Distrito | Cieneguilla |
 | Aplicaciones Usadas | Excel, WhatsApp y Facebook |
-| Tecnologías | Smartphone Android, Laptop Windows |
+| Tecnologías | Smartphone iOS, Laptop Windows |
 | Browsers | Google Chrome |
 | Evidencia | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/Ryan.png)  |
 | Link | [Entrevista - Ryan.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921559_upc_edu_pe/EUvUx3Yg2TpAhq-XYHMI1T0BwGZC14RPschddxwXyjJ82g?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=ZoZxpf) |
@@ -245,7 +245,15 @@ El propósito que se tiene es profundizar el conocimiento de nuestros segmentos 
 
 
 ### 2.2.3. Análisis de entrevistas
-` Todos `
+
+A continuación, se presentarán algunos gráficos realizados en base a la información generada de las entrevistas
+
+![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/analisis-interviews/frecuency-travel.png)
+![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/analisis-interviews/luggage-problem.png)
+![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/analisis-interviews/useful-app.png)
+
+
+De acuerdo con los gráficos estadísticos, la mitad de las agencias de viajes entrevistadas presentan poca frecuencia respecto a la contratación de sus servicios, mientras que la otra mitad presenta una frecuencia alta. De la misma manera, el 50% de los procesos de reserva realizados se dan a través de una solicitud personalizada por parte de los clientes y, el otro 50% a través de la elección de paquetes ya armados. Asimismo, la mitad de los percances que han tenido con los clientes se han debido a la desinformación de estos últimos al momento de elegir su estadía, transporte, recorrido, entre otros; la otra mitad se debió a causa de un incumplimiento del pago para finalizar la compra. Finalmente, todos indicaron que gustarían de una aplicación que los ayude a gestionar los equipajes en las empresas.
 
 ## 2.3. Needfinding.
 
