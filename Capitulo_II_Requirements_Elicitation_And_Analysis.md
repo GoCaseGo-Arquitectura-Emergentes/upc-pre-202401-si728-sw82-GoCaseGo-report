@@ -259,6 +259,21 @@ El propósito que se tiene es profundizar el conocimiento de nuestros segmentos 
 | Resumen             | Williams San Martin, 28 años, personal de recepcion de equipaje de una agencia de turismo, la empresa en la que trabaja tiene un grabe problema de gestion de equipaje ya que ellos utilizan fotos y cuadernillos para la gestion de equipaje del turista. Esto ha llevado a tener problemas con sus clientes por que algunos de ellos pierden un identificador. O algunos de ellos reciben un equipaje equivocado. Menciona que le ayudaría mucho una aplicación que automatice algunos procesos y mejore la gestión de los equipaje con sus clientes. |
 
 
+| Entrevista #4       |     |
+|---------------------| --- |
+| Nombre              | María |
+| Apellido            | Farro |
+| Edad                | 20  |
+| Distrito            | Lima |
+| Aplicaciones Usadas | Tiktok, Instagram |
+| Tecnologías         | Smartphone Android, Laptop Windows |
+| Browsers            | Google Chrome |
+| Evidencia           | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/Maria.png)  |
+| Link                | [Entrevista - María.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201920431_upc_edu_pe/ERMHLoxEE3RHvP2cKsXJa50B4evPJlQtZ1r4h0eohmqJyg?e=EdYuxS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
+| Duración            | 00:00 min – 04:45 min |
+| Resumen             | María Farro, de 20 años y coordinadora de operaciones en una agencia de tours, destaca la utilización de redes sociales como TikTok e Instagram para la promoción de servicios. Los clientes reservan alojamiento y transporte mediante su sitio web o mediante el Whatsapp. Han experimentado pocos problemas de daños de equipaje por exceso de peso. Utilizan redes sociales para promocionar servicios, colaboran con agencias en linea para ampliar su alcance y ven útil una aplicación para mejorar la gestión de equipajes para mejorar tiempos y procesos. Los clientes los contactan para viajes personalizados, con una percepción general positiva por su reputación en redes sociales. Proyectan expansión y mejorar las ofertas personalizadas. Cuentan con una protección contras pérdidas o daños. |
+
+
 ### 2.2.3. Análisis de entrevistas
 
 A continuación, se presentarán algunos gráficos realizados en base a la información generada de las entrevistas
