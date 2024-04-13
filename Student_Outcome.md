@@ -26,9 +26,6 @@ del ABET – EAC - Student Outcome 3.
         <br>
         En el desarrollo de nuestro proyecto de ingeniería, he implementado metodologías avanzadas como Candidate Context Discovery, Event Storming, Domain Message Flows Modeling y el modelo C4. Estas técnicas me permiten comunicar con claridad y objetividad los complejos detalles técnicos a audiencias de diversas especialidades y niveles jerárquicos. Así, todos los stakeholders pueden comprender y participar efectivamente en el progreso del proyecto.
         <br>
-        <strong>Erick Anderson Cortez Benites
-        <br>TB1</strong>
-        <br>
         <strong>Djalma Santos Dioses Molina
         <br>TB1</strong>
         <br>
@@ -63,9 +60,6 @@ del ABET – EAC - Student Outcome 3.
         <br>TB1<br>
         </strong>
         En el marco de nuestro proyecto de ingeniería, he redactado documentación que aborda metodologías como Candidate Context Discovery, Event Storming, Domain Message Flows Modeling y el modelo C4. Esta documentación está diseñada para ser accesible y comprensible para un público diverso, incluyendo tanto a especialistas técnicos como a ejecutivos, asegurando que todos los niveles jerárquicos comprendan claramente los avances y resultados del proyecto.
-        <br>
-        <strong>Erick Anderson Cortez Benites
-        <br>TB1</strong>
         <br>
         <strong>Djalma Santos Dioses Molina
         <br>TB1</strong>
