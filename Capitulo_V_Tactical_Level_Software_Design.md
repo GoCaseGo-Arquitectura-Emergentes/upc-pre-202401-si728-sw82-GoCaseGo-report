@@ -39,10 +39,27 @@ Este bounded context se centra en las clases y capas relacionadas con la gestió
 
 
 ## 5.2. Bounded Context: Identity and Access Management 
+Mediante el uso de este bounded context se abordan las clases y capas relacionadas con la identidad y el acceso de los usuarios al sistema. A continuación, se detallan las principales componentes de este contexto:
+
 ## 5.2.1. Domain Layer. 
+*  **User** : Esta clase representa al usuario, teniendo como atributos el nombre de usuario, contraseña y un objeto de tipo Account. Tendría métodos para poder cerrar la cuenta y también para determinar si el usuario es dueño de la cuenta.
+* **Account**: Esta clase representa la cuenta conectada al usuario, teniendo como atributos el nombre de usuario, un identificador, un objeto owner de tipo User y un rol para especificar a qué segmento objetivo pertenece. Entre sus métodos se encuentran cambiar el tipo de suscripción, crear un usuario, entre otros.
+
 ## 5.2.2. Interface Layer. 
+* **SignIn Controller**: Este controlador maneja las solicitudes relacionadas con la autenticación e inicio de sesión de los usuarios. Permite el inicio de sesión y la gestión de cuentas de usuario existentes en la plataforma. Utiliza Firebase Authentication para la autenticación de usuarios.
+* **SignUp Controller** :  Este controlador se encarga de las solicitudes de creación de nuevas cuentas de usuario. Facilita el registro de nuevos usuarios en la plataforma mediante Firebase Authentication.
+
 ## 5.2.3. Application Layer. 
+* **SignIn CommandHandler:** Este comando se encarga de manejar las solicitudes de inicio de sesión de usuarios en el sistema. Cuando recibe una solicitud de inicio de sesión del SignIn Controller, verifica las credenciales utilizando Firebase Authentication y permite o deniega el acceso según el resultado.
+* **SignUp CommandHandler:** Se encarga de gestionar las solicitudes de creación de nuevas cuentas de usuario en la plataforma. Cuando recibe una solicitud de registro del SignUp Controller, utiliza Firebase Authentication para registrar al nuevo usuario y, si la operación tiene éxito, crea una cuenta de usuario en la base de datos.
+* **Account Reporting CommandHandler:** Este Command Handler se encarga de procesar las solicitudes de reporte de cuentas de usuario.
+
 ## 5.2.4. Infrastructure Layer. 
+* **SignUp Application Service:** Este componente es parte de la capa de infraestructura y se encarga de gestionar la lógica de aplicación relacionada con el registro de usuarios. Trabaja en conjunto con el SignUp CommandHandler para crear nuevas cuentas de usuario utilizando Firebase Authentication. Además, puede estar conectado a la base de datos para almacenar información adicional sobre los usuarios registrados.
+* **SignIn Application Service:** Se encarga de gestionar la lógica de aplicación relacionada con el inicio de sesión de usuarios. Colabora con el SignIn CommandHandler para autenticar a los usuarios utilizando Firebase Authentication.
+* **User Repository:**  Su principal función es interactuar con la base de datos para realizar operaciones de lectura y escritura de información de usuarios. Almacena y recupera datos de usuarios, como perfiles, credenciales y roles.
+* **FireBase Adapter:** Se encarga de comunicarse con Firebase Authentication para realizar operaciones como el registro y el inicio de sesión de usuarios. 
+  
 ## 5.2.5. Bounded Context Software Architecture Component Level Diagrams. 
 <div align="center">
   <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/c4-model/iacd.png" alt="iacd" />
@@ -50,7 +67,14 @@ Este bounded context se centra en las clases y capas relacionadas con la gestió
 
 ## 5.2.6. Bounded Context Software Architecture Code Level Diagrams. 
 ## 5.2.6.1. Bounded Context Domain Layer Class Diagrams. 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/class-diagrams/ia.png" alt="ia" />
+</div>
+
 ## 5.2.6.2. Bounded Context Database Design Diagram. 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/database-diagrams/profile.png" alt="profile" />
+</div>
 
 ## 5.3. Bounded Context: Iot Asset management
 ## 5.3.1. Domain Layer. 
@@ -64,7 +88,14 @@ Este bounded context se centra en las clases y capas relacionadas con la gestió
 
 ## 5.3.6. Bounded Context Software Architecture Code Level Diagrams. 
 ## 5.3.6.1. Bounded Context Domain Layer Class Diagrams. 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/class-diagrams/iot.png" alt="iot" />
+</div>
+
 ## 5.3.6.2. Bounded Context Database Design Diagram. 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/database-diagrams/iot.png" alt="iot" />
+</div>
 
 ## 5.4. Bounded Context: Notification management 
 ## 5.4.1. Domain Layer. 
