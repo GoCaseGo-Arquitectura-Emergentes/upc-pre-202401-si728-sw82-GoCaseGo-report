@@ -155,10 +155,43 @@ Mediante el uso de este bounded context se abordan las clases y capas relacionad
 </div>
 
 ## 5.5. Bounded Context: Subscription and payments 
-## 5.5.1. Domain Layer. 
+## 5.5.1. Domain Layer.
+#### Entities:
+
+* **Subscription**: Esta entidad representa una suscripción en el sistema. Tiene atributos como ID de suscripción, fecha de inicio, fecha de vencimiento y métodos para gestionar la suscripción, como renovarla o cancelarla.
+
+* **Payment**: La entidad Payment modela los pagos realizados en el sistema. Contiene información sobre el ID de pago, el monto, la fecha y otros detalles relevantes. También incluye métodos para registrar y procesar pagos.
+
+#### Object Values:
+
+* **PaymentHistory**: Este object value almacena el historial de pagos asociado a una suscripción. Contiene detalles como las fechas de los pagos anteriores, el estado de los pagos y otros datos relacionados con el historial de pagos.
+
+#### Aggregates:
+
+* **SubscriptionAggregate**: Este aggregate agrupa la entidad de Suscripción (Subscription) y el historial de pagos (PaymentHistory) relacionado. Define las reglas de negocio que garantizan la consistencia entre suscripciones y pagos.
+#### Enumeraciones:
+
+* **PaymentStatus**: Esta enumeración representa el estado de un pago, incluyendo valores como "Procesado" o "Fallido". Se utiliza para rastrear el estado de los pagos en el sistema.
+
 ## 5.5.2. Interface Layer. 
+* **Payment Controller**: El controlador Payment maneja las solicitudes relacionadas con los pagos. Proporciona endpoints,registrar historiales de pagos y gestionar la interacción con los usuarios en términos de suscripciones y pagos.
+
+* **Subscription Controller**: El controlador Subscription se encarga de las solicitudes relacionadas con las suscripciones. Ofrece endpoints para crear, renovar y cancelar suscripciones, así como para administrar el estado de las suscripciones de los usuarios.
+
 ## 5.5.3. Application Layer. 
+* **Purchase Subscription Command Handler**: Este Command Handler se encarga de procesar las solicitudes de compra de suscripciones. Recibe comandos de compra de suscripción desde el Interface Layer y coordina la creación y activación de las suscripciones en el Domain Layer. Además, gestiona la facturación y los registros de pagos relacionados con las suscripciones adquiridas.
+
+* **Renew Subscription Command Handler**: El Command Handler de renovación de suscripciones maneja las solicitudes para extender la duración de una suscripción existente. Al recibir un comando de renovación de suscripción, este handler interactúa con el Domain Layer para actualizar las fechas de vencimiento y gestionar los pagos asociados a la renovación.
+
+* **Payment Process Command Handler**: El Command Handler de procesamiento de pagos administra las solicitudes relacionadas con el procesamiento de pagos. Recibe comandos para procesar pagos y se comunica con el Domain Layer para registrar los pagos exitosos y gestionar los casos de pagos fallidos.
+
 ## 5.5.4. Infrastructure Layer. 
+* **Subscription Repository**: Este repositorio se encarga de la persistencia de datos relacionados con las suscripciones de usuarios. Almacena información sobre las suscripciones activas, su estado y fechas de vencimiento. Facilita la consulta y actualización de datos de suscripciones.
+
+* **Payment Gateway Adapter**: Este adaptador se conecta con un servicio externo de pasarela de pago mediante nuestro payment gateway.
+
+* **Logging Service**: Proporciona registros para auditoría, seguimiento y resolución de problemas. Captura información sobre pagos procesados, interacciones de usuarios y eventos críticos.
+
 ## 5.5.5. Bounded Context Software Architecture Component Level Diagrams. 
 <div align="center">
   <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/c4-model/subcd.png" alt="subcd" />
@@ -166,7 +199,14 @@ Mediante el uso de este bounded context se abordan las clases y capas relacionad
 
 ## 5.5.6. Bounded Context Software Architecture Code Level Diagrams. 
 ## 5.5.6.1. Bounded Context Domain Layer Class Diagrams. 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/class-diagrams/sub.png" alt="subscription" />
+</div>
+
 ## 5.5.6.2. Bounded Context Database Design Diagram. 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/database-diagrams/sub.png" alt="subscription" />
+</div>
 
 ## 5.6. Bounded Context: Tour Package Management 
 ## 5.6.1. Domain Layer. 
