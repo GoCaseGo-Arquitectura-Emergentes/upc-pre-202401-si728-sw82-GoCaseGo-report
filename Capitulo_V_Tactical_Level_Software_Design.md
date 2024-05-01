@@ -78,9 +78,23 @@ Mediante el uso de este bounded context se abordan las clases y capas relacionad
 
 ## 5.3. Bounded Context: Iot Asset management
 ## 5.3.1. Domain Layer. 
+*  **IoTDevice** : Esta clase representa un dispositivo IoT genérico y actúa como una entidad padre para varios tipos de dispositivos IoT teniendo como atibutos IP y MAC address.
+* **Scale**: Clase hija que representa una balanza IoT utilizada en el negocio para poder gestionar el peso adecuado por unidad terrestre destinada a la experiencia turística.
+* **Vibration and Shock Sensor**: Esta clase representa un sensor IoT utilizado para medir movimientos de los equipajes dirante el transcurso en el vehículo con principales funciones como registrar y mantener información específica del sensor.
+
 ## 5.3.2. Interface Layer. 
+* **Scale Controller**: Es responsable de gestionar las solicitudes y las interacciones relacionadas con la balanza como coordinar con la Application Layer para ejecutar operaciones específicas en las balanzas, como tomar mediciones de peso y registrar datos.
+* **Vibration and Shock Sensor**:  Se encarga de gestionar las solicitudes y las operaciones relacionadas con los sensores de vibración como validar los datos de entrada relacionados con los sensores  y coordinar con la capa de aplicación para obtener datos de movimientos específicos de los sensores.
+
 ## 5.3.3. Application Layer. 
-## 5.3.4. Infrastructure Layer. 
+* **Scale CommandHandler:** Este command handler se encarga de procesar comandos relacionados con las balanzas IoT, como comandos para realizar mediciones de peso, calibración de balanzas, etc.
+* **Vibration and Shock Sensor CommandHandler:** Este handler procesa comandos relacionados con los sensores de vibración IoT, como comandos para obtener mediciones de vibraciones Cuando se recibe un comando relacionado con sensores de posibles choques, este handler toma las mediciones correspondientes, las valida y actualiza el estado de los sensores de vibraciones en la capa de dominio.
+
+## 5.3.4. Infrastructure Layer.
+* **IoT Asset Scale Application Service:** Este servicio de aplicación se encarga de coordinar las operaciones relacionadas con las balanzas IoT. Recibe las consultas de la capa de aplicacion y las valida para que pueda interactuar con el scale repository.
+* **IoT Asset Vibration and Schock Sensor Application Service:**  Recibe solicitudes relacionadas con sensores vibraciones desde la capa de interfaz o la capa de aplicación. Asimismo, valida y procesa estas solicitudes, garantizando que se cumplan las reglas de negocio y la lógica específica de los sensores.
+* **Scale Repository:**  Almacena y recupera información sobre las balanzas IoT, incluyendo su estado, configuración y mediciones registradas.
+* **Vibration and Schock Sensor Repository:** Almacena y recupera datos de los sensores de virbaciones y choques.
 ## 5.3.5. Bounded Context Software Architecture Component Level Diagrams. 
 <div align="center">
   <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/c4-model/iotcd.png" alt="iotcd" />
