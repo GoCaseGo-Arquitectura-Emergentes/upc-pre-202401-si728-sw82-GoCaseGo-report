@@ -210,9 +210,16 @@ Mediante el uso de este bounded context se abordan las clases y capas relacionad
 
 ## 5.6. Bounded Context: Tour Package Management 
 ## 5.6.1. Domain Layer. 
+- **TourPackage:** Esta clase representa el paquete turistico ingresado por el segmento de agencia y contiene atributos como inicio, destino, precio, paradas, agencia ID, medios de pago.
+
 ## 5.6.2. Interface Layer. 
+- **TourPackageController:** Este controlador se encarga de las solicitudes de actualización de información de paquetes turísticos. Facilita a las agencias un listado de las disponibles segun sus filtros indicados. Permite a las agencias crear, modificar o eliminar sus paquetes turísticos propios.
+  
 ## 5.6.3. Application Layer. 
+- **TourPackageService:** Se encarga de procesar las solicitudes de actualización de paquetes turísticos. Valida los cambios propuestos por el usuario, actualiza los datos en la base de datos y registra la actividad correspondiente en el perfil.
+
 ## 5.6.4. Infrastructure Layer. 
+- **TourPackageRepository:** Almacena y recupera la configuración de los paquetes turísticos.
 ## 5.6.5. Bounded Context Software Architecture Component Level Diagrams. 
 <div align="center">
   <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/c4-model/tourcd.png" alt="tourcd" />
@@ -220,7 +227,14 @@ Mediante el uso de este bounded context se abordan las clases y capas relacionad
 
 ## 5.6.6. Bounded Context Software Architecture Code Level Diagrams. 
 ## 5.6.6.1. Bounded Context Domain Layer Class Diagrams. 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/class-diagrams/tour.png" alt="tour" />
+</div>
+
 ## 5.6.6.2. Bounded Context Database Design Diagram. 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/database-diagrams/tour.png" alt="tour" />
+</div>
 
 ## 5.7. Bounded Context: Transportation Management 
 ## 5.7.1. Domain Layer. 
