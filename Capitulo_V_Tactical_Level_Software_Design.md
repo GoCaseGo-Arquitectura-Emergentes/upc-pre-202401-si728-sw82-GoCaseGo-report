@@ -238,9 +238,14 @@ Mediante el uso de este bounded context se abordan las clases y capas relacionad
 
 ## 5.7. Bounded Context: Transportation Management 
 ## 5.7.1. Domain Layer. 
+- **Vehicle:** Esta clase representa el el vehiculo contiene el peso minimo, recomnedado, marca, asientos, tamaño, conductor.
+
 ## 5.7.2. Interface Layer. 
+- **VehicleController:** Este controlador se encarga de las solicitudes de administrar los vehículos usados para los paquetes turísticos, controlarán el peso del equipaje.
 ## 5.7.3. Application Layer. 
+- **VehicleService:** Se encarga de procesar las solicitudes de actualización de vehículos, añadir gps, añadir usuarios, modificar peso.
 ## 5.7.4. Infrastructure Layer. 
+- **VehicleRepository:** Almacena y recupera la configuración de todos los vehículos usados en la actualidad y posteriormente por las agencias.
 ## 5.7.5. Bounded Context Software Architecture Component Level Diagrams. 
 <div align="center">
   <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/c4-model/transportcd.png" alt="transportcd" />
@@ -248,4 +253,11 @@ Mediante el uso de este bounded context se abordan las clases y capas relacionad
 
 ## 5.7.6. Bounded Context Software Architecture Code Level Diagrams. 
 ## 5.7.6.1. Bounded Context Domain Layer Class Diagrams. 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/class-diagrams/transport.png" alt="transport" />
+</div>
+
 ## 5.7.6.2. Bounded Context Database Design Diagram. 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/database-diagrams/transport.png" alt="transport" />
+</div>
