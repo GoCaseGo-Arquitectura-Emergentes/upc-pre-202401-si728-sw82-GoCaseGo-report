@@ -112,10 +112,32 @@ Mediante el uso de este bounded context se abordan las clases y capas relacionad
 </div>
 
 ## 5.4. Bounded Context: Notification management 
+Mediante el uso de este bounded context se abordan las clases y capas relacionadas con las notificaciones hacia los usuarios por parte del sistema. A continuación, se detallan los principales componentes de este Bounded:
+
 ## 5.4.1. Domain Layer. 
+*  **Notification** : Esta clase representa la notificación que se enviara al usuario final, dentro de esta clase se encuentran atributos tales como : 
+   - **message:** Este atributo representa el mensaje que será enviado al usuario
+   -  **isEnable:** Este atributo representa un booleano, con este se puede saber si el usuario cuenta con las notificaciones activadas.
+   -  **type:** Este atributo cuenta con los valores del enumerator **NotificationType**, representa que tipo de notificación  será enviada.
+   -  **receiver:** Este atributo cuenta con los valores de la entidad **NotificationReceiver**, conteniendo la información necesaria para enviar la notificación  al usuario.
+* **NotificationReceiver:** Esta clase representa el modelo que es necesario para poder obtener la información necesaria para enviar la notificación al usuario, como atributos tiene:
+    - **name:** Atributo que representa el nombre del usuario al que se le enviara la notificación.
+    - **email:** Correo al que se le enviara la notificación en caso sea necesario. 
+### **Enum**:
+* **NotificationType**: Representa el tipo de notificación que será enviada. Los tipos de notificaciones son los siguientes: 
+    - **VIBRATION-SHOCK**      Representa las alertas de posibles caídas
+    - **REGISTRATION:** Son las notificaciones del registro, estas serán enviadas por email
 ## 5.4.2. Interface Layer. 
+* **Notification Controller:** Este controlador maneja las solicitudes relacionadas con las notificaciones vía correo y notificaciones móviles. Además, recopila los datos para luego almacenarlos en la base de datos.
+  
 ## 5.4.3. Application Layer. 
+- **VibrationShockNotificationCommandHandler:** Este CommandHandler gestiona las notificaciones de recomendaciones de vestimenta **(NotificationType.VIBRATION-SHOCK)**.
+- **RegistrationNotificationCommandHandler:** Este CommandHandler se encarga de enviar notificaciones por correo electrónico del registro **(NotificationType.REGISTRATION)** al usuario final.
+
 ## 5.4.4. Infrastructure Layer. 
+- **Notification Service:** Este servicio se encarga de gestionar el envío de notificaciones a través de diferentes canales, como correo electrónico o notificaciones móviles. Implementa la lógica para entregar las notificaciones al usuario final según las preferencias y la elección del canal.
+- **Notification Repository** El repositorio de notificaciones almacena y gestiona las notificaciones enviadas. Esto incluye el seguimiento de qué notificaciones se han enviado, cuándo se enviaron y a quién se enviaron. Además, permite realizar consultas y búsquedas relacionadas con el historial de notificaciones.
+  
 ## 5.4.5. Bounded Context Software Architecture Component Level Diagrams. 
 <div align="center">
   <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/c4-model/notcd.png" alt="notcd" />
@@ -123,7 +145,14 @@ Mediante el uso de este bounded context se abordan las clases y capas relacionad
 
 ## 5.4.6. Bounded Context Software Architecture Code Level Diagrams. 
 ## 5.4.6.1. Bounded Context Domain Layer Class Diagrams. 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/class-diagrams/not.png" alt="iot" />
+</div>
+
 ## 5.4.6.2. Bounded Context Database Design Diagram. 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/database-diagrams/not.png" alt="iot" />
+</div>
 
 ## 5.5. Bounded Context: Subscription and payments 
 ## 5.5.1. Domain Layer. 
