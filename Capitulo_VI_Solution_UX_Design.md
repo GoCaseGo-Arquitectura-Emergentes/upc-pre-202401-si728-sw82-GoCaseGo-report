@@ -31,32 +31,16 @@ En esta sección, especificamos los colores de nuestra paleta y cómo se deben a
 Hesterbeg, menciona que es vital definir una paleta de colores que contribuya a crear una apariencia y sensación consistente para la marca (2022).
 El equipo ha seleccionado una paleta de colores que consta de los siguientes elementos:
 
-- **Primary**: Este color se utilizará para las barras superiores e inferiores de la aplicación. Coincidirá con el tono predominante en el logotipo de la empresa. El código HEX seleccionado es #10141E, y su equivalente en RGB es 16, 20, 30.
+- **Primary**: Este color se utilizará para las barras superiores e inferiores de la aplicación. Coincidirá con el tono predominante en el logotipo de la empresa. El código HEX seleccionado es #BBB968, y su equivalente en RGB es 187, 185, 104.<br/><br/>
+<img src="./Resources/styles/BBB968.png" />
 
-<img src="./Resources/styles/10141E.png" />
+- **Primary Variant**: Para teñir la barra de notificaciones, emplearemos una variación del color principal. Es el color HEX #83AC7D, que en RGB se expresa como 131, 172, 125.<br/><br/>
+<img src="./Resources/styles/83AC7D.png" />
 
-- **Primary Variant**: Para teñir la barra de notificaciones, emplearemos una variación del color principal. Es el color HEX #161D2F, que en RGB se expresa como 22, 29, 47.
+- **Secondary**: Los botones flotantes de la aplicación se resaltarán con este color. Para este propósito, hemos seleccionado el código HEX seleccionado es #FF7F7F, y su equivalente en RGB es 255, 127, 127.<br/><br/>
+<img src="./Resources/styles/FF7F7F.png" />
 
-<img src="./Resources/styles/161D2F.png" />
-
-- **Secondary**: Los botones flotantes de la aplicación se resaltarán con este color. Para este propósito, hemos seleccionado el código HEX seleccionado es #FC4747, y su equivalente en RGB es 252, 71, 71.
-
-<img src="./Resources/styles/FC4747.png" />
-
-- **Background**: Este color será el fondo general de la aplicación. En este caso, utilizaremos un tono oscuro con el código HEX seleccionado es #10141E, y su equivalente en RGB es 16, 20, 30.
-
-<img src="./Resources/styles/10141E.png" />
-
-- **Surface**: Los contenedores de publicaciones de empresas o al revisar perfiles de choferes se complementarán con este color. Igualmente, hemos optado por el código HEX #5A698F, que en RGB se traduce como 90, 105, 143.
-
-<img src="./Resources/styles/5A698F.png" />
-
-- **Error**: Cuando el usuario realice una operación incorrecta o ingrese datos erróneos, se mostrará este color. El color seleccionado para estas situaciones es el amarillo con el código HEX #FFD700, y su equivalente en RGB es 255, 215, 0.
-
-<img src="./Resources/styles/FFD700.png" />
-
-- **Colores "On"**: Estos colores se utilizan para letras, números, símbolos, etc., según el contexto. Para los apartados Primary, Secondary, Background y Surface, emplearemos el color negro con el código HEX #000000, que en RGB se representa como 0, 0, 0. En cuanto al apartado Error, utilizaremos el color blanco con el código HEX #FFFFFF, que en RGB es 255, 255, 255.
-
+- **Background**: Este color será el fondo general de la aplicación. En este caso, utilizaremos un tono oscuro con el código HEX seleccionado es #FFFFFF, y su equivalente en RGB es 255, 255, 255.<br/><br/>
 <img src="./Resources/styles/FFFFFF.png" />
 
 #### Spacing
