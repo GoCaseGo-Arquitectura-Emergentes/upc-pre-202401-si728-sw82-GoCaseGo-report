@@ -40,7 +40,7 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
             <td>EP03</td>
             <td>Funcionalidades de Reorganización de Carga</td>
             <td>Implementar funcionalidades para la reorganización de la carga basada en las alertas recibidas.</td>
-            <td>6</td>
+            <td>5</td>
         </tr>
     </tbody>
 </table>
@@ -240,32 +240,6 @@ En esta sección, profundizaremos en la definición y elaboración de las User S
       </td>
       <td>EP03</td>
     </tr>
-    <tr>
-      <td>US11</td>
-      <td>Integración con Sistemas de Reservas de Tours</td>
-      <td>Como agencia de tours, quiero que la plataforma esté integrada con el sistema de reservas de tours para obtener información detallada sobre los viajes planificados y la capacidad del vehículo.</td>
-      <td>
-        SC21: Integración Exitosa<br><br>
-        AC21: Sistema integrado<br>
-        Dado que la plataforma necesita información detallada sobre los viajes planificados y la capacidad del vehículo.<br>
-        Cuando se integre la plataforma con el sistema de reservas de tours.<br>
-        Entonces la plataforma recibirá información actualizada para ajustar los límites de peso del equipaje.<br>
-      </td>
-      <td>EP03</td>
-    </tr>
-    <tr>
-      <td>US12</td>
-      <td>Notificaciones y Alertas Personalizadas</td>
-      <td>Como pasajero, quiero recibir notificaciones y alertas personalizadas sobre el estado y seguridad de mi equipaje durante el viaje.</td>
-      <td>
-        SC22: Notificación de Estado de Equipaje<br><br>
-        AC22: Notificación enviada<br>
-        Dado que el pasajero necesita recibir notificaciones sobre el estado y seguridad de su equipaje.<br>
-        Cuando se detecte una anomalía o incidente relacionado con el equipaje.<br>
-        Entonces el pasajero recibirá una notificación clara y comprensible sobre el problema y las acciones tomadas.<br>
-      </td>
-      <td>EP03</td>
-    </tr>
   </tbody>
 </table>
 
@@ -336,45 +310,31 @@ En el Product Backlog presentaremos una lista priorizada de nuestras user storie
         </tr>
         <tr>
             <td>7</td>
-            <td>US12</td>
-            <td>Notificaciones y Alertas Personalizadas</td>
-            <td>Como pasajero, quiero recibir notificaciones y alertas personalizadas sobre el estado y seguridad de mi equipaje durante el viaje.</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>8</td>
             <td>US08</td>
             <td>Registro de Acciones de Reorganización de Carga</td>
             <td>Como agencia de tours, quiero que la plataforma registre las acciones de reorganización de carga realizadas por el conductor para futuras referencias.</td>
             <td>3</td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>8</td>
             <td>US09</td>
             <td>Generación de Reportes de Reorganización de Carga</td>
             <td>Como agencia de tours, quiero generar reportes periódicos sobre las acciones de reorganización de carga realizadas para evaluar el desempeño y eficacia del sistema.</td>
             <td>3</td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>9</td>
             <td>US05</td>
             <td>Registro de Incidentes de Manejo Brusco</td>
             <td>Como agencia de tours, quiero que la plataforma registre y notifique cualquier incidente de manejo brusco detectado por los sensores de impacto y vibración.</td>
             <td>2</td>
         </tr>
         <tr>
-            <td>11</td>
+            <td>10</td>
             <td>US10</td>
             <td>Capacitación para Conducción Segura</td>
             <td>Como agencia de tours, quiero ofrecer capacitación y orientación al conductor sobre cómo manejar y reorganizar la carga de manera segura.</td>
             <td>3</td>
-        </tr>
-        <tr>
-            <td>12</td>
-            <td>US11</td>
-            <td>Integración con Sistemas de Reservas de Tours</td>
-            <td>Como agencia de tours, quiero que la plataforma esté integrada con el sistema de reservas de tours para obtener información detallada sobre los viajes planificados y la capacidad del vehículo.</td>
-            <td>5</td>
         </tr>
     </tbody>
 </table>
