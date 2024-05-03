@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Resources/cover/UPC.png" alt="UPC">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/cover/UPC.png" alt="UPC">
 </div>
 
 **Universidad Peruana de Ciencias Aplicadas**
