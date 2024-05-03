@@ -194,7 +194,7 @@ En el diseño de nuestras aplicaciones, los wireframes juegan un papel fundament
 A continuación, mostramos los wireframes de nuestra aplicación web.
 
 <div align="center">
-    <img src=https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-6/Resources/wireframes/wireframes-web.png" width="500px" alt="wireframes-mobile">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-6/Resources/wireframes/wireframes-web.png" width="500px" alt="wireframe-web">
 </div>
 
 ### 6.4.2. Applications Wireflow Diagrams.
@@ -204,5 +204,5 @@ A continuación, se presentan los wireflows.
 User goal: Primero se registra el usuario en el web o inicia sesión. Luego el usuario puedo interactuar los dashboard para ver el estado de un equipaje, ver las capacitaciones y consultar el historial de reservas. Por último estas serán notificadas por la web cuando encuentren un cambio.
 
 <div align="center">
-    <img src=https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-6/Resources/wireflow-diagrams/wireframes-web-workflow.png" width="500px" alt="mockups-mobile">
+    <img src=https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-6/Resources/wireframes-web-workflow.png" width="500px" alt="wireframe-web">
 </div>
