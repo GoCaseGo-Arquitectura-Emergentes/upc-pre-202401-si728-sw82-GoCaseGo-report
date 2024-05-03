@@ -7,7 +7,7 @@ A continuación, se presentan las pautas generales para asegurar una presentaci�
 #### Branding
 En esta sección, detallaremos cómo se deben utilizar nuestros logotipos y elementos visuales para transmitir nuestra visión de desarrollo sostenible y enriquecimiento de las comunidades. A continuación, se muestra nuestro logo:
 
-<img src="./Resources/logo/Equipa_Tour_Logo.jpg" />
+<img src="./Resources/styles/Equipa_Tour_Logo.jpg" />
 
 #### Typography
 Aquí, definimos las tipografías que reflejan nuestra identidad y proporcionaremos pautas sobre tamaños y estilos de fuente para garantizar una presentación coherente en todas nuestras comunicaciones escritas.
@@ -16,13 +16,13 @@ La tipografía utilizada será Poppins, que incluye las variantes Regular, Mediu
 
 **Poppins - Google fonts**
 
-[![Poppins - Google fonts](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/poppins-google-fonts.png)](https://fonts.google.com/specimen/Poppins)
+<img src="./Resources/styles/poppins-google-fonts.png" />
 
 Referencia:  https://fonts.google.com/specimen/Poppins
 
 **Mat - icons**
 
-[![Mat icons](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/mat-icons.png)](https://www.angularjswiki.com/angular/angular-material-icons-list-mat-icon-list/)
+<img src="./Resources/styles/mat-icons.png" />
 
 Referencia: https://www.angularjswiki.com/angular/angular-material-icons-list-mat-icon-list/ 
 #### Colors
@@ -33,38 +33,37 @@ El equipo ha seleccionado una paleta de colores que consta de los siguientes ele
 
 - **Primary**: Este color se utilizará para las barras superiores e inferiores de la aplicación. Coincidirá con el tono predominante en el logotipo de la empresa. El código HEX seleccionado es #10141E, y su equivalente en RGB es 16, 20, 30.
 
-![Primary color](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/10141E.png)
+<img src="./Resources/styles/10141E.png" />
+
 - **Primary Variant**: Para teñir la barra de notificaciones, emplearemos una variación del color principal. Es el color HEX #161D2F, que en RGB se expresa como 22, 29, 47.
 
-![Primary variant color](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/161D2F.png)
+<img src="./Resources/styles/161D2F.png" />
+
 - **Secondary**: Los botones flotantes de la aplicación se resaltarán con este color. Para este propósito, hemos seleccionado el código HEX seleccionado es #FC4747, y su equivalente en RGB es 252, 71, 71.
 
-![Secondary color](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/FC4747.png)
+<img src="./Resources/styles/FC4747.png" />
 
 - **Background**: Este color será el fondo general de la aplicación. En este caso, utilizaremos un tono oscuro con el código HEX seleccionado es #10141E, y su equivalente en RGB es 16, 20, 30.
 
-![Background color](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/10141E.png)
+<img src="./Resources/styles/10141E.png" />
+
 - **Surface**: Los contenedores de publicaciones de empresas o al revisar perfiles de choferes se complementarán con este color. Igualmente, hemos optado por el código HEX #5A698F, que en RGB se traduce como 90, 105, 143.
 
-![Surface color](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/5A698F.png)
+<img src="./Resources/styles/5A698F.png" />
+
 - **Error**: Cuando el usuario realice una operación incorrecta o ingrese datos erróneos, se mostrará este color. El color seleccionado para estas situaciones es el amarillo con el código HEX #FFD700, y su equivalente en RGB es 255, 215, 0.
 
-![Error color](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/FFD700.png)
+<img src="./Resources/styles/FFD700.png" />
+
 - **Colores "On"**: Estos colores se utilizan para letras, números, símbolos, etc., según el contexto. Para los apartados Primary, Secondary, Background y Surface, emplearemos el color negro con el código HEX #000000, que en RGB se representa como 0, 0, 0. En cuanto al apartado Error, utilizaremos el color blanco con el código HEX #FFFFFF, que en RGB es 255, 255, 255.
 
-![Colores on](https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/style-guidelines/FFFFFF.png)
+<img src="./Resources/styles/FFFFFF.png" />
 
 #### Spacing
 - **Botones**: Establecemos un margen interior (padding) de 1 rem (16 px) en la dirección vertical y de 2 rem (32 px) en la horizontal.
 - **Márgenes entre texto**: Mantenemos un margen de 1 rem (16 px) entre elementos de texto.
 - **Márgenes entre elementos**: Garantizamos un margen de 1.5 rem (24 px) entre distintos elementos.
 - **Márgenes entre secciones**: Fijamos un margen de 6 rem (72 px) para separar claramente las diferentes secciones de contenido.
-#### Dimensions
-En esta sección, describiremos los diferentes tonos que utilizamos, desde la emoción por explorar hasta el compromiso con la responsabilidad social, y proporcionaremos ejemplos de cómo aplicarlos en nuestra comunicación escrita. A continuación, se presentarán el lenguaje y tonos que usamos para nuestros segmentos objetivo.
-
-- **Agencia de viajes**: Nuestra comunicación hacia empresas de experiencias turísticas se caracteriza por su concisión y formalidad. Priorizamos la presentación de hechos y datos que respalden la eficacia de nuestra solución. Nuestra intención es motivar a estas empresas a considerar y adoptar nuestra propuesta.
-
-- **Usuario turista**: En contraste, cuando nos dirigimos a los usuarios viajeros, empleamos un lenguaje sencillo y cautivador. Buscamos evocar emociones y crear una experiencia a través de las palabras. Nos esforzamos por brindar información clara y evitar cualquier ambigüedad en las opciones que ofrecemos a los viajeros.
 
 ### 6.1.2. Web, Mobile and IoT Style Guidelines.
 #### Web Style Guidelines
@@ -83,44 +82,19 @@ Para nuestra versión móvil, nos enfocamos en optimizar la experiencia en dispo
 #### IoT Style Guidelines
 Nuestras pautas de estilo para dispositivos IoT, como la balanza inteligente con pantalla, se centran en la interfaz limitada y la comunicación de datos. Incluyen:
 - **Interfaz de Pantalla (balanza inteligente)**: Detallamos el diseño de la pantalla de la balanza, enfocándonos en la legibilidad y presentación efectiva del peso de las maletas. Proporcionamos ejemplos con dimensiones en píxeles para las celdas de la pantalla.
-- **Sensores de Temperatura**: En este caso los guidelines no aplican, porque la información de los sensores de temperatura se obtendrá mediante endpoints, asegurando una recopilación y transmisión segura de datos. Entonces, no se requiere una interfaz de usuario para esto.
-- **GPS y Comunicación de Datos**: En este caso los guidelines no aplican, porque para la utilización del GPS la comunicación será mediante endpoints, garantizando la precisión y confiabilidad de la información de ubicación. Por lo tanto, no hay necesidad de una interfaz adicional.
+- **Sensores de Impacto y Vibración**: En este caso los guidelines no aplican, porque la información de los sensores de impacto y vibración se obtendrá mediante endpoints, asegurando una recopilación y transmisión segura de datos. Entonces, no se requiere una interfaz de usuario para esto.
 
 ## 6.2. Information Architecture.
 ### 6.2.1. Organization Systems.
-Establecer una jerarquía visual clara es fundamental para la creación de una página web altamente optimizada. Esto se debe a la forma en que nuestros sistemas visuales están interconectados; tenemos la tendencia natural de escanear y procesar rápidamente diversos elementos visuales, como bordes, contrastes, tamaños y movimientos, para evaluar y comprender nuestro entorno. Esta dinámica es aplicable tanto si estamos contemplando un paisaje natural como si estamos navegando por una página web. A continuación, se presentarán algunos ejemplos de la jerarquía visual que está previsto implementar en nuestras aplicaciones.
-
+Establecer una jerarquía visual clara es fundamental para la creación de una página web altamente optimizada. Esto se debe a la forma en que nuestros sistemas visuales están interconectados; tenemos la tendencia natural de escanear y procesar rápidamente diversos elementos visuales, como bordes, contrastes, tamaños y movimientos, para evaluar y comprender nuestro entorno. A continuación, se presentarán algunos ejemplos de la jerarquía visual que está previsto implementar en nuestras aplicaciones.
 
 El flujo que deseamos que los usuarios experimenten al ingresar a la aplicación se describe de la siguiente manera:
 
-- En primer lugar, el usuario será recibido con una lista de paquetes de viajes, cada uno representado en una tarjeta individual.
+- En primer lugar, el usuario será recibido con un dashboard con la información de los equipajes, como la masa y el estado, cada uno representado en una tarjeta individual.
 
-- A continuación, el usuario tendrá acceso a una barra superior donde encontrará una serie de opciones adicionales, como la posibilidad de filtrado por región, búsqueda, etc.
+- A continuación, el usuario tendrá acceso a una barra lateral donde encontrará una serie de opciones adicionales, como las capacitaciones, el historial de reservas, etc.
 
-- Asimismo, se proporcionará al usuario la opción de ordenar los paquetes de viajes según varios criterios, como precio, calificación, orden alfabético, entre otros.
-
-Por último, el usuario podrá seleccionar una región, mostrando sus detalles  y sus departamentos.
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/mock-ups/Organization-Systems.png" width="500px" alt="organizationSystemPicture">
-</div>
-
-El flujo que buscamos que los usuarios sigan al revisar los detalles de un paquete de viajes se puede describir de la siguiente manera:
-
-En primer lugar, el usuario examina la información más relevante del paquete, que incluye detalles como la ubicación, la duración, la capacidad mínima y máxima de personas y la disponibilidad de la agencia de viajes.
-
-Luego, el usuario profundiza en los detalles específicos del paquete de viajes.
-
-Después, el usuario utiliza la navegación para seleccionar entre diferentes secciones de detalles, como información sobre el paquete turístico, las actividades disponibles, etc.
-
-A continuación, el usuario visualiza el precio del paquete y accede a un calendario donde puede seleccionar la fecha de su preferencia, así como la cantidad de adultos y niños que viajarán.
-
-Por último, el usuario tomará su decisión final y elegirá el paquete que desee adquirir al hacer clic en el botón "Comprar" ("Buy").
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/mock-ups/Organization-Systems-2.png" width="500px" alt="organizationSystemPicture">
-</div>
-
+- Asimismo, se proporcionará al usuario la opción de ordenar los equipajes según varios criterios, como precio, calificación, orden alfabético, entre otros.
 
 
 ### 6.2.2. Labeling Systems.
@@ -132,10 +106,16 @@ En esta sección, vamos a presentar el sistema de etiquetado que proporcionará 
 
 - **Servicios/Services:** La sección de caracteristicas se encuentra dividida en segmentos objetivos, donde mostraremos los beneficios que nuestro sistema ofrece para cada uno de ellos.
 
-- **Planes**: Aquí se presentarán los montos promedio a pagar por cada segmento objetivo.
+- **Planes**: Aquí se presentarán los montos promedio a pagar.
 
+### 6.2.3. Searching Systems.
 
-### 6.2.3. SEO Tags and Meta Tags
+Los Searching Systems se han diseñado utilizando un lenguaje claro y formal, que al mismo tiempo es fácil de comprender. Aquí se enumeran los que tendrá nuestra aplicación:
+
+- Búsqueda de equipajes: Se encontrará en el dashboard, que es la pantalla principal, en donde se muestra la información de cada equipaje.
+- Búsqueda de Reservas: Se encontrará en la sección de historial de reservas.
+
+### 6.2.4. SEO Tags and Meta Tags
 Los meta tags que serán incorporados son los siguientes:
 
 Encabezado: Estrictamente hablando, esto no es un meta-tag, sino una etiqueta independiente de HTML. Sin embargo, es válido considerarlo como parte de la información metadatos. Esta etiqueta debe tratarse como un elemento esencial en el encabezado del documento HTML, ya que se encarga de proporcionar el título de la página web. Su importancia radica en que los motores de búsqueda más prominentes utilizan esta etiqueta para titular las entradas en sus resultados.
@@ -152,14 +132,14 @@ Landing Page:
 - **Título:**
 ```html
 <title>
-DreamTrip | Conoce la mejor aplicación para viajes
+GoCaseGo | Conoce la mejor aplicación para administración de equipajes
 </title>
 ```
 
 - Descripción:
 ```
   
- <meta name="description" content="Viaja sin preocupaciones, viaja con nosotros"/>
+ <meta name="description" content="Los equipajes de tus clientes viajarán seguro con nosotros"/>
 
 ```
 
@@ -172,32 +152,32 @@ DreamTrip | Conoce la mejor aplicación para viajes
 • Autor:
 ```
 
-<meta name="author" content="Nexus Nova Startup" />
+<meta name="author" content="EquipaTour" />
 
 ```
 
 - Copyright:
 ```
 
-<meta name="copyright" content="© Nexus Nova, 2023" />
+<meta name="copyright" content="© EquipaTour, 2024" />
 
 ```
 
-### 6.2.4. Searching Systems.
-
-Los Searching Systems se han diseñado utilizando un lenguaje claro y formal, que al mismo tiempo es fácil de comprender. Aquí se enumeran las funciones clave:
-
-| Icono complementario de  filtros | En esta sección encontraras los diferentes filtros que están  relacionados a los paquetes de viajes, como precio, fecha publicación, etc.                                    |
-|----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Barra de filtrado  por región    | Esta funcionalidad te permite ordenar los paquetes de viaje según la región (costa, sierra o selva), facilitando así la búsqueda de destinos específicos. |
-
 ### 6.2.5. Navigation Systems.
 
-Nuestros sistemas de navegación brindarán a los usuarios la capacidad de buscar paquetes turísticos de varias formas, incluyendo la búsqueda por nombres, regiones geográficas y utilizando diversos filtros relacionados con las opciones de viaje disponibles. Estamos convencidos de que esta funcionalidad facilitará a los usuarios encontrar los paquetes que mejor se ajusten a sus preferencias y gustos personales, mejorando así su experiencia de búsqueda y selección de viajes
+Proponemos un sistema de navegación que permita al usuario una experiencia intuitiva y fluida a través de la aplicación. Se utilizará una barra de navegación en la parte superior de la pantalla que incluirá las siguientes secciones:
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-5/Resources/mock-ups/Navigation-Systems.png" width="500px" alt="sub">
-</div>
+- **Notificaciones:** Aquí el usuario podrá recibir alertas en tiempo real de alguna incidencia detectada por los sensores.
+
+- **Mi cuenta:** Aquí el usuario podrá ver su perfil, datos de inicio de sesión, entre otros.
+
+Adicional a ello, se tendrá una barra lateral (desplegable en las versiones de pantalla más pequeñas), que contendrá lo siguiente:
+
+- **Dashboard:** Esta sección llevará al usuario a la pantalla principal de la aplicación, donde podrá acceder a toda la información sobre los equipaje de sus clientes.
+
+- **Capacitaciones:** En esta sección, el usuario podrá acceder a las guías y videos que lo ayudarán a realizar un correcto uso de los sensores y la aplicación en conjunto.
+
+- **Historial de Reservas:** Esta sección permitirá al usuario explorar la lista de reservas realizadas por sus clientes en el tiempo.
 
 ## 6.3. Landing Page UI Desing.
 ## 6.3.1 Landing Page Wireframe.
