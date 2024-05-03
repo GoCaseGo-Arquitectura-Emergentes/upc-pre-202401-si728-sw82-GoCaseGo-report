@@ -185,3 +185,60 @@ Adicional a ello, se tendrá una barra lateral (desplegable en las versiones de 
 
 ## 6.3.2 Laning Page Wireflow.
 <img src="./Resources/landing/Wireflow.png">
+
+## 6.4. Applications UX/UI Design.
+
+### 6.4.1. Applications Wireframes.
+En el diseño de nuestras aplicaciones, los wireframes juegan un papel fundamental al ayudarnos a organizar la interfaz y la navegación antes de comenzar el desarrollo. En nuestro proyecto, optamos por utilizar 'Figma' para elaborar los wireframes de manera eficaz y con la posibilidad de colaboración.
+
+A continuación, mostramos los wireframes de nuestra aplicación web.
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-6/Resources/wireframes/wireframes-web.png" width="500px" alt="wireframe-web">
+</div>
+
+### 6.4.2. Applications Wireflow Diagrams.
+
+A continuación, se presentan los wireflows.
+
+User goal: Primero se registra el usuario en el web o inicia sesión. Luego el usuario puedo interactuar los dashboard para ver el estado de un equipaje, ver las capacitaciones y consultar el historial de reservas. Por último estas serán notificadas por la web cuando encuentren un cambio.
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-6/Resources/wireframes/wireframes-web-workflow.png" width="1500px" alt="wireframe-web">
+</div>
+
+### 6.4.3. Applications Mock-Ups.
+
+Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo. A continuación, mostramos los mock-ups de nuestra aplicación web.
+
+<img src="./Resources/mock-up/Application Mock-up.jpg" />
+
+### 6.4.4. Application User Flow Diagrams.
+
+A continuación, se presentan los diagramas de flujo de usuarios relacionados con nuestros objetivos de usuario.
+
+User Goal 1: Visualizacion del Dashboard:
+
+Este escenario ilustra el flujo que el usuario debera hacer para utilizar el dashboard.
+
+<img src="./Resources/User Flow Diagram/User Goal 1.jpg" />
+
+User Goal 2: Visualizacion del Capacitaciones
+
+Este escenario ilustra el flujo que el usuario debera hacer para utilizar ver sus capacitaciones.
+
+<img src="./Resources/User Flow Diagram/User Goal 2.jpg" />
+
+User Goal 3: Visualizacion del Historial de Reservas
+
+Este escenario ilustra el flujo que el usuario debera hacer para ver su reservas.
+
+<img src="./Resources/User Flow Diagram/User Goal 3.jpg" />
+
+6.5. Application Prototyping.
+
+A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
+
+<img src="./Resources/Prototyping/Application Prototyping.jpg" />
+
+Link: https://www.figma.com/file/OUei2WriXMqtQ1ZhuJjb8v/Pricing-Plan-UI-Design-(Community)?type=design&node-id=432%3A216&mode=design&t=FVBAY7A6g6ILhD9E-1
