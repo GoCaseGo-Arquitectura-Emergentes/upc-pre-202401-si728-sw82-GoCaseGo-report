@@ -87,7 +87,8 @@ del ABET – EAC - Student Outcome 3.
         <br>
         <strong>Erikc Anderson Cortez Benites
         <br>TP1</strong>
-         Hemos empleado herramientas de comunicación de forma continua para agilizar la creación del documento. Estas técnicas nos han posibilitado transmitir de manera precisa y objetiva los propósitos y progresos del proyecto, lo que ha facilitado su entendimiento y fomentado la participación activa en su exitosa ejecución.
+        <br>
+        Hemos empleado herramientas de comunicación de forma continua para agilizar la creación del documento. Estas técnicas nos han posibilitado transmitir de manera precisa y objetiva los propósitos y progresos del proyecto, lo que ha facilitado su entendimiento y fomentado la participación activa en su exitosa ejecución.
         <br>  
     </td>
     <td>
