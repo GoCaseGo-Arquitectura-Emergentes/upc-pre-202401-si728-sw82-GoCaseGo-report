@@ -44,7 +44,11 @@ del ABET – EAC - Student Outcome 3.
         <br>TB1</strong>
         <br>
         Durante nuestro proyecto hemos aplicado técnicas como el Impact Mapping y el desarrollo de User Stories. Estas metodologías nos han permitido comunicar de manera clara y objetiva los objetivos y avances del proyecto, facilitando su comprensión y participación activa en el desarrollo exitoso del proyecto.
-        <br>       
+        <br>
+        <strong>TP1</strong>
+        <br>
+        Elaboré pautas del style guidelines y la arquitectura de información de nuestro proyecto, escritas de manera clara y concisa para que sean comprensibles tanto por el equipo, como por los usuarios.
+        <br>
         <strong>Erikc Anderson Cortez Benites
         <br>TB1</strong>
         <br>
@@ -87,7 +91,12 @@ del ABET – EAC - Student Outcome 3.
         <strong>Jherico Fretd Solier Vargas
         <br>TB1</strong>
         <br>
-        En el contexto de nuestro proyecto hemos elaborado documentación que detalla las metodologías que hemos implementado. La cual está estructurada de manera clara y concisa, con el objetivo de ser accesible y comprensible para una audiencia variada. Así, garantizamos que todos puedan entender y valorar los objetivos, avances y resultados obtenidos en el desarrollo del proyecto<br>
+        En el contexto de nuestro proyecto hemos elaborado documentación que detalla las metodologías que hemos implementado. La cual está estructurada de manera clara y concisa, con el objetivo de ser accesible y comprensible para una audiencia variada. Así, garantizamos que todos puedan entender y valorar los objetivos, avances y resultados obtenidos en el desarrollo del proyecto
+        <br>
+        <strong>TP1</strong>
+        <br>
+        Se comunicaron de manera efectiva las pautas de estilo y arquitectura de información desarrolladas. Esto facilitó la comprensión y discusión de los conceptos por parte de audiencias diversas, promoviendo así la alineación entre los stakeholders y el avance del proyecto.
+        <br>
         <strong>Erikc Anderson Cortez Benites
         <br>TB1</strong>
         <br>
