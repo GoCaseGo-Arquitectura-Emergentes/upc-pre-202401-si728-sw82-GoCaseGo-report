@@ -36,6 +36,10 @@ del ABET – EAC - Student Outcome 3.
         <br>
         Gracias a la implementación de técnicas como la definición de la Funcionalidad Principal (Primary User Stories), la elaboración de Escenarios de Atributos de Calidad, la gestión de Restricciones, el seguimiento del Backlog de Conductores Arquitecturales, la toma de Decisiones de Diseño Arquitectónico y el Refinamiento de Escenarios de Atributos de Calidad, hemos logrado una comunicación efectiva y clara sobre los aspectos técnicos fundamentales del proyecto.
         <br>
+        <strong>TP1</strong>
+        <br>
+        En esta entrega complete el Application Mock-up, User Flow Diagrams y el Application Prototype. Con completar estas actividades tengo una mejor idea y mas experiencia en crear los diseños de una applicacion web.
+        <br>
         <strong>Jherico Fretd Solier Vargas
         <br>TB1</strong>
         <br>
@@ -75,6 +79,10 @@ del ABET – EAC - Student Outcome 3.
         <br>TB1</strong>
         <br>
       En el contexto de nuestro proyecto de ingeniería, he generado documentación exhaustiva que aborda aspectos cruciales como la definición de la Funcionalidad Principal (Primary User Stories), la descripción de Escenarios de Atributos de Calidad, la identificación de Restricciones, el seguimiento del Backlog de Conductores Arquitecturales, la toma de Decisiones de Diseño Arquitectónico y el Refinamiento de Escenarios de Atributos de Calidad. Esta documentación está estructurada de manera que pueda ser fácilmente asimilada por todos los miembros del equipo, desde desarrolladores hasta gerentes de proyecto, garantizando así una comprensión clara y una participación efectiva en el progreso y los resultados del proyecto.
+        <br>
+        <strong>TP1</strong>
+        <br>
+      En esta entrega de nuestro proyecto de ingeniería, he generado diseños que aborda aspectos cruciales como el Application Mock-up, El User Flow Diagrams y el Application Prototype. Esta diseños estan hecho para que facilmente captas lo que se quiere presentar en los diseños para que los miembros del equipo, desde desarrolladores hasta gerentes de proyecto, garantizando así una comprensión clara y una participación efectiva en el progreso y los resultados del proyecto.
         <br>
         <strong>Jherico Fretd Solier Vargas
         <br>TB1</strong>
