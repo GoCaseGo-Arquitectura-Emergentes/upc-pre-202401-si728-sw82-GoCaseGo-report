@@ -1,4 +1,4 @@
-# Capítulo VI: Solution UX Design.
+# Capítulo VI: Solution UX Design
 
 ## 6.1. Style Guidelines.
 En este punto se abordarán las directrices que nuestra startup utilizará para presentar de manera uniforme y efectiva nuestros productos.

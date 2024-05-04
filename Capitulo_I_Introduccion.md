@@ -1,5 +1,7 @@
 <div align="justify">
 
+# Capítulo I: Introducción
+
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
 Nos dedicamos a mejorar la gestión del equipaje en las agencias que ofrecen tours y priorizamos la seguridad y la comodidad de cada viajero. Estamos comprometidos en ofrecer soluciones innovadoras, respaldadas por tecnología IoT, haciendo uso de balanzas inteligentes y sensores de impacto. Nuestra misión consiste en simplificar las experiencia de viaje, con la finalidad de garantizar que cada pasajero disfrute de un transporte sin preocupaciones.
