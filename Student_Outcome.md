@@ -31,6 +31,10 @@ del ABET – EAC - Student Outcome 3.
         <br>
         En este proyecto he implementado la Descripción de la Startu, definir cuales fueron los Antecedentes y la Problematica, Los puntos que incluye Lean UX Process y definir el Segmento Objetivo. Estas metodologias me permitieron comunicar con claridad, cual es la problematica con la finalidad de plantear una solucion adecuada y conocer nuestro segmento objetivo.
         <br>
+        <strong>TP1</strong>
+        <br>
+        En esta nueva entrega me centré en la maquetación y diseño del Landing Page. Este desarrollo me permitió ampliar mis conocimientos en la parte UX Design.     
+        <br>
         <strong>Erik Romero Polli
         <br>TB1</strong>
         <br>
@@ -78,6 +82,10 @@ del ABET – EAC - Student Outcome 3.
         <br>TB1</strong>
         <br>
         En el presente proyecto, he realizado detalladamente las metodologias de Lean UX Proccess, Antecedentes y Problematica y la definición de la StartUp. Todo el desarrollo realizado esta diseñado para ser entendido por ingenieros, técnicos hasta el publico en general.
+        <br>
+        <strong>TP1</strong>
+        <br>
+        En el presente proyecto de ingeniería, no solo realice la maquetación y diseño del landing page, también tuve que escoger, cuáles serían las secciones y el contenido de estas secciones con la finalidad de explicar todo el servicio que ofrecemos dentro del Landing page, este contenido debería de ser entendido por todos los públicos. 
         <br>
         <strong>Erik Romero Polli
         <br>TB1</strong>
