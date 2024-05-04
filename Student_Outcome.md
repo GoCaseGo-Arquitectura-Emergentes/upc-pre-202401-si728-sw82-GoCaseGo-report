@@ -44,7 +44,12 @@ del ABET – EAC - Student Outcome 3.
         <strong>Erikc Anderson Cortez Benites
         <br>TB1</strong>
         <br>
-        Durante el proyecto he realizados actividades realcionadas al needfinding. Esto con el proposito de entender como piensa el usuario. Con esto podemos concluir que va a necesitar y extraer lo que el necesita.
+        Durante el proyecto he realizado actividades relacionadas con el needfinding. Esto con el propósito de entender como piensa el usuario. Con esto podemos concluir que va a necesitar y extraer lo que él necesita.
+        <br>   
+        <strong>Erikc Anderson Cortez Benites
+        <br>TP1</strong>
+        <br>
+        Durante el proyecto he realizado actividades con el UX Design. Esto con el propósito de como tener una idea de como será la aplicación.
         <br>   
     </td>
     <td>
@@ -79,6 +84,10 @@ del ABET – EAC - Student Outcome 3.
         <br>TB1</strong>
         <br>
         Durante nuestro proyecto hemos utilizado herramientas de comunicación de manera constante esto para facilitar el desarrollo del documento. Estas metodologías nos han permitido comunicar de manera clara y objetiva los objetivos y avances del proyecto, facilitando su comprensión y participación activa en el desarrollo exitoso del proyecto.
+        <br>
+        <strong>Erikc Anderson Cortez Benites
+        <br>TP1</strong>
+         Hemos empleado herramientas de comunicación de forma continua para agilizar la creación del documento. Estas técnicas nos han posibilitado transmitir de manera precisa y objetiva los propósitos y progresos del proyecto, lo que ha facilitado su entendimiento y fomentado la participación activa en su exitosa ejecución.
         <br>  
     </td>
     <td>

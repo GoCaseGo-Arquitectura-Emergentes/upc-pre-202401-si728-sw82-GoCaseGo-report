@@ -64,7 +64,7 @@
   <tr>
     <td>1.2.4</td>
     <td>11/09/2023</td>
-    <td>Erick Cortez</td>
+    <td>Erikc Cortez</td>
     <td>Se agregó contenido relacionado con el capítulo 4, sobre el tactical DDD</td>
   </tr>
 
@@ -96,7 +96,7 @@
   <tr>
     <td>1.3.4</td>
     <td>12/09/2023</td>
-    <td>Erick Cortez</td>
+    <td>Erikc Cortez</td>
     <td>Se agregó contenido relacionado con el capítulo 4, sobre el tactical DDD como Bounded Contexts Profile Management y otros Bounded Contexts junto con sus respectivos layers</td>
   </tr>
 </tbody>
