@@ -1100,19 +1100,24 @@ Para este sprint, no se han realizado las actividades requeridas en la sección 
 ##### Landing Page
 Para este Sprint 1, se realizó la versión final del Landing Page que contiene las siguientes vistas:
 
-##### VISTA GENERAL
+###### VISTA GENERAL
 Cuando el visitante ingrese a nuestro landing page, se mostrará lo siguiente:
 <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/landing/sprint1-es.png" />
 <br>
 <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/landing/sprint1-en.png" />
 
-##### SERVICE
+###### SERVICE
 En esta sección los visitantes, podrán conocer los servicios:
 <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/landing/service.png" />
 
-##### BENEFICIOS
+###### BENEFICIOS
 En esta sección los visitantes, podrán conocer los beneficios:
 <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/landing/benefits.png" />
+
+##### EMBEDDED-SYSTEM-SCALE
+Se desarrolló el código que tendrán uestras balanzas inteligentes que tendrá cada agencia de viaje en su establecimiento. A continuación, se observa una imagen de lo que sería la conexión y configuración de la balanza:
+<h1 align="center"> <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/embedded-system-scale/main/assets/screenshot-project.png" alt="Project Screenshot" height="350"> </h1>
+
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review.
   
