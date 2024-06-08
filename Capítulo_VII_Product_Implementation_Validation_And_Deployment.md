@@ -1095,6 +1095,42 @@ A continuación, se brinda una visión general de las contribuciones realizadas 
     <td ></td>
     <td >07/06/2024</td>
   </tr>
+    <tr>
+    <td  rowspan="5">https://github.com/GoCaseGo-Arquitectura-Emergentes/EquipaTour-App</td>
+    <td >feature/auth</td>
+    <td >5e12fb533608fa9445d99c95604dd8f5e27ad95a</td>
+    <td >login and signup pages</td>
+    <td ></td>
+    <td >03/06/2024</td>
+  </tr>
+  <tr>
+    <td >feature/auth</td>
+    <td >6e5b119248a3dc1c3b5ed2f21a3c034b1481fad5</td>
+    <td >add styles</td>
+    <td ></td>
+    <td >07/06/2024</td>
+  </tr>
+  <tr>
+    <td >home</td>
+    <td >afc1f83449824e142c2a941ae942303d2c08fd47</td>
+    <td >sidebar update</td>
+    <td ></td>
+    <td >07/06/2024</td>
+  </tr>
+  <tr>
+    <td >home</td>
+    <td >c0ad731cd45a199a9e9a825fce18efa1b54cd9d5</td>
+    <td >home view</td>
+    <td ></td>
+    <td >07/06/2024</td>
+  </tr>
+  <tr>
+    <td >trainigs</td>
+    <td >bf5823894a50c4ccef6466880f37e71e1fa23976</td>
+    <td >trainings view</td>
+    <td ></td>
+    <td >08/06/2024</td>
+  </tr>
 </tbody></table>
 
 #### 7.2.1.4. Testing Suite Evidence for Sprint Review.
@@ -1273,8 +1309,7 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
 | Evidencia           | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/Gaona.jpg)  |
 | Link                | [Entrevista - Gaona.mp4](https://1drv.ms/v/s!As4dqaNpPpTlk12hhWFnelwUDo0C?e=cXTmQr) |
 | Duración            | 00:00 min – 04:49 min |
-| Resumen             | Ella nos comenta que la la aplicación le parece totalmente llamativa. Que la primera versión presentada tiene colores atractivos y que la navegación es acorde a una que está vinculada con el turismo. Asimismo, nos comento que no identifica alguna mejora a lo presentado.
-Por último, considera importante la posibilidad de tener una sección de favoritos, donde pueda agregar los tours que sean llamativos e interesantes para ella. |
+| Resumen             | Ella nos comenta que la la aplicación le parece totalmente llamativa. Que la primera versión presentada tiene colores atractivos y que la navegación es acorde a una que está vinculada con el turismo. Asimismo, nos comento que no identifica alguna mejora a lo presentado. Por último, considera importante la posibilidad de tener una sección de favoritos, donde pueda agregar los tours que sean llamativos e interesantes para ella. |
 
 
 
@@ -1303,8 +1338,8 @@ Por último, considera importante la posibilidad de tener una sección de favori
 | Tecnologías         | Smartphone Android, Laptop Windows                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Browsers            | Google Chrome, Opera                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Evidencia           | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/Williams.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                |
-| Link                | [Entrevista - Williams.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201810133_upc_edu_pe/EW5-tf_sPIFJm-1PhtB7k5wB5eDcHceWJyn2c4LUMGANtA?e=lKddlT)                                                                                                                                                                                                                                                                                                                                                                                             |
-| Duración            | 00:00 min – 03:04 min                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Link                | [Entrevista - Williams.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201810133_upc_edu_pe/EW5-tf_sPIFJm-1PhtB7k5wB5eDcHceWJyn2c4LUMGANtA?e=lKddlT)                                   |
+| Duración            | 00:00 min – 03:04   |
 | Resumen             | Williams San Martin, 28 años, personal de recepcion de equipaje de una agencia de turismo, la empresa en la que trabaja tiene un grabe problema de gestion de equipaje ya que ellos utilizan fotos y cuadernillos para la gestion de equipaje del turista. Esto ha llevado a tener problemas con sus clientes por que algunos de ellos pierden un identificador. O algunos de ellos reciben un equipaje equivocado. Menciona que le ayudaría mucho una aplicación que automatice algunos procesos y mejore la gestión de los equipaje con sus clientes. |
 
 
@@ -1320,8 +1355,7 @@ Por último, considera importante la posibilidad de tener una sección de favori
 | Evidencia           | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/Maria.png)  |
 | Link                | [Entrevista - María.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201920431_upc_edu_pe/ERMHLoxEE3RHvP2cKsXJa50B4evPJlQtZ1r4h0eohmqJyg?e=EdYuxS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 | Duración            | 00:00 min – 04:45 min |
-| Resumen             | En cuanto a los procesos de reserva de alojamiento y transporte en los tours, nos comenta que los pasajeros solicitan programas a través de WhatsApp y ella cotiza con sus operadores de extranjero y les manda opciones de acuerdo con las solicitudes de cada pasajero. La entrevistada menciona que tuvo un percance con un pasajero que reservó un hotel en Barcelona, ya que el cliente quería algo económico y no se había informado sobre las restricciones de edad del hotel.
-La reserva se tuvo que cancelar y se le tuvo que devolver el dinero al cliente. Respecto a las aerolíneas, ella comenta que antes daban todo incluído, pero ahora los clientes pueden escoger diferentes opciones que varían en cuanto al equipaje que pueden llevar. También menciona que ha tenido problemas con retrasos y cancelaciones de vuelos, pero que ha logrado solucionarlos con los clientes y las aerolíneas. En general, la entrevista proporciona información útil sobre cómo funciona la industria del turismo y cómo los clientes pueden contratar servicios a través de una agencia de viajes. También se destacan los posibles percances que pueden ocurrir en el proceso de reserva y cómo se pueden solucionar. |
+| Resumen             | En cuanto a los procesos de reserva de alojamiento y transporte en los tours, nos comenta que los pasajeros solicitan programas a través de WhatsApp y ella cotiza con sus operadores de extranjero y les manda opciones de acuerdo con las solicitudes de cada pasajero. La entrevistada menciona que tuvo un percance con un pasajero que reservó un hotel en Barcelona, ya que el cliente quería algo económico y no se había informado sobre las restricciones de edad del hotel.La reserva se tuvo que cancelar y se le tuvo que devolver el dinero al cliente. Respecto a las aerolíneas, ella comenta que antes daban todo incluído, pero ahora los clientes pueden escoger diferentes opciones que varían en cuanto al equipaje que pueden llevar. También menciona que ha tenido problemas con retrasos y cancelaciones de vuelos, pero que ha logrado solucionarlos con los clientes y las aerolíneas. En general, la entrevista proporciona información útil sobre cómo funciona la industria del turismo y cómo los clientes pueden contratar servicios a través de una agencia de viajes. También se destacan los posibles percances que pueden ocurrir en el proceso de reserva y cómo se pueden solucionar. |
 
 
 ##### 7.3.3. Evaluaciones según heurísticas. 
