@@ -1,4 +1,4 @@
-# Capítulo VI: Solution UX Design.
+# Capítulo VI: Solution UX Design
 
 ## 6.1. Style Guidelines.
 En este punto se abordarán las directrices que nuestra startup utilizará para presentar de manera uniforme y efectiva nuestros productos.
@@ -195,7 +195,7 @@ User goal: Primero se registra el usuario en el web o inicia sesión. Luego el u
 
 Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo. A continuación, mostramos los mock-ups de nuestra aplicación web.
 
-<img src="./Resources/mock-up/Application Mock-up.jpg" />
+<img src="./Resources/mock-up/Application Mock-up fix.jpg" />
 
 ### 6.4.4. Application User Flow Diagrams.
 
@@ -213,16 +213,10 @@ Este escenario ilustra el flujo que el usuario debera hacer para utilizar ver su
 
 <img src="./Resources/User Flow Diagram/User Goal 2.jpg" />
 
-User Goal 3: Visualizacion del Historial de Reservas
-
-Este escenario ilustra el flujo que el usuario debera hacer para ver su reservas.
-
-<img src="./Resources/User Flow Diagram/User Goal 3.jpg" />
-
-6.5. Application Prototyping.
+## 6.5. Application Prototyping.
 
 A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
 
-<img src="./Resources/Prototyping/Application Prototyping.jpg" />
+<img src="./Resources/Prototyping/Application Prototyping fix.jpg" />
 
 Link: https://www.figma.com/file/OUei2WriXMqtQ1ZhuJjb8v/Pricing-Plan-UI-Design-(Community)?type=design&node-id=432%3A216&mode=design&t=FVBAY7A6g6ILhD9E-1

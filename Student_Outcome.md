@@ -25,22 +25,37 @@ del ABET – EAC - Student Outcome 3.
         <br>TB1</strong>
         <br>
         En el desarrollo de nuestro proyecto de ingeniería, he implementado metodologías avanzadas como Candidate Context Discovery, Event Storming, Domain Message Flows Modeling y el modelo C4. Estas técnicas me permiten comunicar con claridad y objetividad los complejos detalles técnicos a audiencias de diversas especialidades y niveles jerárquicos. Así, todos los stakeholders pueden comprender y participar efectivamente en el progreso del proyecto.
+        <br>TP1</strong>
+        <br>
+        He implementado metodologías avanzadas como el modelo C4. Así, todos los stakeholders pueden comprender y participar efectivamente en el progreso del proyecto a través de la lectura de los diagramas de componentes.
         <br>
         <strong>Djalma Santos Dioses Molina
         <br>TB1</strong>
         <br>
         En este proyecto he implementado la Descripción de la Startu, definir cuales fueron los Antecedentes y la Problematica, Los puntos que incluye Lean UX Process y definir el Segmento Objetivo. Estas metodologias me permitieron comunicar con claridad, cual es la problematica con la finalidad de plantear una solucion adecuada y conocer nuestro segmento objetivo.
         <br>
+        <strong>TP1</strong>
+        <br>
+        En esta nueva entrega me centré en la maquetación y diseño del Landing Page. Este desarrollo me permitió ampliar mis conocimientos en la parte UX Design.     
+        <br>
         <strong>Erik Romero Polli
         <br>TB1</strong>
         <br>
         Gracias a la implementación de técnicas como la definición de la Funcionalidad Principal (Primary User Stories), la elaboración de Escenarios de Atributos de Calidad, la gestión de Restricciones, el seguimiento del Backlog de Conductores Arquitecturales, la toma de Decisiones de Diseño Arquitectónico y el Refinamiento de Escenarios de Atributos de Calidad, hemos logrado una comunicación efectiva y clara sobre los aspectos técnicos fundamentales del proyecto.
         <br>
+        <strong>TP1</strong>
+        <br>
+        En esta entrega complete el Application Mock-up, User Flow Diagrams y el Application Prototype. Con completar estas actividades tengo una mejor idea y mas experiencia en crear los diseños de una applicacion web.
+        <br>
         <strong>Jherico Fretd Solier Vargas
         <br>TB1</strong>
         <br>
         Durante nuestro proyecto hemos aplicado técnicas como el Impact Mapping y el desarrollo de User Stories. Estas metodologías nos han permitido comunicar de manera clara y objetiva los objetivos y avances del proyecto, facilitando su comprensión y participación activa en el desarrollo exitoso del proyecto.
-        <br>       
+        <br>
+        <strong>TP1</strong>
+        <br>
+        Elaboré pautas del style guidelines y la arquitectura de información de nuestro proyecto, escritas de manera clara y concisa para que sean comprensibles tanto por el equipo, como por los usuarios.
+        <br>
         <strong>Erikc Anderson Cortez Benites
         <br>TB1</strong>
         <br>
@@ -66,20 +81,37 @@ del ABET – EAC - Student Outcome 3.
         </strong>
         En el marco de nuestro proyecto de ingeniería, he redactado documentación que aborda metodologías como Candidate Context Discovery, Event Storming, Domain Message Flows Modeling y el modelo C4. Esta documentación está diseñada para ser accesible y comprensible para un público diverso, incluyendo tanto a especialistas técnicos como a ejecutivos, asegurando que todos los niveles jerárquicos comprendan claramente los avances y resultados del proyecto.
         <br>
+        <strong>TP1</strong>
+        <br>
+        En esta nueva entrega me centré el análisis previo para la elaboración de los componentes de diagrama que servirán de guía para la realización del proyecto a nivel de código.     
+        <br>
         <strong>Djalma Santos Dioses Molina
         <br>TB1</strong>
         <br>
         En el presente proyecto, he realizado detalladamente las metodologias de Lean UX Proccess, Antecedentes y Problematica y la definición de la StartUp. Todo el desarrollo realizado esta diseñado para ser entendido por ingenieros, técnicos hasta el publico en general.
+        <br>
+        <strong>TP1</strong>
+        <br>
+        En el presente proyecto de ingeniería, no solo realice la maquetación y diseño del landing page, también tuve que escoger, cuáles serían las secciones y el contenido de estas secciones con la finalidad de explicar todo el servicio que ofrecemos dentro del Landing page, este contenido debería de ser entendido por todos los públicos. 
         <br>
         <strong>Erik Romero Polli
         <br>TB1</strong>
         <br>
       En el contexto de nuestro proyecto de ingeniería, he generado documentación exhaustiva que aborda aspectos cruciales como la definición de la Funcionalidad Principal (Primary User Stories), la descripción de Escenarios de Atributos de Calidad, la identificación de Restricciones, el seguimiento del Backlog de Conductores Arquitecturales, la toma de Decisiones de Diseño Arquitectónico y el Refinamiento de Escenarios de Atributos de Calidad. Esta documentación está estructurada de manera que pueda ser fácilmente asimilada por todos los miembros del equipo, desde desarrolladores hasta gerentes de proyecto, garantizando así una comprensión clara y una participación efectiva en el progreso y los resultados del proyecto.
         <br>
+        <strong>TP1</strong>
+        <br>
+      En esta entrega de nuestro proyecto de ingeniería, he generado diseños que aborda aspectos cruciales como el Application Mock-up, El User Flow Diagrams y el Application Prototype. Esta diseños estan hecho para que facilmente captas lo que se quiere presentar en los diseños para que los miembros del equipo, desde desarrolladores hasta gerentes de proyecto, garantizando así una comprensión clara y una participación efectiva en el progreso y los resultados del proyecto.
+        <br>
         <strong>Jherico Fretd Solier Vargas
         <br>TB1</strong>
         <br>
-        En el contexto de nuestro proyecto hemos elaborado documentación que detalla las metodologías que hemos implementado. La cual está estructurada de manera clara y concisa, con el objetivo de ser accesible y comprensible para una audiencia variada. Así, garantizamos que todos puedan entender y valorar los objetivos, avances y resultados obtenidos en el desarrollo del proyecto<br>
+        En el contexto de nuestro proyecto hemos elaborado documentación que detalla las metodologías que hemos implementado. La cual está estructurada de manera clara y concisa, con el objetivo de ser accesible y comprensible para una audiencia variada. Así, garantizamos que todos puedan entender y valorar los objetivos, avances y resultados obtenidos en el desarrollo del proyecto
+        <br>
+        <strong>TP1</strong>
+        <br>
+        Se comunicaron de manera efectiva las pautas de estilo y arquitectura de información desarrolladas. Esto facilitó la comprensión y discusión de los conceptos por parte de audiencias diversas, promoviendo así la alineación entre los stakeholders y el avance del proyecto.
+        <br>
         <strong>Erikc Anderson Cortez Benites
         <br>TB1</strong>
         <br>
