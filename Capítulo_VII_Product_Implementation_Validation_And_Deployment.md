@@ -631,7 +631,7 @@ Para el despliegue de la landing page se usara GitHub Pages. Para ello, se debe 
 **1.  Ingresar al repositorio de GitHub del landing page.**
 
 <div align="center">
-  <img src="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/deployment/landing-page-repo.png" alt="Branches.">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/deployment/landing-page-repo.png" alt="Branches.">
 </div>
 
 <br>
@@ -639,7 +639,7 @@ Para el despliegue de la landing page se usara GitHub Pages. Para ello, se debe 
 **2.  Ir a la sección de Settings.**
 
 <div align="center">
-  <img src="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/deployment/landing-page-settings.png" alt="Branches.">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/deployment/lading-page-settings.png" alt="Branches.">
 </div>
 
 <br>
@@ -647,7 +647,7 @@ Para el despliegue de la landing page se usara GitHub Pages. Para ello, se debe 
 **3.  Click en la sección de Pages.**
 
 <div align="center">
-  <img src="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/deployment/landing-page-pages.png" alt="Branches.">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/deployment/landing-page-pages.png" alt="Branches.">
 </div>
 
 <br>
@@ -655,7 +655,7 @@ Para el despliegue de la landing page se usara GitHub Pages. Para ello, se debe 
 **4.  Seleccionar la rama que se desea desplegar y dar click en save.**
 
 <div align="center">
-  <img src="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/deployment/landing-page-branch-save.png" alt="Branches.">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/deployment/landing-page-branch-save.png" alt="Branches.">
 </div>
 
 <br>
@@ -663,7 +663,7 @@ Para el despliegue de la landing page se usara GitHub Pages. Para ello, se debe 
 **5.  Esperar que termine el proceso de despliegue y listo.**
 
 <div align="center">
-  <img src="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/deployment/landing-page-success.png" alt="Branches.">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/deployment/landing-page-success.png" alt="Branches.">
 </div>
 
 Estos pasos son los que se llevaron a cabo para desplegar nuestro Landing Page.
