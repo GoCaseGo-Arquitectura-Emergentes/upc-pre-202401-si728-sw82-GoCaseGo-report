@@ -1,8 +1,10 @@
-## 6.1 Software Configuration Management
+# Capítulo VII: Product Implementation, Validation & Deployment 
+
+## 7.1 Software Configuration Management
 
 A continuación, se presentará un repositorio central y organizado que servirá como guía para el desarrollo enfocado y consistente de nuestra solución.
 
-### 6.1.1 Software Development Environment Configuration
+### 7.1.1 Software Development Environment Configuration
 
 En esta sección se incluye los links de las aplicaciones, productos de software realizadas durante el ciclo del proyecto en los programas que se utilizaron. <br>
 Para ello se clasificará en las siguientes secciones:
@@ -106,7 +108,7 @@ La documentación de software es un tipo de texto escrito o ilustraciones que ac
 * <strong>OpenAPI Specification vía Swagger:</strong><br> La OpenAPI Specification es una especificación para archivos de interfaz legibles por máquina que describe, produce y visualiza servicios web RESTful. Se utiliza para documentar APIs de software de manera precisa y detallada. <br>
 https://swagger.io/specification/ 
  
-### 6.1.2 Source Code Management
+### 7.1.2 Source Code Management
 
 La gestión de código fuente, también conocida como SCM (Source Code Management), es fundamental para hacer un seguimiento de las modificaciones realizadas por un equipo en los repositorios de código fuente durante el desarrollo de proyectos. Se empleará como un sistema de control de versiones que permite rastrear los cambios realizados por cada miembro del equipo.
 
@@ -174,9 +176,9 @@ Para empezar a usar este sistema, se debe declarar una API pública clara y comp
 
 <strong>Ejemplo:  MAJOR.MINOR. PATCH (X.Y.Z)</strong>
 
-* 1.	6.2.5
+* 1.	7.2.5
 * 2.	10.1.1
-* 3.	6.2.0
+* 3.	7.2.0
 * 4.	6.5.0-alfa
   
 <strong>Release Branch:</strong>  release-* (* se cambia por la versión semántica).
@@ -237,7 +239,7 @@ Esta sección es opcional y se utiliza para proporcionar información adicional 
 
 <br>
 
-### 6.1.3 Source Code Style Guide & Conventions
+### 7.1.3 Source Code Style Guide & Conventions
 
 En esta sección, delinearemos las pautas, convenciones, estilos y principios que se utilizarán para cada uno de los lenguajes empleados en la creación de nuestra aplicación. Practicar este conjunto de reglas es de suma importancia, ya que están destinadas a mantener la calidad estructural del software, mejorar la legibilidad del código fuente y facilitar el mantenimiento del código
 
@@ -620,7 +622,7 @@ enumeración
     ```
 <br>
 
-### 6.1.4 Software Deployment Configuration
+### 7.1.4 Software Deployment Configuration
 
 En esta sección se explicaran los pasos necesarios para desplegar cada uno de nuestros proyectos.
 
@@ -751,11 +753,11 @@ Para el despliegue del backend se usara Scalingo. Para ello, se debe seguir los 
 <br>
 
 
-## 6.2 Landing Page, Services & Applications Implementation
-### 6.2.1 Sprint 1
+## 7.2 Landing Page, Services & Applications Implementation
+### 7.2.1 Sprint 1
 En esta parte, detallaremos el avance del Sprint 1 en cuanto al desarrollo del producto y la colaboración del equipo. Hablaremos sobre distintos puntos importantes, como la planificación del sprint, el backlog del sprint y la documentación del desarrollo para la Revisión del Sprint.
 
-#### 6.2.1.1 Sprint Planning 1
+#### 7.2.1.1 Sprint Planning 1
 En esta sección, profundizaremos en los detalles de la Primera Reunión de Planificación del Sprint. Comenzaremos con una introducción que establecerá el contexto y la importancia de esta reunión. Luego, exploraremos los elementos clave de la reunión, como la agenda, los objetivos y la preparación del equipo para el sprint.
 
 <table>
@@ -815,7 +817,7 @@ En esta sección, profundizaremos en los detalles de la Primera Reunión de Plan
   </tr>
 </table>
 
-#### 6.2.1.2 Sprint Backlog 1
+#### 7.2.1.2 Sprint Backlog 1
 En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esencial de la planificación y ejecución del sprint. Comenzaremos con una introducción que destacará el propósito y la importancia del backlog del sprint en el contexto del Sprint 1.
 <table>
 <thead>
@@ -836,9 +838,9 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
     <td>Status (To-do / InProcess / ToReview / Done)</td>
   </tr>
   <tr>
-    <td rowspan="3">US0t</td>
+    <td rowspan="3">US011</td>
     <td rowspan="3">Navegación en la landing page (3)<br></td>
-    <td>US0t-1</td>
+    <td>US011-1</td>
     <td>Diseño de la navegación</td>
     <td>Implementar el diseño de la navegación</td>
     <td>3</td>
@@ -846,7 +848,7 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
     <td>Done</td>
   </tr>
   <tr>
-    <td>US0t-2</td>
+    <td>US011-2</td>
     <td>Implementar botones de navegación</td>
     <td>Agregar botones de navegación y establecer sus rutas</td>
     <td>3</td>
@@ -854,7 +856,7 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
     <td>Done</td>
   </tr>
   <tr>
-    <td>US0t-3</td>
+    <td>US011-3</td>
     <td>Pruebas de navegación</td>
     <td>Realizar pruebas de navegación para garantizar la funcionalidad correcta</td>
     <td>2</td>
@@ -862,9 +864,9 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="4">US0u</td>
+    <td rowspan="4">US012</td>
     <td rowspan="4">Registrar vehículos (4)</td>
-    <td>US0u-1</td>
+    <td>US012-1</td>
     <td>Desarrollo de Gestion de vehículos en Frontend</td>
     <td>Desarrollo del CRUD en el frontend</td>
     <td>3</td>
@@ -872,7 +874,7 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
     <td>Done</td>
   </tr>
   <tr>
-    <td>US0u-2</td>
+    <td>US012-2</td>
     <td>Desarollo de Gestion de vehículos en Backend</td>
     <td>Desarrollo del CRUD en el backend</td>
     <td>3</td>
@@ -880,7 +882,7 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
     <td>Done</td>
   </tr>
   <tr>
-    <td>US0u-3</td>
+    <td>US012-3</td>
     <td>Información de vehículos a registrar en Frontend</td>
     <td>Desarrollo de funcionalidad en el frontend</td>
     <td>2</td>
@@ -888,7 +890,7 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
     <td>Done</td>
   </tr>
   <tr>
-    <td>US0u-4</td>
+    <td>US012-4</td>
     <td>Información de vehículos a registrar en Backend</td>
     <td>Desarrollo de funcionalidad en el backend</td>
     <td>2</td>
@@ -896,9 +898,9 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
     <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="4">US0v</td>
+    <td rowspan="4">US015</td>
     <td rowspan="4">Registrar paquetes turísticos (4)</td>
-    <td>US0w-1</td>
+    <td>US013-1</td>
     <td>Desarollo de Gestion de Paquetes turísticos en Frontend</td>
     <td>Desarrollo del CRUD en el frontend</td>
     <td>2</td>
@@ -906,7 +908,7 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
     <td>Done</td>
   </tr>
   <tr>
-    <td>US0v-2</td>
+    <td>US015-2</td>
     <td>Desarollo de Gestion de Paquetes turísticos en Backend</td>
     <td>Desarrollo del CRUD en el backend</td>
     <td>3</td>
@@ -914,7 +916,7 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
     <td>To-do</td>
   </tr>
   <tr>
-    <td>US0v-3</td>
+    <td>US015-3</td>
     <td>Vista de Paquetes turísticos ordenados por fecha de creación en Frontend</td>
     <td>Desarrollo de vista de paquetes turísticos ordenados por fecha</td>
     <td>2</td>
@@ -922,7 +924,7 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
     <td>To-do</td>
   </tr>
   <tr>
-    <td>US0v-4</td>
+    <td>US015-4</td>
     <td>Endpoint de paquetes turísticos ordenados por fecha de creación en Backend</td>
     <td>Desarrollo de paquetes turísticos ordenados por fecha</td>
     <td>2</td>
@@ -930,9 +932,9 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
     <td>To-do</td>
   </tr>
   <tr>
-    <td rowspan="2">US0w</td>
+    <td rowspan="2">US013</td>
     <td rowspan="2">Asociar vehículo con paquete turístico (3)</td>
-    <td>US0w-1</td>
+    <td>US013-1</td>
     <td>Vista de asociaciones entre paquetes turísticos y vehiculos</td>
     <td>Desarrollo de vista de paquetes turísticos ordenados por fecha</td>
     <td>3</td>
@@ -940,7 +942,7 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
     <td>To-do</td>
   </tr>
   <tr>
-    <td>US0w-2</td>
+    <td>US013-2</td>
     <td>Endpoint de asociaciones entre paquetes turísticos y vehiculos</td>
     <td>Desarrollo de asociaciones entre paquetes turísticos y vehiculos</td>
     <td>3</td>
@@ -969,7 +971,7 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
 </tbody>
 </table>
 
-#### 6.2.1.3. Development Evidence for Sprint Review.
+#### 7.2.1.3. Development Evidence for Sprint Review.
 
 A continuación, se brinda una visión general de las contribuciones realizadas en dos repositorios del proyecto, incluyendo detalles como la rama empleada, el identificador del commit, el mensaje del commit y su cuerpo, además de la fecha en que se llevaron dichos commits.
 
@@ -1093,10 +1095,10 @@ A continuación, se brinda una visión general de las contribuciones realizadas 
   </tr>
 </tbody></table>
 
-#### 6.2.1.4. Testing Suite Evidence for Sprint Review.
+#### 7.2.1.4. Testing Suite Evidence for Sprint Review.
 Para este sprint, no se han realizado las actividades requeridas en la sección de pruebas. Es decir, no se han creado archivos .feature ni se ha identificado la relación con User Stories o clases.
 
-#### 6.2.1.5. Execution Evidence for Sprint Review.
+#### 7.2.1.5. Execution Evidence for Sprint Review.
 ##### Landing Page
 Para este Sprint 1, se realizó la versión final del Landing Page que contiene las siguientes vistas:
 
@@ -1119,11 +1121,11 @@ Se desarrolló el código que tendrán uestras balanzas inteligentes que tendrá
 <h1 align="center"> <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/embedded-system-scale/main/assets/screenshot-project.png" alt="Project Screenshot" height="350"> </h1>
 
 
-#### 6.2.1.6. Services Documentation Evidence for Sprint Review.
+#### 7.2.1.6. Services Documentation Evidence for Sprint Review.
   
 
-#### 6.2.1.7. Software Deployment Evidence for Sprint Review.
+#### 7.2.1.7. Software Deployment Evidence for Sprint Review.
   
 
-#### 6.2.1.8. Team Collaboration Insights during Sprint
+#### 7.2.1.8. Team Collaboration Insights during Sprint
 
