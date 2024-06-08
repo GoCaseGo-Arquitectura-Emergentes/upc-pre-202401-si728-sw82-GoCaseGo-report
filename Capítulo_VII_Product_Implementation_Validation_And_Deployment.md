@@ -1128,6 +1128,57 @@ Se desarrolló el código que tendrán uestras balanzas inteligentes que tendrá
   
 
 #### 7.2.1.8. Team Collaboration Insights during Sprint
+A continuación, se presenta la colaboración en equipo que se ha registrado en GitHub tanto en la seccion de analíticos como en los commits. Se presentará quiénes son los alumnos que participarón y algunos de los commits que realizaron.
+
+<strong>Analíticos de GitHub</strong>
+    + Landing Page
+      + Contributors
+          <div align="center">
+        <img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-7/Resources/team-collaboration-evidences/landing_sprint_2_insight_1.png" alt="contributor-evidence.">
+        </div>
+        En esta imagen, se evidencia los integrantes que han contribuido en el desarrollo del Landing Page. Se evidencia que todo el equipo ha participado.
+      + Traffic
+          <div align="center">
+          <img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-7/Resources/team-collaboration-evidences/traffic_landing_sprint2_2.png" alt="Commit-evidence.">
+        </div>
+          En esta imagen se evidencia el trafico realizado por día en el repositorio de nuestro Landing Page. Evidencia que los integrantes han realizado sus commits en base a su desarrollo, visitantes y clones.
+      + Network
+          <div align="center">
+          <img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-7/Resources/team-collaboration-evidences/network_Sprint2_landing.png" alt="Network-evidence.">
+        </div>
+        Finalmente se presenta el Network de nuestro repositorio, evidenciando el uso de GitFlow y el manejo de ramas con sus respectivas convenciones. 
+      + Web Application
+          + Traffic
+              <div align="center">
+              <img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-7/Resources/team-collaboration-evidences/traffic_web_sprint_2_2.png" alt="Branches.">
+            </div>
+            En esta imagen se muestra los git clones del repositorio y los visitantes a nuestro Web Application. 
+          + Commit
+              <div align="center">
+              <img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-7/Resources/team-collaboration-evidences/commit-sprint.png" alt="Branches.">
+            </div>
+            En esta imagen se evidencia el flujo de la cantidad de commits realizados por día en el repositorio de nuestro Web Applciation. Evidencia que los integrantes han realizado sus commits en base a su desarrollo.
+          + Network
+            <div align="center">
+            <img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-7/Resources/team-collaboration-evidences/network_web_sprint202.png" alt="Branches.">
+          </div>
+            Finalmente se presenta el Network de nuestro repositorio, evidenciando el uso de GitFlow y el manejo de ramas con sus respectivas convenciones.
+      + Web Service
+          + Contributors
+              <div align="center">
+              <img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-7/Resources/team-collaboration-evidences/contributors_backend_sprint2.png" alt="Branches.">
+            </div>
+          + Traffic
+              <div align="center">
+              <img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-7/Resources/team-collaboration-evidences/traffic_backend_sprint2.png" alt="Branches.">
+            </div>
+            En esta imagen se muestra los git clones del repositorio y los visitantes a nuestro Mobile Application. 
+          + Network
+            <div align="center">
+            <img src="https://raw.githubusercontent.com/NexusNova-IOT/upc-pre-202302-si572-SW71-nexusnova-report/feature/chapter-7/Resources/team-collaboration-evidences/network_backend_sprint2.png" alt="Branches.">
+          </div>
+            Finalmente se presenta el Network de nuestro repositorio, evidenciando el uso de GitFlow y el manejo de ramas con sus respectivas convenciones.
+
 
 #### 7.3. Validation Interviews. 
 ##### 7.3.1. Diseño de Entrevistas. 
@@ -1161,7 +1212,8 @@ Se desarrolló el código que tendrán uestras balanzas inteligentes que tendrá
 | Evidencia           | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/Gaona.jpg)  |
 | Link                | [Entrevista - Gaona.mp4](https://1drv.ms/v/s!As4dqaNpPpTlk12hhWFnelwUDo0C?e=cXTmQr) |
 | Duración            | 00:00 min – 04:49 min |
-| Resumen             | La entrevista con Yamile Gaona, residente de 21 años en Callao, reveló su experiencia laboral en una agencia de viajes. Utiliza activamente redes sociales y tecnología, como Instagram, Facebook, Twitter, WhatsApp, Tiktok, un smartphone Android y una laptop Windows. Yamile, en su rol dentro de la agencia, discutió sobre el proceso de reserva de alojamiento y transporte, así como los desafíos comunes relacionados con el equipaje de los clientes. La agencia utiliza estratégicamente las redes sociales para el marketing y prefiere promocionar sus servicios a través de su propio sitio web en lugar de colaborar con agencias en línea. Finalmente, expresó interés en una aplicación que facilite la gestión del equipaje de manera más detallada, lo que sugiere una oportunidad para mejorar la experiencia del cliente y la eficiencia operativa dentro de la agencia de viajes. |
+| Resumen             | Ella nos comenta que la la aplicación le parece totalmente llamativa. Que la primera versión presentada tiene colores atractivos y que la navegación es acorde a una que está vinculada con el turismo. Asimismo, nos comento que no identifica alguna mejora a lo presentado.
+Por último, considera importante la posibilidad de tener una sección de favoritos, donde pueda agregar los tours que sean llamativos e interesantes para ella. |
 
 
 
@@ -1207,7 +1259,8 @@ Se desarrolló el código que tendrán uestras balanzas inteligentes que tendrá
 | Evidencia           | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/Maria.png)  |
 | Link                | [Entrevista - María.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201920431_upc_edu_pe/ERMHLoxEE3RHvP2cKsXJa50B4evPJlQtZ1r4h0eohmqJyg?e=EdYuxS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 | Duración            | 00:00 min – 04:45 min |
-| Resumen             | María Farro, de 20 años y coordinadora de operaciones en una agencia de tours, destaca la utilización de redes sociales como TikTok e Instagram para la promoción de servicios. Los clientes reservan alojamiento y transporte mediante su sitio web o mediante el Whatsapp. Han experimentado pocos problemas de daños de equipaje por exceso de peso. Utilizan redes sociales para promocionar servicios, colaboran con agencias en linea para ampliar su alcance y ven útil una aplicación para mejorar la gestión de equipajes para mejorar tiempos y procesos. Los clientes los contactan para viajes personalizados, con una percepción general positiva por su reputación en redes sociales. Proyectan expansión y mejorar las ofertas personalizadas. Cuentan con una protección contras pérdidas o daños. |
+| Resumen             | En cuanto a los procesos de reserva de alojamiento y transporte en los tours, nos comenta que los pasajeros solicitan programas a través de WhatsApp y ella cotiza con sus operadores de extranjero y les manda opciones de acuerdo con las solicitudes de cada pasajero. La entrevistada menciona que tuvo un percance con un pasajero que reservó un hotel en Barcelona, ya que el cliente quería algo económico y no se había informado sobre las restricciones de edad del hotel.
+La reserva se tuvo que cancelar y se le tuvo que devolver el dinero al cliente. Respecto a las aerolíneas, ella comenta que antes daban todo incluído, pero ahora los clientes pueden escoger diferentes opciones que varían en cuanto al equipaje que pueden llevar. También menciona que ha tenido problemas con retrasos y cancelaciones de vuelos, pero que ha logrado solucionarlos con los clientes y las aerolíneas. En general, la entrevista proporciona información útil sobre cómo funciona la industria del turismo y cómo los clientes pueden contratar servicios a través de una agencia de viajes. También se destacan los posibles percances que pueden ocurrir en el proceso de reserva y cómo se pueden solucionar. |
 
 
 ##### 7.3.3. Evaluaciones según heurísticas. 
