@@ -1097,7 +1097,22 @@ A continuación, se brinda una visión general de las contribuciones realizadas 
 Para este sprint, no se han realizado las actividades requeridas en la sección de pruebas. Es decir, no se han creado archivos .feature ni se ha identificado la relación con User Stories o clases.
 
 #### 6.2.1.5. Execution Evidence for Sprint Review.
+##### Landing Page
+Para este Sprint 1, se realizó la versión final del Landing Page que contiene las siguientes vistas:
 
+##### VISTA GENERAL
+Cuando el visitante ingrese a nuestro landing page, se mostrará lo siguiente:
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/landing/sprint1-es.png" />
+<br>
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/landing/sprint1-en.png" />
+
+##### SERVICE
+En esta sección los visitantes, podrán conocer los servicios:
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/landing/service.png" />
+
+##### BENEFICIOS
+En esta sección los visitantes, podrán conocer los beneficios:
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/landing/benefits.png" />
 
 #### 6.2.1.6. Services Documentation Evidence for Sprint Review.
   
