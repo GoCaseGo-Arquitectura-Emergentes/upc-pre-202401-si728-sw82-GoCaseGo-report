@@ -1188,53 +1188,53 @@ En este sprint se realizó el deployment con Azure, se muestra la evidencia del 
 A continuación, se presenta la colaboración en equipo que se ha registrado en GitHub tanto en la seccion de analíticos como en los commits. Se presentará quiénes son los alumnos que participarón y algunos de los commits que realizaron.
 
 <strong>Analíticos de GitHub</strong>
-    + Landing Page
-      + Contributors
-          <div align="center">
-        <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/landing_sprint_2_insight_1.png" alt="contributor-evidence.">
-        </div>
-        En esta imagen, se evidencia los integrantes que han contribuido en el desarrollo del Landing Page. Se evidencia que todo el equipo ha participado.
++ Landing Page
+  + Contributors
+      <div align="center">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/landing_sprint_2_insight_1.png" alt="contributor-evidence.">
+    </div>
+    En esta imagen, se evidencia los integrantes que han contribuido en el desarrollo del Landing Page. Se evidencia que todo el equipo ha participado.
+  + Traffic
+      <div align="center">
+      <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/traffic_landing_sprint2_2.png" alt="Commit-evidence.">
+    </div>
+      En esta imagen se evidencia el trafico realizado por día en el repositorio de nuestro Landing Page. Evidencia que los integrantes han realizado sus commits en base a su desarrollo, visitantes y clones.
+  + Network
+      <div align="center">
+      <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/network_Sprint2_landing.png" alt="Network-evidence.">
+    </div>
+    Finalmente se presenta el Network de nuestro repositorio, evidenciando el uso de GitFlow y el manejo de ramas con sus respectivas convenciones. 
+  + Web Application
       + Traffic
           <div align="center">
-          <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/traffic_landing_sprint2_2.png" alt="Commit-evidence.">
+          <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/traffic_web_sprint_2_2.png" alt="Branches.">
         </div>
-          En esta imagen se evidencia el trafico realizado por día en el repositorio de nuestro Landing Page. Evidencia que los integrantes han realizado sus commits en base a su desarrollo, visitantes y clones.
-      + Network
+        En esta imagen se muestra los git clones del repositorio y los visitantes a nuestro Web Application. 
+      + Commit
           <div align="center">
-          <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/network_Sprint2_landing.png" alt="Network-evidence.">
+          <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/commit-sprint.png" alt="Branches.">
         </div>
-        Finalmente se presenta el Network de nuestro repositorio, evidenciando el uso de GitFlow y el manejo de ramas con sus respectivas convenciones. 
-      + Web Application
-          + Traffic
-              <div align="center">
-              <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/traffic_web_sprint_2_2.png" alt="Branches.">
-            </div>
-            En esta imagen se muestra los git clones del repositorio y los visitantes a nuestro Web Application. 
-          + Commit
-              <div align="center">
-              <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/commit-sprint.png" alt="Branches.">
-            </div>
-            En esta imagen se evidencia el flujo de la cantidad de commits realizados por día en el repositorio de nuestro Web Applciation. Evidencia que los integrantes han realizado sus commits en base a su desarrollo.
-          + Network
-            <div align="center">
-            <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/network_web_sprint202.png" alt="Branches.">
-          </div>
-            Finalmente se presenta el Network de nuestro repositorio, evidenciando el uso de GitFlow y el manejo de ramas con sus respectivas convenciones.
-      + Web Service
-          + Contributors
-              <div align="center">
-              <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/contributors_backend_sprint2.png" alt="Branches.">
-            </div>
-          + Traffic
-              <div align="center">
-              <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/traffic_backend_sprint2.png" alt="Branches.">
-            </div>
-            En esta imagen se muestra los git clones del repositorio y los visitantes a nuestro Mobile Application. 
-          + Network
-            <div align="center">
-            <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/network_backend_sprint2.png" alt="Branches.">
-          </div>
-            Finalmente se presenta el Network de nuestro repositorio, evidenciando el uso de GitFlow y el manejo de ramas con sus respectivas convenciones.
+        En esta imagen se evidencia el flujo de la cantidad de commits realizados por día en el repositorio de nuestro Web Applciation. Evidencia que los integrantes han realizado sus commits en base a su desarrollo.
+      + Network
+        <div align="center">
+        <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/network_web_sprint202.png" alt="Branches.">
+      </div>
+        Finalmente se presenta el Network de nuestro repositorio, evidenciando el uso de GitFlow y el manejo de ramas con sus respectivas convenciones.
+  + Web Service
+      + Contributors
+          <div align="center">
+          <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/contributors_backend_sprint2.png" alt="Branches.">
+        </div>
+      + Traffic
+          <div align="center">
+          <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/traffic_backend_sprint2.png" alt="Branches.">
+        </div>
+        En esta imagen se muestra los git clones del repositorio y los visitantes a nuestro Mobile Application. 
+      + Network
+        <div align="center">
+        <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/network_backend_sprint2.png" alt="Branches.">
+      </div>
+        Finalmente se presenta el Network de nuestro repositorio, evidenciando el uso de GitFlow y el manejo de ramas con sus respectivas convenciones.
 
 
 #### 7.3. Validation Interviews. 
