@@ -959,8 +959,8 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
   </tr>
   <tr>
     <td>US01-2</td>
-    <td>Endpoint de registro la información de las balanzas interligentes</td>
-    <td>Desarrollo de registro la información de las balanzas interligentes</td>
+    <td>Endpoint de registro la información de las balanzas inteligentes</td>
+    <td>Desarrollo de registro la información de las balanzas inteligentes</td>
     <td>3</td>
     <td>Nicole Price</td>
     <td>To-do</td>
@@ -971,9 +971,130 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
 
 #### 6.2.1.3. Development Evidence for Sprint Review.
 
+A continuación, se brinda una visión general de las contribuciones realizadas en dos repositorios del proyecto, incluyendo detalles como la rama empleada, el identificador del commit, el mensaje del commit y su cuerpo, además de la fecha en que se llevaron dichos commits.
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky">Repository</th>
+    <th class="tg-0pky">Branch</th>
+    <th class="tg-0pky">Commit Id</th>
+    <th class="tg-0pky">Commit Message</th>
+    <th class="tg-0pky">Commit Message Body</th>
+    <th class="tg-0pky">Committed on (Date)</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" rowspan="9">https://github.com/GoCaseGo-Arquitectura-Emergentes/landing-page</td>
+    <td class="tg-0pky">feature/videos</td>
+    <td class="tg-0pky">2a58988e7459c0972e49ee291c59a6de3abe68fd</td>
+    <td class="tg-0pky">feat: add videos styles responsive</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">30/05/2024</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">feature/videos</td>
+    <td class="tg-0pky">0d9369b4924e52ed20144e71003b02290e5a44ea</td>
+    <td class="tg-0pky">feat: add videos styles desktop</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">30/05/2024</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">feature/service</td>
+    <td class="tg-0pky">3bd8f37ae128a2872c285c0e50bbfd2019c047f1</td>
+    <td class="tg-0pky">feat: add service layout</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">30/05/2024</td>
+  </tr>
+  <tr>
+    <td >feature/service</td>
+    <td >efa3afd8450be952d5d5764e2b32dac9331b4feb</td>
+    <td >feat: add service styles desktop</td>
+    <td ></td>
+    <td >30/05/2024</td>
+  </tr>
+  <tr>
+    <td >feature/how-it-works</td>
+    <td >a210ad7ee4ff2551f8e9652339efe4daa64ceb51</td>
+    <td >feat: add how it works layout</td>
+    <td ></td>
+    <td >30/05/2024</td>
+  </tr>
+  <tr>
+    <td >feature/how-it-works</td>
+    <td >6778b9c5bb4cb1e09ae37771984568f7f3c5dfec</td>
+    <td >feat: add how-it-works styles responsive</td>
+    <td ></td>
+    <td >30/05/2024</td>
+  </tr>
+  <tr>
+    <td >feature/header</td>
+    <td >d1cff6271a7ba29a5c14c322b13c4a3e84f5648d</td>
+    <td >feat: add de id on all sections and menu</td>
+    <td ></td>
+    <td >30/05/2024</td>
+  </tr>
+  <tr>
+    <td >feature/footer</td>
+    <td >9b469e7f820d05b5496a0f5dd45d750ea191de14</td>
+    <td >feat: add footer layout</td>
+    <td ></td>
+    <td >30/05/2024</td>
+  </tr>
+  <tr>
+    <td >feature/contact</td>
+    <td >c2ce07ec6c037397ba3ffbdfe18390704393ee36</td>
+    <td >feat: add image and contact layout</td>
+    <td ></td>
+    <td >30/05/2024</td>
+  </tr>
+  <tr>
+    <td  rowspan="4">https://github.com/GoCaseGo-Arquitectura-Emergentes/EquipaTour-Back</td>
+    <td >feature/scale-asset</td>
+    <td >3c932d46c5d88a1467165872f4ea760b829d2f53</td>
+    <td >feat: added create scale endpoint</td>
+    <td ></td>
+    <td >04/06/2024</td>
+  </tr>
+  <tr>
+    <td >feature/iam</td>
+    <td >723616545094c9fce800363d9b7c0fcff36de617</td>
+    <td >feat: added iam files</td>
+    <td ></td>
+    <td >07/06/2024</td>
+  </tr>
+  <tr>
+    <td >feature/iam</td>
+    <td >40bba5d7d9ed0081e8b413ceb2809a9544c5f3f1</td>
+    <td >feat: added cors configuration</td>
+    <td ></td>
+    <td >07/06/2024</td>
+  </tr>
+  <tr>
+    <td >feature/release-1</td>
+    <td >e3315185818880cc8d5e7f8f6c436df426f2a13e</td>
+    <td >chore: modified application.properties</td>
+    <td ></td>
+    <td >07/06/2024</td>
+  </tr>
+  <tr>
+    <td  rowspan="2">https://github.com/GoCaseGo-Arquitectura-Emergentes/embedded-system-scale</td>
+    <td >main</td>
+    <td >669fd7aa7af7954159b8b010b349d29acc6746c6</td>
+    <td >feat: modified image url</td>
+    <td ></td>
+    <td >07/06/2024</td>
+  </tr>
+  <tr>
+    <td >main</td>
+    <td >c3b29d4229e4ce5abff312fe13ada7fc0310b7e0</td>
+    <td >feat: modified readme file</td>
+    <td ></td>
+    <td >07/06/2024</td>
+  </tr>
+</tbody></table>
 
 #### 6.2.1.4. Testing Suite Evidence for Sprint Review.
-
+Para este sprint, no se han realizado las actividades requeridas en la sección de pruebas. Es decir, no se han creado archivos .feature ni se ha identificado la relación con User Stories o clases.
 
 #### 6.2.1.5. Execution Evidence for Sprint Review.
 
