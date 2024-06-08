@@ -7,7 +7,7 @@ A continuación, se presentan las pautas generales para asegurar una presentaci�
 #### Branding
 En esta sección, detallaremos cómo se deben utilizar nuestros logotipos y elementos visuales para transmitir nuestra visión de desarrollo sostenible y enriquecimiento de las comunidades. A continuación, se muestra nuestro logo:
 
-<img src="./Resources/styles/Equipa_Tour_Logo.jpg" />
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/styles/Equipa_Tour_Logo.jpg" />
 
 #### Typography
 Aquí, definimos las tipografías que reflejan nuestra identidad y proporcionaremos pautas sobre tamaños y estilos de fuente para garantizar una presentación coherente en todas nuestras comunicaciones escritas.
@@ -16,13 +16,13 @@ La tipografía utilizada será Poppins, que incluye las variantes Regular, Mediu
 
 **Poppins - Google fonts**
 
-<img src="./Resources/styles/poppins-google-fonts.png" />
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/styles/poppins-google-fonts.png" />
 
 Referencia:  https://fonts.google.com/specimen/Poppins
 
 **Mat - icons**
 
-<img src="./Resources/styles/mat-icons.png" />
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/styles/mat-icons.png" />
 
 Referencia: https://www.angularjswiki.com/angular/angular-material-icons-list-mat-icon-list/ 
 #### Colors
@@ -32,16 +32,16 @@ Hesterbeg, menciona que es vital definir una paleta de colores que contribuya a 
 El equipo ha seleccionado una paleta de colores que consta de los siguientes elementos:
 
 - **Primary**: Este color se utilizará para las barras superiores e inferiores de la aplicación. Coincidirá con el tono predominante en el logotipo de la empresa. El código HEX seleccionado es #BBB968, y su equivalente en RGB es 187, 185, 104.<br/><br/>
-<img src="./Resources/styles/BBB968.png" />
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/styles/BBB968.png" />
 
 - **Primary Variant**: Para teñir la barra de notificaciones, emplearemos una variación del color principal. Es el color HEX #83AC7D, que en RGB se expresa como 131, 172, 125.<br/><br/>
-<img src="./Resources/styles/83AC7D.png" />
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/styles/83AC7D.png" />
 
 - **Secondary**: Los botones flotantes de la aplicación se resaltarán con este color. Para este propósito, hemos seleccionado el código HEX seleccionado es #FF7F7F, y su equivalente en RGB es 255, 127, 127.<br/><br/>
-<img src="./Resources/styles/FF7F7F.png" />
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/styles/FF7F7F.png" />
 
 - **Background**: Este color será el fondo general de la aplicación. En este caso, utilizaremos un tono oscuro con el código HEX seleccionado es #FFFFFF, y su equivalente en RGB es 255, 255, 255.<br/><br/>
-<img src="./Resources/styles/FFFFFF.png" />
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/styles/FFFFFF.png" />
 
 #### Spacing
 - **Botones**: Establecemos un margen interior (padding) de 1 rem (16 px) en la dirección vertical y de 2 rem (32 px) en la horizontal.
@@ -165,10 +165,10 @@ Adicional a ello, se tendrá una barra lateral (desplegable en las versiones de 
 
 ## 6.3. Landing Page UI Desing.
 ## 6.3.1 Landing Page Wireframe.
-<img src="./Resources/landing/Wireframe.png" />
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/landing/Wireframe.png" />
 
 ## 6.3.2 Laning Page Wireflow.
-<img src="./Resources/landing/Wireflow.png">
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/landing/Wireflow.png">
 
 ## 6.4. Applications UX/UI Design.
 
@@ -195,7 +195,7 @@ User goal: Primero se registra el usuario en el web o inicia sesión. Luego el u
 
 Los mockups son otra parte esencial en el diseño de nuestras aplicaciones, ya que nos permiten visualizar la apariencia y la disposición de los elementos antes de comenzar el desarrollo. A continuación, mostramos los mock-ups de nuestra aplicación web.
 
-<img src="./Resources/mock-up/Application Mock-up fix.jpg" />
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/mock-up/Application Mock-up fix.jpg" />
 
 ### 6.4.4. Application User Flow Diagrams.
 
@@ -205,18 +205,18 @@ User Goal 1: Visualizacion del Dashboard:
 
 Este escenario ilustra el flujo que el usuario debera hacer para utilizar el dashboard.
 
-<img src="./Resources/User Flow Diagram/User Goal 1.jpg" />
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/User Flow Diagram/User Goal 1.jpg" />
 
 User Goal 2: Visualizacion del Capacitaciones
 
 Este escenario ilustra el flujo que el usuario debera hacer para utilizar ver sus capacitaciones.
 
-<img src="./Resources/User Flow Diagram/User Goal 2.jpg" />
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/User Flow Diagram/User Goal 2.jpg" />
 
 ## 6.5. Application Prototyping.
 
 A continuación, se presenta el prototipo que se realizó en base a los mockups que se desarrollaron y documentaron en puntos anteriores. El prototype nos permite evidenciar algunos flujos que se llevarán al desarrollo en código.
 
-<img src="./Resources/Prototyping/Application Prototyping fix.jpg" />
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/Prototyping/Application Prototyping fix.jpg" />
 
 Link: https://www.figma.com/file/OUei2WriXMqtQ1ZhuJjb8v/Pricing-Plan-UI-Design-(Community)?type=design&node-id=432%3A216&mode=design&t=FVBAY7A6g6ILhD9E-1
