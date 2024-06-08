@@ -9,7 +9,8 @@
   <li><a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Capitulo_III_Requirements_Specification.md">Capítulo III: Requirements Specification</a></li>
   <li><a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Capitulo_IV_Strategic_Level_Software_Design.md">Capítulo IV: Solution Software Design</a></li>
   <li><a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Capitulo_V_Tactical_Level_Software_Design.md">Capítulo V: Tactical-Level Software Design</a></li>
-    <li><a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Capitulo_VI_Solution_UX_Design.md">Capítulo VI: Solution UX Design</a></li>
+  <li><a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Capitulo_VI_Solution_UX_Design.md">Capítulo VI: Solution UX Design</a></li>
+  <li><a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Capítulo_VII_Product_Implementation_Validation_And_Deployment.md">Capítulo VII: Product Implementation, Validation & Deployment </a></li>
   <li><a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Conclusiones.md">Conclusiones</a></li>
   <li><a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Bibliografia.md">Bibliografía</a></li>
   <li><a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Anexos.md">Anexos</a></li>

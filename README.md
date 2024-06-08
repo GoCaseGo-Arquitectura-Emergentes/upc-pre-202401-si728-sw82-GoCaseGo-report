@@ -29,5 +29,5 @@ Ciclo: 2024-1
 | Solier Vargas, Jherico Fretd        | u201920431     |
 
 
-<div align="right">Abril 2024</div>
+<div align="right">Junio 2024</div>
 <p align="right">(<a href="https://github.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/blob/main/Tabla_de_Contenidos.md">Tabla de contenidos</a>)</p>
