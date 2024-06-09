@@ -672,6 +672,42 @@ Estos pasos son los que se llevaron a cabo para desplegar nuestro Landing Page.
 
 <br><br>
 
+**Front End**
+
+Para el despliegue del Front End se usara Firebase. Para ello, se debe seguir los siguientes pasos:<br>
+
+**1.  Crear el proyecto en Firebase.**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/frontend/deploy-1.png" alt="Branches.">
+</div>
+
+<br>
+
+**2.  Activar Hosting.**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/frontend/deploy-2.png" alt="Branches.">
+</div>
+
+<br>
+
+**3.  Configurar Hosting en proyecto.**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/frontend/deploy-3.png" alt="Branches.">
+</div>
+
+<br>
+
+**4.  Mediante consola hacer deploy del build.**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/frontend/deploy-4.png" alt="Branches.">
+</div>
+
+<br><br>
+
 **Back-End:**
 
 Para el despliegue del backend se usara Scalingo. Para ello, se debe seguir los siguientes pasos: <br>
