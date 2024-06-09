@@ -32,6 +32,11 @@ del ABET – EAC - Student Outcome 3.
         <br>
         He implementado metodologías avanzadas como el modelo C4. Así, todos los stakeholders pueden comprender y participar efectivamente en el progreso del proyecto a través de la lectura de los diagramas de componentes.
         <br>
+        <strong>TB2</strong>
+        <br>
+        En esta nueva entrega me centré el diseño y desarrollo de las balanzas inteligentes que registrarán, el peso de cada equipaje, que enviarán a nuestro sistema backend.     
+        <br>
+        <br>
         <strong>Djalma Santos Dioses Molina
         <br>TB1</strong>
         <br>
@@ -40,10 +45,6 @@ del ABET – EAC - Student Outcome 3.
         <strong>TP1</strong>
         <br>
         En esta nueva entrega me centré en la maquetación y diseño del Landing Page. Este desarrollo me permitió ampliar mis conocimientos en la parte UX Design.     
-        <br>
-        <strong>TB2</strong>
-        <br>
-        En esta nueva entrega me centré el diseño y desarrollo de las balanzas inteligentes que registrarán, el peso de cada equipaje, que enviarán a nuestro sistema backend.     
         <br>
         <strong>Erik Romero Polli
         <br>TB1</strong>
