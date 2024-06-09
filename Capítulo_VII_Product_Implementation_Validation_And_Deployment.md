@@ -121,7 +121,7 @@ La gestión de código fuente, también conocida como SCM (Source Code Managemen
   
 * <strong>URL del Repositorio de Frontend:</strong>  https://github.com/GoCaseGo-Arquitectura-Emergentes/EquipaTour-App
   
-* <strong>URL del FrontEnd desplegado en Firebase:</strong>  https://gocasego-app.web.app/
+* <strong>URL del FrontEnd desplegado en Firebase:</strong>  https://equipatour-app.web.app/
 * <strong>URL del Backend desplegado en Azure:</strong>  https://equipatour.osc-fr1.scalingo.io/
 * <strong>URL del Landing Page desplegado en Github Pages:</strong>  https://gocasego-arquitectura-emergentes.github.io/landing-page/
 
