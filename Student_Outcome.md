@@ -41,6 +41,10 @@ del ABET – EAC - Student Outcome 3.
         <br>
         En esta nueva entrega me centré en la maquetación y diseño del Landing Page. Este desarrollo me permitió ampliar mis conocimientos en la parte UX Design.     
         <br>
+        <strong>TB2</strong>
+        <br>
+        En esta nueva entrega me centré el diseño y desarrollo de las balanzas inteligentes que registrarán, el peso de cada equipaje, que enviarán a nuestro sistema backend.     
+        <br>
         <strong>Erik Romero Polli
         <br>TB1</strong>
         <br>
@@ -87,6 +91,10 @@ del ABET – EAC - Student Outcome 3.
         <strong>TP1</strong>
         <br>
         En esta nueva entrega me centré el análisis previo para la elaboración de los componentes de diagrama que servirán de guía para la realización del proyecto a nivel de código.     
+        <br>
+        <strong>TB2</strong>
+        <br>
+        En esta nueva entrega me centré el diseño y desarrollo de las balanzas inteligentes que registrarán, el peso de cada equipaje, que enviarán a nuestro sistema backend. Así lograremos el desarrollo del requisito del pesaje de las maletas.
         <br>
         <strong>Djalma Santos Dioses Molina
         <br>TB1</strong>
