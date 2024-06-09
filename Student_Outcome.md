@@ -118,7 +118,7 @@ del ABET – EAC - Student Outcome 3.
         <br>
       En esta entrega de nuestro proyecto de ingeniería, he generado diseños que aborda aspectos cruciales como el Application Mock-up, El User Flow Diagrams y el Application Prototype. Esta diseños estan hecho para que facilmente captas lo que se quiere presentar en los diseños para que los miembros del equipo, desde desarrolladores hasta gerentes de proyecto, garantizando así una comprensión clara y una participación efectiva en el progreso y los resultados del proyecto.
         <br>
-        <strong>TP1</strong>
+        <strong>TB2</strong>
         <br>
       En esta nueva entrega me centré el desarrollo del CRUD del vehiculo lo cual se enviarán a nuestro sistema backend.
         <br>
