@@ -7,5 +7,7 @@ Después de realizar el Tactical Software Design, se realizó el diseño que ten
 
 ## About the Team
 [![About the team video](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/about-the-team/about.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921559_upc_edu_pe/EQ7RZG9o0pFJutEPgXv3pCcBSMkoz6wYvKBKOgjDT7vR7A?e=wEVAek)
-Link del video:  https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921559_upc_edu_pe/EQ7RZG9o0pFJutEPgXv3pCcBSMkoz6wYvKBKOgjDT7vR7A?e=wEVAek
+
+Link del video:  
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921559_upc_edu_pe/EQ7RZG9o0pFJutEPgXv3pCcBSMkoz6wYvKBKOgjDT7vR7A?e=wEVAek
 </div>
