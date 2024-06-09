@@ -63,6 +63,10 @@ del ABET – EAC - Student Outcome 3.
         <br>
         Elaboré pautas del style guidelines y la arquitectura de información de nuestro proyecto, escritas de manera clara y concisa para que sean comprensibles tanto por el equipo, como por los usuarios.
         <br>
+        <strong>TB2</strong>
+        <br>
+        En esta entrega desarrollé el desarrollo de la maquetación de Frontend de la aplicación, utilizando como base los mockups diseñados en Figma.     
+        <br>
         <strong>Erikc Anderson Cortez Benites
         <br>TB1</strong>
         <br>
@@ -122,6 +126,10 @@ del ABET – EAC - Student Outcome 3.
         <strong>TP1</strong>
         <br>
         Se comunicaron de manera efectiva las pautas de estilo y arquitectura de información desarrolladas. Esto facilitó la comprensión y discusión de los conceptos por parte de audiencias diversas, promoviendo así la alineación entre los stakeholders y el avance del proyecto.
+        <br>
+        <strong>TB2</strong>
+        <br>
+        En esta entrega realicé el desarrollo del Frontend haciendo uso de tecnologías como Angular, como framework; Tailwind CSS, para los estilos; Angular Icons, para los íconos de la aplicación;y Firebase, para el deploy del proyecto.
         <br>
         <strong>Erikc Anderson Cortez Benites
         <br>TB1</strong>
