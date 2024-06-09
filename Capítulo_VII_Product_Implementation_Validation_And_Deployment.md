@@ -47,7 +47,7 @@ https://www.figma.com/
 El desarrollo de software es una estructura que se aplica al proceso de creación de productos de software. Involucra establecer un proceso que describe distintos enfoques para las diversas actividades que se llevan a cabo durante el desarrollo.
 
 * <strong>GitHub:</strong><br> Es un repositorio comunitario utilizado para almacenar y gestionar los avances de proyectos colaborativos.<br>
-https://github.com/NexusNova-IOT
+https://github.com/GoCaseGo-Arquitectura-Emergentes
 
 * <strong>WebStorm:</strong><br> Es un entorno de desarrollo creado por JetBrains, enfocado en el desarrollo web con JavaScript. Facilita probar el entorno web en navegadores como Google Chrome. Para el proyecto, se usarán HTML, CSS y JavaScript.<br>
 https://www.jetbrains.com/webstorm/
@@ -672,84 +672,28 @@ Estos pasos son los que se llevaron a cabo para desplegar nuestro Landing Page.
 
 <br><br>
 
-**Front-End:**
-
-Para el despliegue del frontend se usara Firebase. Para ello, se debe seguir los siguientes pasos:<br>
-
-**1.  Crear el proyecto en Firebase.**
-
-<div align="center">
-  <img src="" alt="Branches.">
-</div>
-
-<br>
-
-**2.  Configurar el proyecto.**
-
-<div align="center">
-  <img src="" alt="Branches.">
-</div>
-
-<br>
-
-**3.  Activar Hosting.**
-
-<div align="center">
-  <img src="" alt="Branches.">
-</div>
-
-<br>
-
-**4.  Configurar Hosting en proyecto.**
-
-<div align="center">
-  <img src="" alt="Branches.">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="" alt="Branches.">
-</div>
-
-<br>
-
-**5.  Compilar el proyecto localmente.**
-
-<div align="center">
-  <img src="" alt="Branches.">
-</div>
-
-<br>
-
-**6.  Mediante consola hacer *deploy* del build.**
-
-<div align="center">
-  <img src="" alt="Branches.">
-</div>
-
-<br><br>
-
 **Back-End:**
 
 Para el despliegue del backend se usara Scalingo. Para ello, se debe seguir los siguientes pasos: <br>
 
-**1.  Paso.**
+**1.  Creación de cuenta** 
+Crear un proyecto en la aplicación de Scalingo
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/scalingo/overview.png" >
 <br>
 
-**2.  Paso.**
+**2.  Creación de aplicación**
+Crear un aplicación con el nombre de nuestro proyecto
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/scalingo/app.png" >
 <br>
 
-**3.  Paso.**
+**3.  Asignación de repositorio**
+Podemos configurar para hacer los deployments automáticos desde nuestro repositorio de la organización de GoCaseGo
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/scalingo/configuration.png" >
 <br>
 
-**4.  Paso.**
-<br>
-
-**5.  Paso.**
-<br>
-
-**6.  Paso.**
+**4.  Subir cambios**
+En este caso se realizó la conexión con la rama master y cada vez que se suba cambios en esa rama, se verá reflejado en la aplicación de scalingo.
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/scalingo/deploy.png" >
 <br>
 
 
@@ -1093,6 +1037,42 @@ A continuación, se brinda una visión general de las contribuciones realizadas 
     <td ></td>
     <td >07/06/2024</td>
   </tr>
+    <tr>
+    <td  rowspan="5">https://github.com/GoCaseGo-Arquitectura-Emergentes/EquipaTour-App</td>
+    <td >feature/auth</td>
+    <td >5e12fb533608fa9445d99c95604dd8f5e27ad95a</td>
+    <td >login and signup pages</td>
+    <td ></td>
+    <td >03/06/2024</td>
+  </tr>
+  <tr>
+    <td >feature/auth</td>
+    <td >6e5b119248a3dc1c3b5ed2f21a3c034b1481fad5</td>
+    <td >add styles</td>
+    <td ></td>
+    <td >07/06/2024</td>
+  </tr>
+  <tr>
+    <td >home</td>
+    <td >afc1f83449824e142c2a941ae942303d2c08fd47</td>
+    <td >sidebar update</td>
+    <td ></td>
+    <td >07/06/2024</td>
+  </tr>
+  <tr>
+    <td >home</td>
+    <td >c0ad731cd45a199a9e9a825fce18efa1b54cd9d5</td>
+    <td >home view</td>
+    <td ></td>
+    <td >07/06/2024</td>
+  </tr>
+  <tr>
+    <td >trainigs</td>
+    <td >bf5823894a50c4ccef6466880f37e71e1fa23976</td>
+    <td >trainings view</td>
+    <td ></td>
+    <td >08/06/2024</td>
+  </tr>
 </tbody></table>
 
 #### 7.2.1.4. Testing Suite Evidence for Sprint Review.
@@ -1172,12 +1152,84 @@ En esta sección se puede ver los esquema del Tour Package Controller:
 
 
 #### 7.2.1.7. Software Deployment Evidence for Sprint Review.
-  
+
+En este Sprint, se llevaron a cabo una serie de actividades relacionadas con el despliegue de Landing Page, Web Application, Web Services. Estas actividades abarcaron la creación de la página a la cuál pueden acceder los visitantes para que pueden conocer EquipaTour y luego si desean convertirse en usuarios. Por otro lado, se desarrolló la segunda versión del Web Application y primera versión de Web Services.
+
+<strong>Evidence Deployment Landing Page</strong>
+
+En este sprint, se puede evidenciar el cuadro de acciones en nuestro repositorio de Landing Page en GitHub. Esto está relacionado a GitHub Pages, donde estamos hosteando nuestro Landing Page.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/deployment/landing-page-success.png" alt="Branches.">
+</div>
+
+<strong>Evidence Deployment Web Services</strong>
+
+En este sprint se realizó el deployment con Azure, se muestra la evidencia del deployment y el uso de data que se está efectuando día a día. Azure, nos brinda una url donde se extraen los endpoints.
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/backend/Swagger & Weight Controller.jpg" />
+
+<strong>Embedded Scale Project</strong>
+<h1 align="center"> <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/embedded-system-scale/main/assets/screenshot-project.png" alt="Project Screenshot" height="350"> </h1>
+
 
 #### 7.2.1.8. Team Collaboration Insights during Sprint
+A continuación, se presenta la colaboración en equipo que se ha registrado en GitHub tanto en la seccion de analíticos como en los commits. Se presentará quiénes son los alumnos que participarón y algunos de los commits que realizaron.
+
+<strong>Analíticos de GitHUb</strong>
+
++ Landing Page
+  + Contributors
+      <div align="center">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/landing_sprint_2_insight_1.png" alt="contributor-evidence.">
+    </div>
+    En esta imagen, se evidencia los integrantes que han contribuido en el desarrollo del Landing Page. Se evidencia que todo el equipo ha participado.
+  + Traffic
+      <div align="center">
+      <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/traffic_landing_sprint2_2.png" alt="Commit-evidence.">
+    </div>
+      En esta imagen se evidencia el trafico realizado por día en el repositorio de nuestro Landing Page. Evidencia que los integrantes han realizado sus commits en base a su desarrollo, visitantes y clones.
+  + Network
+      <div align="center">
+      <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/network_Sprint2_landing.png" alt="Network-evidence.">
+    </div>
+    Finalmente se presenta el Network de nuestro repositorio, evidenciando el uso de GitFlow y el manejo de ramas con sus respectivas convenciones.
+      
++ Web Application
+  + Traffic
+      <div align="center">
+      <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/traffic_web_sprint_2_2.png" alt="Branches.">
+    </div>
+    En esta imagen se muestra los git clones del repositorio y los visitantes a nuestro Web Application. 
+  + Commit
+      <div align="center">
+      <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/commit-sprint.png" alt="Branches.">
+    </div>
+    En esta imagen se evidencia el flujo de la cantidad de commits realizados por día en el repositorio de nuestro Web Applciation. Evidencia que los integrantes han realizado sus commits en base a su desarrollo.
+  + Network
+    <div align="center">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/network_web_sprint202.png" alt="Branches.">
+    </div>
+    Finalmente se presenta el Network de nuestro repositorio, evidenciando el uso de GitFlow y el manejo de ramas con sus respectivas convenciones.
++ Web Service
+  + Contributors
+      <div align="center">
+      <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/contributors_backend_sprint2.png" alt="Branches.">
+    </div>
+  + Traffic
+      <div align="center">
+      <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/traffic_backend_sprint2.png" alt="Branches.">
+    </div>
+    En esta imagen se muestra los git clones del repositorio y los visitantes a nuestro Mobile Application. 
+  + Network
+    <div align="center">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/network_backend_sprint2.png" alt="Branches.">
+    </div>
+    Finalmente se presenta el Network de nuestro repositorio, evidenciando el uso de GitFlow y el manejo de ramas con sus respectivas convenciones.
+
 
 #### 7.3. Validation Interviews. 
+
 ##### 7.3.1. Diseño de Entrevistas. 
+
 **Preguntas sobre información personal:**
 
 - ¿Cuál es su nombre completo?
@@ -1208,7 +1260,7 @@ En esta sección se puede ver los esquema del Tour Package Controller:
 | Evidencia           | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/Gaona.jpg)  |
 | Link                | [Entrevista - Gaona.mp4](https://1drv.ms/v/s!As4dqaNpPpTlk12hhWFnelwUDo0C?e=cXTmQr) |
 | Duración            | 00:00 min – 04:49 min |
-| Resumen             | La entrevista con Yamile Gaona, residente de 21 años en Callao, reveló su experiencia laboral en una agencia de viajes. Utiliza activamente redes sociales y tecnología, como Instagram, Facebook, Twitter, WhatsApp, Tiktok, un smartphone Android y una laptop Windows. Yamile, en su rol dentro de la agencia, discutió sobre el proceso de reserva de alojamiento y transporte, así como los desafíos comunes relacionados con el equipaje de los clientes. La agencia utiliza estratégicamente las redes sociales para el marketing y prefiere promocionar sus servicios a través de su propio sitio web en lugar de colaborar con agencias en línea. Finalmente, expresó interés en una aplicación que facilite la gestión del equipaje de manera más detallada, lo que sugiere una oportunidad para mejorar la experiencia del cliente y la eficiencia operativa dentro de la agencia de viajes. |
+| Resumen             | Ella nos comenta que la la aplicación le parece totalmente llamativa. Que la primera versión presentada tiene colores atractivos y que la navegación es acorde a una que está vinculada con el turismo. Asimismo, nos comento que no identifica alguna mejora a lo presentado. Por último, considera importante la posibilidad de tener una sección de favoritos, donde pueda agregar los tours que sean llamativos e interesantes para ella. |
 
 
 
@@ -1237,8 +1289,8 @@ En esta sección se puede ver los esquema del Tour Package Controller:
 | Tecnologías         | Smartphone Android, Laptop Windows                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Browsers            | Google Chrome, Opera                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Evidencia           | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/Williams.jpeg)                                                                                                                                                                                                                                                                                                                                                                                                |
-| Link                | [Entrevista - Williams.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201810133_upc_edu_pe/EW5-tf_sPIFJm-1PhtB7k5wB5eDcHceWJyn2c4LUMGANtA?e=lKddlT)                                                                                                                                                                                                                                                                                                                                                                                             |
-| Duración            | 00:00 min – 03:04 min                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| Link                | [Entrevista - Williams.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201810133_upc_edu_pe/EW5-tf_sPIFJm-1PhtB7k5wB5eDcHceWJyn2c4LUMGANtA?e=lKddlT)                                   |
+| Duración            | 00:00 min – 03:04   |
 | Resumen             | Williams San Martin, 28 años, personal de recepcion de equipaje de una agencia de turismo, la empresa en la que trabaja tiene un grabe problema de gestion de equipaje ya que ellos utilizan fotos y cuadernillos para la gestion de equipaje del turista. Esto ha llevado a tener problemas con sus clientes por que algunos de ellos pierden un identificador. O algunos de ellos reciben un equipaje equivocado. Menciona que le ayudaría mucho una aplicación que automatice algunos procesos y mejore la gestión de los equipaje con sus clientes. |
 
 
@@ -1254,7 +1306,7 @@ En esta sección se puede ver los esquema del Tour Package Controller:
 | Evidencia           | ![](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/main/Resources/interviews/Maria.png)  |
 | Link                | [Entrevista - María.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201920431_upc_edu_pe/ERMHLoxEE3RHvP2cKsXJa50B4evPJlQtZ1r4h0eohmqJyg?e=EdYuxS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) |
 | Duración            | 00:00 min – 04:45 min |
-| Resumen             | María Farro, de 20 años y coordinadora de operaciones en una agencia de tours, destaca la utilización de redes sociales como TikTok e Instagram para la promoción de servicios. Los clientes reservan alojamiento y transporte mediante su sitio web o mediante el Whatsapp. Han experimentado pocos problemas de daños de equipaje por exceso de peso. Utilizan redes sociales para promocionar servicios, colaboran con agencias en linea para ampliar su alcance y ven útil una aplicación para mejorar la gestión de equipajes para mejorar tiempos y procesos. Los clientes los contactan para viajes personalizados, con una percepción general positiva por su reputación en redes sociales. Proyectan expansión y mejorar las ofertas personalizadas. Cuentan con una protección contras pérdidas o daños. |
+| Resumen             | En cuanto a los procesos de reserva de alojamiento y transporte en los tours, nos comenta que los pasajeros solicitan programas a través de WhatsApp y ella cotiza con sus operadores de extranjero y les manda opciones de acuerdo con las solicitudes de cada pasajero. La entrevistada menciona que tuvo un percance con un pasajero que reservó un hotel en Barcelona, ya que el cliente quería algo económico y no se había informado sobre las restricciones de edad del hotel.La reserva se tuvo que cancelar y se le tuvo que devolver el dinero al cliente. Respecto a las aerolíneas, ella comenta que antes daban todo incluído, pero ahora los clientes pueden escoger diferentes opciones que varían en cuanto al equipaje que pueden llevar. También menciona que ha tenido problemas con retrasos y cancelaciones de vuelos, pero que ha logrado solucionarlos con los clientes y las aerolíneas. En general, la entrevista proporciona información útil sobre cómo funciona la industria del turismo y cómo los clientes pueden contratar servicios a través de una agencia de viajes. También se destacan los posibles percances que pueden ocurrir en el proceso de reserva y cómo se pueden solucionar. |
 
 
 ##### 7.3.3. Evaluaciones según heurísticas. 
@@ -1278,3 +1330,65 @@ En esta sección se puede ver los esquema del Tour Package Controller:
 **TAREAS A EVALUAR:**
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Inicio de Sesión.
+2. Registro de peso de balanza inteligente
+3. Vista de Home de Aplicación web
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados teniendo en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+| ----- | ----------- |
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a menos que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al próximo release. |
+| 3     | Problema mayor: ocurre con frecuencia o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**TABLA RESUMEN:**
+
+| #  | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| -- | -------- | ------------------- | ------------------------------- |
+| 1  | La contraseña se muestra como texto plano en lugar de censurada | 2 | Usability: Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores |
+| 2  | La función de geolocalización es inexacta y muestra información incorrecta | 4 | Usability: Prevención de errores |
+| 3  | No hay un mensaje de confirmación al guardar cambios  | 3 | Usability: Visibilidad del estado del sistema |
+
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1: La contraseña se muestra como texto plano en lugar de censurada**
+
+- **Severidad: 2**
+- **Heurística violada: Usabilidad - Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores**
+
+**Problema:**
+
+Durante el proceso de inicio de sesión, cuando los usuarios ingresan su contraseña, esta se muestra como texto plano en lugar de ser ocultada con asteriscos u otro carácter. Esto puede plantear preocupaciones de seguridad, ya que otros pueden ver la contraseña mientras se ingresa.
+
+![Problema 1](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/heuristics/password.png)
+
+**Recomendación:**
+
+Para mejorar la seguridad y la experiencia del usuario, se debe ocultar la contraseña con asteriscos u otro carácter mientras se ingresa. Esto ayudará a proteger la contraseña del usuario de miradas indiscretas y aumentará la seguridad del proceso de inicio de sesión.
+
+**PROBLEMA #2: La función de visualización del peso del equipaje no es muy detallosa**
+
+- **Severidad: 4**
+- **Heurística violada: Usability - Prevención de errores**
+
+**Problema:**
+
+La función del pesaje de la balanza muestra con lentitud el pesaje acumulado y no indica cuántas maletas se han pesado hasta el momentoo
+
+![Problema 2](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/heuristics/scale.png)
+
+**Recomendación:**
+
+Es fundamental corregir la inexactitud de la función de pesaje para proporcionar información precisa a los usuarios. Se deben realizar pruebas exhaustivas para garantizar que esta característica funcione de manera confiable.
+
+## 7.4 Video About-the-Product.
+A continuación, se presenta el video About the Product. En el cúal se hace la promoción de EquipaTour y se utiliza el Landing Page como recurso de apoyo visual.
+
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/about-the-product/product.png" alt="About the Product">
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b980_upc_edu_pe/ESZQ-tZYQ-5Kv8mA_iNM_oABqH5gUJLjPz3h6uY39SdtZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=QRtCtE
