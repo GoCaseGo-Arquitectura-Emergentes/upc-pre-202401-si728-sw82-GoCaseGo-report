@@ -1382,4 +1382,4 @@ A continuación, se presenta el video About the Product. En el cúal se hace la 
 
 <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/about-the-product/product.png" alt="About the Product">
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b980_upc_edu_pe/ESZQ-tZYQ-5Kv8mA_iNM_oABqH5gUJLjPz3h6uY39SdtZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=QRtCtE
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921559_upc_edu_pe/EVuTIapUHQJJuwY4rZnVNN8B1DG0ULCWAz_jTm4QVwq8yQ?e=3F8m1S

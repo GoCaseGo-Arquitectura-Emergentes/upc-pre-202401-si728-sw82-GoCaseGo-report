@@ -74,7 +74,7 @@ https://github.com/GoCaseGo-Arquitectura-Emergentes
 
     * Commits
 
-         A continuación se muestran algunos commits realizados en este entrega de TB1.
+         A continuación se muestran algunos commits realizados en este entrega de TP1.
 
         + Nicole Price
             <div style="display: flex; align-items: center;">
@@ -95,4 +95,45 @@ https://github.com/GoCaseGo-Arquitectura-Emergentes
         + Erikc Cortez
             <div style="display: flex; align-items: center;">
             <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/collaboration-insights/evidences_tp1_commit_Erikc.png" style="margin-right: 20px; border: 2px solid lightblue;">
+            </div>
+
+<strong>*Entrega TB2:*</strong>
+
++ Desarrollo de Actividades
+    En el entregable de TB2, el equipo se reunió por discord para hacer las primeras coordinaciones y posteriormente todo el desarrollo.
+
++ Evidencias de colaboración y commits - Github:
+    * Análiticos de colaboración <br><br>
+        + Pulse Image of Github Insights
+        <div style="display: flex; align-items: center;">
+        <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/collaboration-insights/tb2-pulse.png" style="margin-right: 20px; border: 2px solid lightblue;">
+        </div><br>
+        + Contributors Image of Github Insights
+        <div style="display: flex; align-items: center;">
+        <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/collaboration-insights/tb2-contributions.png" style="margin-right: 20px; border: 2px solid lightblue;">
+        </div><br>
+
+    * Commits
+
+         A continuación se muestran algunos commits realizados en este entrega de TB2.
+
+        + Nicole Price
+            <div style="display: flex; align-items: center;">
+            <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/collaboration-insights/evidences_tb2_commit_Nicole.png" style="margin-right: 20px; border: 2px solid lightblue;">
+            </div>
+        + Erik Romero
+            <div style="display: flex; align-items: center;">
+            <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/collaboration-insights/evidences_tb2_commit_Erik.png" style="margin-right: 20px; border: 2px solid lightblue;">
+            </div>
+        + Djalma Dioses
+            <div style="display: flex; align-items: center;">
+            <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/collaboration-insights/evidences_tb2_commit_Djalma.png" style="margin-right: 20px; border: 2px solid lightblue;">
+            </div>
+        + Jherico Solier
+            <div style="display: flex; align-items: center;">
+            <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/collaboration-insights/evidences_tb2_commit_Jherico.png" style="margin-right: 20px; border: 2px solid lightblue;">
+            </div>
+        + Erikc Cortez
+            <div style="display: flex; align-items: center;">
+            <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/collaboration-insights/evidences_tb2_commit_Erikc.png" style="margin-right: 20px; border: 2px solid lightblue;">
             </div>
