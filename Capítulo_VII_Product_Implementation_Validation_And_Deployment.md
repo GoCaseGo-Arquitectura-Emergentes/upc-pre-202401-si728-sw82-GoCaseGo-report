@@ -672,64 +672,6 @@ Estos pasos son los que se llevaron a cabo para desplegar nuestro Landing Page.
 
 <br><br>
 
-**Front-End:**
-
-Para el despliegue del frontend se usara Firebase. Para ello, se debe seguir los siguientes pasos:<br>
-
-**1.  Crear el proyecto en Firebase.**
-
-<div align="center">
-  <img src="" alt="Branches.">
-</div>
-
-<br>
-
-**2.  Configurar el proyecto.**
-
-<div align="center">
-  <img src="" alt="Branches.">
-</div>
-
-<br>
-
-**3.  Activar Hosting.**
-
-<div align="center">
-  <img src="" alt="Branches.">
-</div>
-
-<br>
-
-**4.  Configurar Hosting en proyecto.**
-
-<div align="center">
-  <img src="" alt="Branches.">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="" alt="Branches.">
-</div>
-
-<br>
-
-**5.  Compilar el proyecto localmente.**
-
-<div align="center">
-  <img src="" alt="Branches.">
-</div>
-
-<br>
-
-**6.  Mediante consola hacer *deploy* del build.**
-
-<div align="center">
-  <img src="" alt="Branches.">
-</div>
-
-<br><br>
-
 **Back-End:**
 
 Para el despliegue del backend se usara Scalingo. Para ello, se debe seguir los siguientes pasos: <br>
@@ -1379,3 +1321,65 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
 **TAREAS A EVALUAR:**
 
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Inicio de Sesión.
+2. Registro de peso de balanza inteligente
+3. Vista de Home de Aplicación web
+
+**ESCALA DE SEVERIDAD:**
+
+Los errores serán puntuados teniendo en cuenta la siguiente escala de severidad:
+
+| Nivel | Descripción |
+| ----- | ----------- |
+| 1     | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a menos que exista disponibilidad de tiempo. |
+| 2     | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja para resolverlo de cara al próximo release. |
+| 3     | Problema mayor: ocurre con frecuencia o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4     | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+**TABLA RESUMEN:**
+
+| #  | Problema | Escala de severidad | Heurística/Principio violada(o) |
+| -- | -------- | ------------------- | ------------------------------- |
+| 1  | La contraseña se muestra como texto plano en lugar de censurada | 2 | Usability: Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores |
+| 2  | La función de geolocalización es inexacta y muestra información incorrecta | 4 | Usability: Prevención de errores |
+| 3  | No hay un mensaje de confirmación al guardar cambios  | 3 | Usability: Visibilidad del estado del sistema |
+
+
+**DESCRIPCIÓN DE PROBLEMAS:**
+
+**PROBLEMA #1: La contraseña se muestra como texto plano en lugar de censurada**
+
+- **Severidad: 2**
+- **Heurística violada: Usabilidad - Ayuda a los usuarios a reconocer, diagnosticar y recuperarse de errores**
+
+**Problema:**
+
+Durante el proceso de inicio de sesión, cuando los usuarios ingresan su contraseña, esta se muestra como texto plano en lugar de ser ocultada con asteriscos u otro carácter. Esto puede plantear preocupaciones de seguridad, ya que otros pueden ver la contraseña mientras se ingresa.
+
+![Problema 1](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/heuristics/password.png)
+
+**Recomendación:**
+
+Para mejorar la seguridad y la experiencia del usuario, se debe ocultar la contraseña con asteriscos u otro carácter mientras se ingresa. Esto ayudará a proteger la contraseña del usuario de miradas indiscretas y aumentará la seguridad del proceso de inicio de sesión.
+
+**PROBLEMA #2: La función de visualización del peso del equipaje no es muy detallosa**
+
+- **Severidad: 4**
+- **Heurística violada: Usability - Prevención de errores**
+
+**Problema:**
+
+La función del pesaje de la balanza muestra con lentitud el pesaje acumulado y no indica cuántas maletas se han pesado hasta el momentoo
+
+![Problema 2](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/heuristics/scale.png)
+
+**Recomendación:**
+
+Es fundamental corregir la inexactitud de la función de pesaje para proporcionar información precisa a los usuarios. Se deben realizar pruebas exhaustivas para garantizar que esta característica funcione de manera confiable.
+
+## 7.4 Video About-the-Product.
+A continuación, se presenta el video About the Product. En el cúal se hace la promoción de EquipaTour y se utiliza el Landing Page como recurso de apoyo visual.
+
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/about-the-product/product.png" alt="About the Product">
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201b980_upc_edu_pe/ESZQ-tZYQ-5Kv8mA_iNM_oABqH5gUJLjPz3h6uY39SdtZA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=QRtCtE
