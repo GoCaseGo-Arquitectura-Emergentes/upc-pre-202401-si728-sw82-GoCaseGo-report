@@ -1122,10 +1122,15 @@ En esta sección se puede ver el controller del funcion de Vehicle:
 En esta sección se puede ver el controller del funcion de IAM:
 <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/backend/IAM Controller.jpg" />
 
+###### Tour Package Controller
+En esta sección se puede ver el controller del paquete turístico:
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/backend/TourPackageController.png" />
+
+
 ##### Schemas:
 Además, en la parte inferior se pueden ver todos los esquemas necesarios para realizar correctamente las solicitudes y recibir los recursos.
 
-###### Wieght Schemas
+###### Weight Schemas
 En esta sección se puede ver los esquema del Weight Sensor Controller:
 <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/backend/Schema Weight.jpg" />
 
@@ -1140,6 +1145,10 @@ En esta sección se puede ver el esquema del IOT Logger Controller:
 ###### Identity Access Management (IAM) Schemas
 En esta sección se puede ver los esquema del IAM Controller:
 <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/backend/Schema AIM.jpg" />
+
+###### Tour Package Schemas
+En esta sección se puede ver los esquema del Tour Package Controller:
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/backend/SchemaTourPackage.png" />
 
 
 #### 7.2.1.7. Software Deployment Evidence for Sprint Review.
