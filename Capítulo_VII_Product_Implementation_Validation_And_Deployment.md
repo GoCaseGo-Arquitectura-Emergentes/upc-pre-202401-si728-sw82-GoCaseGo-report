@@ -1225,6 +1225,15 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
     </div>
     Finalmente se presenta el Network de nuestro repositorio, evidenciando el uso de GitFlow y el manejo de ramas con sus respectivas convenciones.
 
+### 7.2.2 Sprint 2
+#### 7.2.2.1. Sprint Planning 2
+#### 7.2.2.2. Sprint Backlog 2
+#### 7.2.2.3. Development Evidence for Sprint Review
+#### 7.2.2.5. Testing Suite Evidence for Sprint Review
+#### 7.2.2.6. Execution Evidence for Sprint Review
+#### 7.2.2.7. Services Documentation Evidence for Sprint Review
+#### 7.2.2.8. Software Deployment Evidence for Sprint Review
+#### 7.2.2.8. Team Collaboration Insights during Sprint
 
 #### 7.3. Validation Interviews. 
 
