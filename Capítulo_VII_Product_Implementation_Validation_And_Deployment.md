@@ -121,7 +121,7 @@ La gestión de código fuente, también conocida como SCM (Source Code Managemen
   
 * <strong>URL del Repositorio de Frontend:</strong>  https://github.com/GoCaseGo-Arquitectura-Emergentes/EquipaTour-App
   
-* <strong>URL del FrontEnd desplegado en Firebase:</strong>  https://gocasego-app.web.app/
+* <strong>URL del FrontEnd desplegado en Firebase:</strong>  https://equipatour-app.web.app/
 * <strong>URL del Backend desplegado en Azure:</strong>  https://equipatour.osc-fr1.scalingo.io/
 * <strong>URL del Landing Page desplegado en Github Pages:</strong>  https://gocasego-arquitectura-emergentes.github.io/landing-page/
 
@@ -669,6 +669,42 @@ Para el despliegue de la landing page se usara GitHub Pages. Para ello, se debe 
 </div>
 
 Estos pasos son los que se llevaron a cabo para desplegar nuestro Landing Page.
+
+<br><br>
+
+**Front End**
+
+Para el despliegue del Front End se usara Firebase. Para ello, se debe seguir los siguientes pasos:<br>
+
+**1.  Crear el proyecto en Firebase.**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/frontend/deploy-1.png" alt="Branches.">
+</div>
+
+<br>
+
+**2.  Activar Hosting.**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/frontend/deploy-2.png" alt="Branches.">
+</div>
+
+<br>
+
+**3.  Configurar Hosting en proyecto.**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/frontend/deploy-3.png" alt="Branches.">
+</div>
+
+<br>
+
+**4.  Mediante consola hacer deploy del build.**
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/frontend/deploy-4.png" alt="Branches.">
+</div>
 
 <br><br>
 
