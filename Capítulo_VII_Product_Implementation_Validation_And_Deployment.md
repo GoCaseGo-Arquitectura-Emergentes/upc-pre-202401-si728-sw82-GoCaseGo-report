@@ -1266,6 +1266,20 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
 #### 7.2.2.2. Sprint Backlog 2
 #### 7.2.2.3. Development Evidence for Sprint Review
 #### 7.2.2.4. Testing Suite Evidence for Sprint Review
+Para este Sprint-2 se inicio la realización de tests para validar el correcto funcionamiento de los commands, services y queries de los distintos servicios y controllers.
+
+Para este entregable se inicio con la realización de tests para el servicio de Tour Package y Vehicle Management, lo cual son los servicio principales de la aplicación.
+
++ Tour Package Test
+<div align="center">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/Testing Suite/Test-Tour.jpg" alt="Testing Suite - Tour Package.">
+</div>
+
++ Vehicle Management Test
+<div align="center">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/Testing Suite/Test-Vehicle.jpg" alt="Testing Suite - Vehicle Management.">
+</div>
+
 #### 7.2.2.5. Execution Evidence for Sprint Review
 #### 7.2.2.6. Services Documentation Evidence for Sprint Review
 #### 7.2.2.7. Software Deployment Evidence for Sprint Review
