@@ -111,6 +111,18 @@
     <td>Erikc Cortez</td>
     <td>Realización de mockup y prototype de las aplicaciones web</td>
   </tr>
+   <tr>
+    <td>1.4</td>
+    <td>23/06/2024</td>
+    <td>Nicole Price</td>
+    <td>Creación de los sensores de vibración y las balanzas inteligentes</td>
+  </tr>
+  <tr>
+    <td>1.4.1</td>
+    <td>23/06/2024</td>
+    <td>Nicole Price</td>
+    <td>Creación de los aplicación móvil e implementación con los apis de los sensores</td>
+  </tr>
 </tbody>
 </table>
 
