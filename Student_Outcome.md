@@ -35,7 +35,9 @@ del ABET – EAC - Student Outcome 3.
         <strong>TB2</strong>
         <br>
         En esta nueva entrega me centré el diseño y desarrollo de las balanzas inteligentes que registrarán, el peso de cada equipaje, que enviarán a nuestro sistema backend.     
+        <br>TF1</strong>
         <br>
+        He implementado metodologías avanzadas para la realización de la aplicación móvil. Así, todos los stakeholders pueden comprender y participar efectivamente en el progreso del proyecto a través de la lectura de los diagramas de componentes.
         <br>
         <strong>Djalma Santos Dioses Molina
         <br>TB1</strong>
@@ -45,6 +47,10 @@ del ABET – EAC - Student Outcome 3.
         <strong>TP1</strong>
         <br>
         En esta nueva entrega me centré en la maquetación y diseño del Landing Page. Este desarrollo me permitió ampliar mis conocimientos en la parte UX Design.     
+        <br>
+        <strong>TF1</strong>
+        <br>
+        En esta nueva entrega me centré en el diseño del módulo de integración de los vehículos.     
         <br>
         <strong>Erik Romero Polli
         <br>TB1</strong>
@@ -63,6 +69,10 @@ del ABET – EAC - Student Outcome 3.
         <br>TB1</strong>
         <br>
         Durante nuestro proyecto hemos aplicado técnicas como el Impact Mapping y el desarrollo de User Stories. Estas metodologías nos han permitido comunicar de manera clara y objetiva los objetivos y avances del proyecto, facilitando su comprensión y participación activa en el desarrollo exitoso del proyecto.
+        <br>
+        <strong>TF1</strong>
+        <br>
+        En esta nueva entrega me centré en el diseño del módulo de integración de los vehículos.     
         <br>
         <strong>TP1</strong>
         <br>
@@ -113,6 +123,9 @@ del ABET – EAC - Student Outcome 3.
         <strong>TP1</strong>
         <br>
         En el presente proyecto de ingeniería, no solo realice la maquetación y diseño del landing page, también tuve que escoger, cuáles serían las secciones y el contenido de estas secciones con la finalidad de explicar todo el servicio que ofrecemos dentro del Landing page, este contenido debería de ser entendido por todos los públicos. 
+        <br>TF1<br>
+        </strong>
+        En el marco de nuestro proyecto de ingeniería, he redactado documentación que aborda los resultados del deployment realizados netamente de los sensores de scale y vibration en la plataforma online de wokwi.
         <br>
         <strong>Erik Romero Polli
         <br>TB1</strong>
@@ -125,7 +138,10 @@ del ABET – EAC - Student Outcome 3.
         <br>
         <strong>TB2</strong>
         <br>
-      En esta nueva entrega me centré el desarrollo del CRUD del vehiculo lo cual se enviarán a nuestro sistema backend.
+        En esta nueva entrega me centré el desarrollo del CRUD del vehiculo lo cual se enviarán a nuestro sistema backend.
+        <br>TF1<br>
+        </strong>
+        En esta entrega, realicé el desarrollo de la interfaz en el que se visualizaba la parte del peso acumulado de la balanza inteligente, en la interfaz de la aplicación web.
         <br>
         <strong>Jherico Fretd Solier Vargas
         <br>TB1</strong>
@@ -144,8 +160,6 @@ del ABET – EAC - Student Outcome 3.
         <br>TB1</strong>
         <br>
         Durante nuestro proyecto hemos utilizado herramientas de comunicación de manera constante esto para facilitar el desarrollo del documento. Estas metodologías nos han permitido comunicar de manera clara y objetiva los objetivos y avances del proyecto, facilitando su comprensión y participación activa en el desarrollo exitoso del proyecto.
-        <br>
-        <strong>Erikc Anderson Cortez Benites
         <br>TP1</strong>
         <br>
         Hemos empleado herramientas de comunicación de forma continua para agilizar la creación del documento. Estas técnicas nos han posibilitado transmitir de manera precisa y objetiva los propósitos y progresos del proyecto, lo que ha facilitado su entendimiento y fomentado la participación activa en su exitosa ejecución.
