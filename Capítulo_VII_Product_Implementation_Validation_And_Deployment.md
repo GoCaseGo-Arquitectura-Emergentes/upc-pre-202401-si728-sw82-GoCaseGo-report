@@ -1308,7 +1308,7 @@ En esta sección, profundizaremos en los detalles de la Segunda Reunión de Plan
   </tr>
   <tr>
     <td>Sprint 2 Goal</td>
-    <td>Desarrollar la versión final de la frontend, backend, arduino y la aplicacion móvil, conectando los servicios para conseguir una aplicación funcional, que cumpla con el objetivo principal de nuestra startup.<br>
+    <td>Desarrollar la versión final del frontend, backend, arduino y la aplicacion móvil, conectando los servicios para conseguir una aplicación funcional, que cumpla con el objetivo principal de nuestra startup.<br>
     Se requerirá realizar pruebas para validar que la aplicación trabaje de manera óptima.</td>
 </tr>
 
