@@ -13,3 +13,8 @@ Enlace: [Exposure video Tp1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u
 [![Exposure video Tb2](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/annexes/expo-tb2.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921559_upc_edu_pe/ESMgIhIohUdCpGRhTdxOjuMBMd3HXTzvTBgrlK70Ng1cjA?e=Sy3MIJ)
 
 Enlace: [Exposure video Tb2](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921559_upc_edu_pe/ESMgIhIohUdCpGRhTdxOjuMBMd3HXTzvTBgrlK70Ng1cjA?e=Sy3MIJ)
+
+## Video de exposición Tf1
+[![Exposure video Tf1](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/annexes/expo-tf1.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921559_upc_edu_pe/EYBW8CSspJRCm7P6HGHG9IwBYasc3P3tNcoSZZcgNcAduw?e=Cio7SS)
+
+Enlace: [Exposure video Tf1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921559_upc_edu_pe/EYBW8CSspJRCm7P6HGHG9IwBYasc3P3tNcoSZZcgNcAduw?e=Cio7SS)
