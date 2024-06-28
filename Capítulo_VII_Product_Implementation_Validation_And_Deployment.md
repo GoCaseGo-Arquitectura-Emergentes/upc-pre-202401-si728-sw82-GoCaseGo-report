@@ -880,7 +880,7 @@ En esta sección, nos sumergiremos en el Sprint Backlog 1, que es una parte esen
   <tr>
     <td rowspan="4">US015</td>
     <td rowspan="4">Registrar paquetes turísticos (4)</td>
-    <td>US013-1</td>
+    <td>US015-1</td>
     <td>Desarollo de Gestion de Paquetes turísticos en Frontend</td>
     <td>Desarrollo del CRUD en el frontend</td>
     <td>2</td>
@@ -1262,8 +1262,181 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
     Finalmente se presenta el Network de nuestro repositorio, evidenciando el uso de GitFlow y el manejo de ramas con sus respectivas convenciones.
 
 ### 7.2.2 Sprint 2
+En esta parte, detallaremos el avance del Sprint 2 en cuanto al desarrollo del producto y la colaboración del equipo. Hablaremos sobre distintos puntos importantes, como la planificación del sprint, el backlog del sprint y la documentación del desarrollo para la Revisión del Sprint.
+
 #### 7.2.2.1. Sprint Planning 2
+En esta sección, profundizaremos en los detalles de la Segunda Reunión de Planificación del Sprint. Comenzaremos con una introducción que establecerá el contexto y la importancia de esta reunión. Luego, exploraremos los elementos clave de la reunión, como la agenda, los objetivos y la preparación del equipo para el sprint.
+
+<table>
+  <tr>
+    <th>Sprint #</th>
+    <th>Sprint 2</th>
+  </tr>
+  <tr>
+    <td colspan="2">Sprint Planning</td>
+  </tr>
+  <tr>
+    <td>Date</td>
+    <td>2024-06-10</td>
+  </tr>
+  <tr>
+    <td>Time</td>
+    <td>8:00 PM</td>
+  </tr>
+  <tr>
+    <td>Location</td>
+    <td>Reunión virtual mediante Discord</td>
+  </tr>
+  <tr>
+    <td>Prepared By</td>
+    <td>Price Torrejón, Nicole</td>
+  </tr>
+  <tr>
+    <td>Attendees</td>
+    <td>Cortez Benites, Erick Anderson; Dioses Molina, Djalma Santos; Romero Polli, Erik y Solier Vargas, Jherico Fretd </td>
+  </tr>
+  <tr>
+    <td>Sprint n -1 Review Summary</td>
+    <td>Se realizó el Landing page, y se avanzó con el desarrollo del backend, arduino y la aplicación móvil. El frontend se desarrolló a nivel interfaz y requiere la conexión con el backend.</td>
+  </tr>
+  <tr>
+    <td>Sprint n -1 Retrospective Summary</td>
+    <td>Se requerirá una mayor comunicación para realizar la conexión de los componentes desarrollados y conseguir la versión final funcional de la aplicación.</td>
+  </tr>
+  <tr>
+    <td colspan="2">Sprint 2 Goal</td>
+  </tr>
+  <tr>
+    <td>Sprint 2 Goal</td>
+    <td>Desarrollar la versión final de la frontend, backend, arduino y la aplicacion móvil, conectando los servicios para conseguir una aplicación funcional, que cumpla con el objetivo principal de nuestra startup.<br>
+    Se requerirá realizar pruebas para validar que la aplicación trabaje de manera óptima.</td>
+</tr>
+
+  <tr>
+    <td>Sprint 2 Velocity</td>
+    <td>25</td>
+  </tr>
+  <tr>
+    <td>Sum of Story Points</td>
+    <td>22</td>
+  </tr>
+</table>
+
+
 #### 7.2.2.2. Sprint Backlog 2
+A continuación, exploraremos el Sprint Backlog 2, que será esencial para la planificación y ejecución del sprint. 
+<table>
+<thead>
+  <tr>
+    <th colspan="2">User Story</th>
+    <th colspan="6">Work-Item / Task</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Id</td>
+    <td>Title</td>
+    <td>Description</td>
+    <td>Estimation (Hours)</td>
+    <td>Assigned to</td>
+    <td>Status (To-do / InProcess / ToReview / Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US02</td>
+    <td rowspan="2">Integración de Sensores de Impacto y Vibración (2)<br></td>
+    <td>US02-1</td>
+    <td>Implementar Sensores de Impacto y Vibración</td>
+    <td>Integrar sensores de impacto y vibración en los compartimentos de almacenamiento</td>
+    <td>4</td>
+    <td>Djalma Dioses</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US02-2</td>
+    <td>Pruebas de Sensores de Impacto y Vibración</td>
+    <td>Realizar pruebas para asegurar la detección de movimientos bruscos o golpes</td>
+    <td>3</td>
+    <td>Djalma Dioses</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US03</td>
+    <td rowspan="2">Análisis de Datos de Balanzas Inteligentes (2)</td>
+    <td>US03-1</td>
+    <td>Desarrollo de Algoritmo de Análisis de Datos</td>
+    <td>Crear un algoritmo para analizar datos de peso de las balanzas inteligentes</td>
+    <td>3</td>
+    <td>Jherico Solier</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US03-2</td>
+    <td>Implementar Análisis de Datos</td>
+    <td>Integrar el algoritmo de análisis en el backend</td>
+    <td>3</td>
+    <td>Erick Cortez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US04</td>
+    <td rowspan="2">Análisis de Datos de Sensores de Impacto y Vibración (2)</td>
+    <td>US04-1</td>
+    <td>Desarrollo de Algoritmo de Análisis de Impacto</td>
+    <td>Crear un algoritmo para analizar datos de sensores de impacto y vibración</td>
+    <td>4</td>
+    <td>Jherico Solier</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US04-2</td>
+    <td>Implementar Análisis de Datos</td>
+    <td>Integrar el algoritmo de análisis en el backend</td>
+    <td>3</td>
+    <td>Erik Romero</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US06</td>
+    <td rowspan="2">Generación de Alertas por Exceso de Peso (2)</td>
+    <td>US06-1</td>
+    <td>Desarrollo de Sistema de Alertas</td>
+    <td>Crear un sistema para generar alertas por exceso de peso</td>
+    <td>3</td>
+    <td>Jherico Solier</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>US06-2</td>
+    <td>Implementar Alertas en Tiempo Real</td>
+    <td>Integrar alertas en tiempo real en el frontend y backend</td>
+    <td>4</td>
+    <td>Erik Cortez</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US05</td>
+    <td rowspan="2">Registro de Incidentes de Manejo Brusco (2)</td>
+    <td>US05-1</td>
+    <td>Desarrollo de Funcionalidad de Registro de Incidentes</td>
+    <td>Crear una funcionalidad para registrar y notificar incidentes de manejo brusco</td>
+    <td>5</td>
+    <td>Nicole Price</td>
+    <td>To-do</td>
+  </tr>
+  <tr>
+    <td>US05-2</td>
+    <td>Implementar Registro de Incidentes</td>
+    <td>Integrar el registro de incidentes en el backend</td>
+    <td>3</td>
+    <td>Nicole Price</td>
+    <td>To-do</td>
+  </tr>
+  
+</tbody>
+</table>
+
 #### 7.2.2.3. Development Evidence for Sprint Review
 
 <table class="tg"><thead>
