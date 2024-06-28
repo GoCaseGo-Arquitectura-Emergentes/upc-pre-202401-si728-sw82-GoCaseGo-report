@@ -1266,6 +1266,20 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
 #### 7.2.2.2. Sprint Backlog 2
 #### 7.2.2.3. Development Evidence for Sprint Review
 #### 7.2.2.4. Testing Suite Evidence for Sprint Review
+Para este Sprint-2 se inicio la realización de tests para validar el correcto funcionamiento de los commands, services y queries de los distintos servicios y controllers.
+
+Para este entregable se inicio con la realización de tests para el servicio de Tour Package y Vehicle Management, lo cual son los servicio principales de la aplicación.
+
++ Tour Package Test
+<div align="center">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/Testing Suite/Test-Tour.jpg" alt="Testing Suite - Tour Package.">
+</div>
+
++ Vehicle Management Test
+<div align="center">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/Testing Suite/Test-Vehicle.jpg" alt="Testing Suite - Vehicle Management.">
+</div>
+
 #### 7.2.2.5. Execution Evidence for Sprint Review
 #### 7.2.2.6. Services Documentation Evidence for Sprint Review
 A continuación, presentamos la documentación de los servicios disponibles en nuestra API, que soportan las funcionalidades tanto en nuestra interfaz móvil como web. Esta documentación ha sido creada con Swagger. Adjuntamos capturas donde se pueden visualizar todos los endpoints disponibles y las acciones CRUD que se pueden realizar para cada entidad incluida en el alcance de nuestra solución.
@@ -1325,6 +1339,20 @@ En esta sección se puede ver los esquema del Vibration Sensors Controller:
 
 
 #### 7.2.2.7. Software Deployment Evidence for Sprint Review
+En este sprint se realizó el deployment con Wokwi, se muestra la evidencia del deployment y el uso de data que se está efectuando día a día. Azure, nos brinda una url donde se extraen los endpoints.
+
+<strong>Evidence Deployment Embedded Vibration Sensor</strong>
+
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/sensors/vibration-sensor.png" />
+
+Url: https://wokwi.com/projects/400724658588787713
+
+<strong>Evidence Deployment Embedded Scale Project</strong>
+
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/sensors/scale.png" alt="Project Screenshot" height="350">
+
+  Url:https://wokwi.com/projects/399864095941297153
+
 #### 7.2.2.8. Team Collaboration Insights during Sprint
 A continuación, se presenta la colaboración en equipo que se ha registrado en GitHub tanto en la seccion de analíticos como en los commits. Se presentará quiénes son los alumnos que participarón y algunos de los commits que realizaron.
 
