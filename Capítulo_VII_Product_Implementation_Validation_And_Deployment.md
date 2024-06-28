@@ -1385,6 +1385,21 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
     <td >25/06/2024</td>
   </tr>
   <tr>
+    <td rowspan="2">https://github.com/GoCaseGo-Arquitectura-Emergentes/embedded-system-vibration-sensor</td>
+    <td >main</td>
+    <td >6a1409f54aef762d644173de30afd1ad2f6193c6</td>
+    <td >feat: added information about sensor and url of wokwi project</td>
+    <td ></td>
+    <td >26/06/2024</td>
+  </tr>
+  <tr>
+    <td >main</td>
+    <td >f4b92b3fe70831c887650ac780f2710df8e69ca7</td>
+    <td >feat: modified title in readme</td>
+    <td ></td>
+    <td >26/06/2024</td>
+  </tr>
+  <tr>
     <td >https://github.com/GoCaseGo-Arquitectura-Emergentes/GoCaseGo.MobileApp</td>
     <td >first commit</td>
     <td >ed806a3ad9877ba7231b75e13b15f64e0d355206</td>
