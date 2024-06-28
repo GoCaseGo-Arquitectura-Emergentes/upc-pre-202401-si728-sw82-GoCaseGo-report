@@ -5,4 +5,11 @@ Se determinó que las entrevistas eran esenciales para comprender las necesidade
 
 Después de realizar el Tactical Software Design, se realizó el diseño que tendrá la plataforma que cumple con los requisitos de nuestro objetivo. De esta manera, se logró realizar los disgramas de componentes para la elaboración de la arquitectura de EquipaTour.
 
+El equipo concluyó el desarrollo de la aplicación de Arduino para las balanzas inteligentes, abarcando tanto el diseño del landing page como la primera versión del frontend. Este avance representó un hito significativo en el proyecto, al permitir una integración efectiva entre el hardware y la interfaz de usuario. En consecuencia, las balanzas inteligentes no solo recopilan datos con precisión, sino que también los presentan de manera intuitiva y accesible, facilitando su uso y análisis.
+
+## About the Team
+[![About the team video](https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/develop/Resources/about-the-team/about.png)](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921559_upc_edu_pe/EQ7RZG9o0pFJutEPgXv3pCcBSMkoz6wYvKBKOgjDT7vR7A?e=wEVAek)
+
+Link del video:  
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u201921559_upc_edu_pe/EQ7RZG9o0pFJutEPgXv3pCcBSMkoz6wYvKBKOgjDT7vR7A?e=wEVAek
 </div>
