@@ -1270,7 +1270,57 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
 #### 7.2.2.7. Services Documentation Evidence for Sprint Review
 #### 7.2.2.8. Software Deployment Evidence for Sprint Review
 #### 7.2.2.8. Team Collaboration Insights during Sprint
+A continuación, se presenta la colaboración en equipo que se ha registrado en GitHub tanto en la seccion de analíticos como en los commits. Se presentará quiénes son los alumnos que participarón y algunos de los commits que realizaron.
 
+<strong>Analíticos de GitHUb</strong>   
++ Web Application
+  + Traffic
+      <div align="center">
+      <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/t2.png" alt="Branches.">
+    </div>
+    En esta imagen se muestra los git clones del repositorio y los visitantes a nuestro Web Application. 
+  + Commit
+      <div align="center">
+      <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/c2.png" alt="Branches.">
+    </div>
+    En esta imagen se evidencia el flujo de la cantidad de commits realizados por día en el repositorio de nuestro Web Applciation. Evidencia que los integrantes han realizado sus commits en base a su desarrollo.
+  + Network
+    <div align="center">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/n2.png" alt="Branches.">
+    </div>
+    Finalmente se presenta el Network de nuestro repositorio, evidenciando el uso de GitFlow y el manejo de ramas con sus respectivas convenciones.
++ Web Service
+  + Contributors
+      <div align="center">
+      <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/c3.png" alt="Branches.">
+    </div>
+  + Traffic
+      <div align="center">
+      <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/t4.png" alt="Branches.">
+    </div>
+    En esta imagen se muestra los git clones del repositorio. 
+  + Network
+    <div align="center">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/n3.png" alt="Branches.">
+    </div>
+    Finalmente se presenta el Network de nuestro repositorio, evidenciando el uso de GitFlow y el manejo de ramas con sus respectivas convenciones.
++ Mobile Application
+  + Traffic
+     <div align="center">
+      <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/t5.png" alt="Branches.">
+    </div>
+    En esta imagen se muestra los git clones del repositorio y los visitantes a nuestro mobile app
++ Embedded System Scale
+  + Traffic
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/t6.png" alt="Branches.">
+    </div>
++ Embedded System Vibration Sensor
+  + Traffic
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/team-collaboration-evidences/t7.png" alt="Branches.">
+    </div>
+  
 #### 7.3. Validation Interviews. 
 
 ##### 7.3.1. Diseño de Entrevistas. 
