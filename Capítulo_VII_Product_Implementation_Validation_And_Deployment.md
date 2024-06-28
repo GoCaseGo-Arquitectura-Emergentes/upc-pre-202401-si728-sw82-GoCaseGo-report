@@ -1281,6 +1281,37 @@ Para este entregable se inicio con la realización de tests para el servicio de 
 </div>
 
 #### 7.2.2.5. Execution Evidence for Sprint Review
+
+##### Mobile App
+Para este Sprint 1, se realizó la versión final del Landing Page que contiene las siguientes vistas:
+
+###### PANTALLA PRINCIPAL
+Esta pantalla notificará los estados de los sensores implementados en los vehículos que podrán ser visualizados y controlados por el conductor de las agencias de tours.
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/execution-evidence/mobileapp.png" alt="Home-MobileApp.">
+</div>
+
+##### Scale Sensor
+Se realizó la actualización de los sensores de las balanzas inteligentes para enviar la información del peso acumulado en la pantalla principal de la palicación web.
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/execution-evidence/scale.png" alt="Scale Sensor">
+</div>
+
+###### Dashboard de visualización del peso acumulado de la balanza
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/execution-evidence/webapp.png" alt="Webapp">
+</div>
+
+##### Vibration Sensor
+Se realizó el desarrollo del proyecto de los sensores de vibración que incluye un acelerómetro para monitorear posibles caídas de maletas en el transcurso del recorrido del tour.
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/execution-evidence/vibration.png" alt="Vibration Sensor">
+</div>
+
 #### 7.2.2.6. Services Documentation Evidence for Sprint Review
 #### 7.2.2.7. Software Deployment Evidence for Sprint Review
 En este sprint se realizó el deployment con Wokwi, se muestra la evidencia del deployment y el uso de data que se está efectuando día a día. Azure, nos brinda una url donde se extraen los endpoints.
