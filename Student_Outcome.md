@@ -70,17 +70,17 @@ del ABET – EAC - Student Outcome 3.
         <br>
         Durante nuestro proyecto hemos aplicado técnicas como el Impact Mapping y el desarrollo de User Stories. Estas metodologías nos han permitido comunicar de manera clara y objetiva los objetivos y avances del proyecto, facilitando su comprensión y participación activa en el desarrollo exitoso del proyecto.
         <br>
-        <strong>TF1</strong>
-        <br>
-        En esta nueva entrega me centré en el diseño del módulo de integración de los vehículos.     
-        <br>
         <strong>TP1</strong>
         <br>
         Elaboré pautas del style guidelines y la arquitectura de información de nuestro proyecto, escritas de manera clara y concisa para que sean comprensibles tanto por el equipo, como por los usuarios.
         <br>
         <strong>TB2</strong>
         <br>
-        En esta entrega desarrollé el desarrollo de la maquetación de Frontend de la aplicación, utilizando como base los mockups diseñados en Figma.     
+        En esta entrega realicé el desarrollo de la maquetación de Frontend de la aplicación, utilizando como base los mockups diseñados en Figma.     
+        <br>
+        <strong>TF1</strong>
+        <br>
+        En esta nueva entrega me centré en el diseño del frontend, la muestra de datos y su correcto funcionamiento en el despliegue.     
         <br>
         <strong>Erikc Anderson Cortez Benites
         <br>TB1</strong>
@@ -155,6 +155,10 @@ del ABET – EAC - Student Outcome 3.
         <strong>TB2</strong>
         <br>
         En esta entrega realicé el desarrollo del Frontend haciendo uso de tecnologías como Angular, como framework; Tailwind CSS, para los estilos; Angular Icons, para los íconos de la aplicación;y Firebase, para el deploy del proyecto.
+        <br>
+        <strong>TF1</strong>
+        <br>
+        En esta entrega realicé el despliegue del Frontend haciendo uso de Firebase como Hosting, desarrollo en vehículos y mejoras en el diseño responsive de la página.
         <br>
         <strong>Erikc Anderson Cortez Benites
         <br>TB1</strong>
