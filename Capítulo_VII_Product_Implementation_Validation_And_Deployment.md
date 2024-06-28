@@ -1269,6 +1269,134 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
 #### 7.2.2.5. Execution Evidence for Sprint Review
 #### 7.2.2.6. Services Documentation Evidence for Sprint Review
 #### 7.2.2.7. Software Deployment Evidence for Sprint Review
+
+<table class="tg"><thead>
+  <tr>
+    <th class="tg-0pky">Repository</th>
+    <th class="tg-0pky">Branch</th>
+    <th class="tg-0pky">Commit Id</th>
+    <th class="tg-0pky">Commit Message</th>
+    <th class="tg-0pky">Commit Message Body</th>
+    <th class="tg-0pky">Committed on (Date)</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky" rowspan="8">https://github.com/GoCaseGo-Arquitectura-Emergentes/EquipaTour-App</td>
+    <td class="tg-0pky">develop</td>
+    <td class="tg-0pky">23ec36db283644346ec1444b3470fe641569c1dd</td>
+    <td class="tg-0pky">fix: sidebar responsive</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">25/06/2024</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">develop</td>
+    <td class="tg-0pky">1a246c61a0360055d0a8dfdfa24c66ca4eb5d8c4</td>
+    <td class="tg-0pky">Fix: Weight Sensor Dynamic Update</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">25/06/2024</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">develop</td>
+    <td class="tg-0pky">b7b707d87ca236aced05d25f6777bdeb63344351</td>
+    <td class="tg-0pky">Feat: change design</td>
+    <td class="tg-0pky"></td>
+    <td class="tg-0pky">25/06/2024</td>
+  </tr>
+  <tr>
+    <td >develop</td>
+    <td >efa3afd8450be952d5d5764e2b32dac9331b4feb</td>
+    <td >Add: base url in vehicle service</td>
+    <td ></td>
+    <td >25/06/2024</td>
+  </tr>
+  <tr>
+    <td >develop</td>
+    <td >7185dda8a5511c57945b3cbae66134375d99b682</td>
+    <td >fix: tour experience Crud Added</td>
+    <td ></td>
+    <td >25/06/2024</td>
+  </tr>
+  <tr>
+    <td >develop</td>
+    <td >e92c7135e314a367993aabef8926abceb500e24a</td>
+    <td >Feat: Model Crud Added</td>
+    <td ></td>
+    <td >25/06/2024</td>
+  </tr>
+  <tr>
+    <td >develop</td>
+    <td >4e3abca15a17e16660567f70c8109640551ddbb3</td>
+    <td >Add: WeightSensor function</td>
+    <td ></td>
+    <td >25/06/2024</td>
+  </tr>
+  <tr>
+    <td >develop</td>
+    <td >787f22aef37ac064361b44f387c6613517f68b5b</td>
+    <td >feat: add crud of tour packages</td>
+    <td ></td>
+    <td >25/06/2024</td>
+  </tr>
+  <tr>
+    <td  rowspan=5">https://github.com/GoCaseGo-Arquitectura-Emergentes/EquipaTour-Back</td>
+    <td >develop</td>
+    <td >6868194b11c8dfd45638e62837f21da54422d7b2</td>
+    <td >feat: Cors Management Added</td>
+    <td ></td>
+    <td >25/06/2024</td>
+  </tr>
+  <tr>
+    <td >develop</td>
+    <td >45875892e6b219c50ce7cc2f1ee47183a03249a9</td>
+    <td >feat: modified configuration messages</td>
+    <td ></td>
+    <td >25/06/2024</td>
+  </tr>
+  <tr>
+    <td >develop</td>
+    <td >3e1320ea20d9bb2b3bbf22702bcccb02cc4ddd7b</td>
+    <td >feat: added vibration sensor domain models</td>
+    <td ></td>
+    <td >25/06/2024</td>
+  </tr>
+  <tr>
+    <td >develop</td>
+    <td >85d01ab7ce8ece5f3eaea4fc7af5cc6be85f6d95</td>
+    <td >Add: WeightSensor function</td>
+    <td ></td>
+    <td >25/06/2024</td>
+  </tr>
+  <tr>
+    <td >develop</td>
+    <td >e92c7135e314a367993aabef8926abceb500e24a</td>
+    <td >fix: tour experience Crud Added</td>
+    <td ></td>
+    <td >25/06/2024</td>
+  </tr>
+  <tr>
+    <td rowspan="2">https://github.com/GoCaseGo-Arquitectura-Emergentes/embedded-system-scale</td>
+    <td >main</td>
+    <td >669fd7aa7af7954159b8b010b349d29acc6746c6</td>
+    <td >feat: modified image url</td>
+    <td ></td>
+    <td >25/06/2024</td>
+  </tr>
+  <tr>
+    <td >main</td>
+    <td >c3b29d4229e4ce5abff312fe13ada7fc0310b7e0</td>
+    <td >feat: modified readme file</td>
+    <td ></td>
+    <td >25/06/2024</td>
+  </tr>
+  <tr>
+    <td >https://github.com/GoCaseGo-Arquitectura-Emergentes/GoCaseGo.MobileApp</td>
+    <td >first commit</td>
+    <td >ed806a3ad9877ba7231b75e13b15f64e0d355206</td>
+    <td >first commit</td>
+    <td ></td>
+    <td >26/06/2024</td>
+  </tr>
+</tbody></table>
 #### 7.2.2.8. Team Collaboration Insights during Sprint
 A continuación, se presenta la colaboración en equipo que se ha registrado en GitHub tanto en la seccion de analíticos como en los commits. Se presentará quiénes son los alumnos que participarón y algunos de los commits que realizaron.
 
