@@ -1313,6 +1313,62 @@ Se realizó el desarrollo del proyecto de los sensores de vibración que incluye
 </div>
 
 #### 7.2.2.6. Services Documentation Evidence for Sprint Review
+A continuación, presentamos la documentación de los servicios disponibles en nuestra API, que soportan las funcionalidades tanto en nuestra interfaz móvil como web. Esta documentación ha sido creada con Swagger. Adjuntamos capturas donde se pueden visualizar todos los endpoints disponibles y las acciones CRUD que se pueden realizar para cada entidad incluida en el alcance de nuestra solución.
+
+#### API:
+
+###### Swagger & Weight Sensor Controller
+En esta sección se puede ver el Swagger y el controller del funcion de Weight Sensors:
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/backend/Swagger & Weight Controller.jpg" />
+
+###### Tour Package Controller
+En esta sección se puede ver el controller del paquete turístico:
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/backend/TourPackageController.png" />
+
+###### Vehicle Controller
+En esta sección se puede ver el controller del funcion de Vehicle:
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/backend/Vehicle Controller.jpg" />
+
+###### IOT Logger Controller
+En esta sección se puede ver el controller del funcion de Vehicle:
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/backend/IOT Logger Controller.jpg" />
+
+###### Identity Access Management (IAM) Controller
+En esta sección se puede ver el controller del funcion de IAM:
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/backend/IAM Controller.jpg" />
+
+###### Vibration Sensors Controller
+En esta sección se puede ver el controller para los sensores de vibración:<br>
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/documentation/vibration.jpg" />
+
+##### Schemas:
+Además, en la parte inferior se pueden ver todos los esquemas necesarios para realizar correctamente las solicitudes y recibir los recursos.
+
+###### Weight Schemas
+En esta sección se puede ver los esquema del Weight Sensor Controller:
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/backend/Schema Weight.jpg" />
+
+###### Vehicle Schemas
+En esta sección se puede ver los esquema del Vehicle Controller:
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/backend/Schema Vehicle.jpg" />
+
+###### IOT Logger Schema
+En esta sección se puede ver el esquema del IOT Logger Controller:
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/backend/Schema IOT Logger.jpg" />
+
+###### Identity Access Management (IAM) Schemas
+En esta sección se puede ver los esquema del IAM Controller:
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/backend/Schema AIM.jpg" />
+
+###### Tour Package Schemas
+En esta sección se puede ver los esquema del Tour Package Controller:
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/backend/SchemaTourPackage.png" />
+
+###### Vibration Sensors Schemas
+En esta sección se puede ver los esquema del Vibration Sensors Controller:
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/documentation/vibrationSchema.jpg" />
+
+
 #### 7.2.2.7. Software Deployment Evidence for Sprint Review
 En este sprint se realizó el deployment con Wokwi, se muestra la evidencia del deployment y el uso de data que se está efectuando día a día. Azure, nos brinda una url donde se extraen los endpoints.
 
