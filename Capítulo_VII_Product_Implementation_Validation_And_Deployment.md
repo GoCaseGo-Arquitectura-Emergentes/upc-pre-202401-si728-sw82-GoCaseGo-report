@@ -1269,6 +1269,20 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
 #### 7.2.2.5. Execution Evidence for Sprint Review
 #### 7.2.2.6. Services Documentation Evidence for Sprint Review
 #### 7.2.2.7. Software Deployment Evidence for Sprint Review
+En este sprint se realizó el deployment con Wokwi, se muestra la evidencia del deployment y el uso de data que se está efectuando día a día. Azure, nos brinda una url donde se extraen los endpoints.
+
+<strong>Evidence Deployment Embedded Vibration Sensor</strong>
+
+<img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/sensors/vibration-sensor.png" />
+
+Url: https://wokwi.com/projects/400724658588787713
+
+<strong>Evidence Deployment Embedded Scale Project</strong>
+
+  <img src="https://raw.githubusercontent.com/GoCaseGo-Arquitectura-Emergentes/upc-pre-202401-si728-sw82-GoCaseGo-report/feature/chapter-7/Resources/sensors/scale.png" alt="Project Screenshot" height="350">
+
+  Url:https://wokwi.com/projects/399864095941297153
+
 #### 7.2.2.8. Team Collaboration Insights during Sprint
 A continuación, se presenta la colaboración en equipo que se ha registrado en GitHub tanto en la seccion de analíticos como en los commits. Se presentará quiénes son los alumnos que participarón y algunos de los commits que realizaron.
 
