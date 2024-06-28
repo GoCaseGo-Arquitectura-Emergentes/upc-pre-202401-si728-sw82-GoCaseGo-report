@@ -1265,10 +1265,10 @@ A continuación, se presenta la colaboración en equipo que se ha registrado en 
 #### 7.2.2.1. Sprint Planning 2
 #### 7.2.2.2. Sprint Backlog 2
 #### 7.2.2.3. Development Evidence for Sprint Review
-#### 7.2.2.5. Testing Suite Evidence for Sprint Review
-#### 7.2.2.6. Execution Evidence for Sprint Review
-#### 7.2.2.7. Services Documentation Evidence for Sprint Review
-#### 7.2.2.8. Software Deployment Evidence for Sprint Review
+#### 7.2.2.4. Testing Suite Evidence for Sprint Review
+#### 7.2.2.5. Execution Evidence for Sprint Review
+#### 7.2.2.6. Services Documentation Evidence for Sprint Review
+#### 7.2.2.7. Software Deployment Evidence for Sprint Review
 #### 7.2.2.8. Team Collaboration Insights during Sprint
 A continuación, se presenta la colaboración en equipo que se ha registrado en GitHub tanto en la seccion de analíticos como en los commits. Se presentará quiénes son los alumnos que participarón y algunos de los commits que realizaron.
 
